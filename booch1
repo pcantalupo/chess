@@ -1,29 +1,26 @@
-1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7
-5. Bf4 O-O 6. e3 Nc6 7. Bd3 Nb4 8. Be2 dxc4
-9. Bxc4 c5 10. O-O cxd4 11. Nxd4 Bd7 12. Qe2 Rc8
-13. Rfd1 Qb6 14. a3 Nbd5 15. Nxd5 Nxd5 16. Bg3 Ba4
-17. b3 Bd7 18. Nf3 Nc3 19. Qb2 Nxd1 20. Rxd1 Rfd8
-21. Be5 f6 22. Bd4 Bc5
+[Event "Import"]
+[Site "https://lichess.org/SITUF5qH"]
+[Date "2017.03.06"]
+[White "Booch"]
+[Black "Lupey"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "132"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B18"]
+[Opening "Caro-Kann Defense: Classical Variation"]
+[Termination "Unterminated"]
+[Annotator "lichess.org"]
 
-
-1. d4 c6
-2. e4 d5
-3. Nc3 dxe4
-4. Nxe4 Bf5
-5. Ng3 Bg6
-6. Nf3 Nd7
-7. Ne5 Nxe5 
-8. dxe5 Qa5+
-9. c3 Qxe5+ 
-10. Be2 Qc7 
-11. O-O Nf6 
-12. Qb3 e6
-13. Rd1 Be7 
-14. Bg5 a5 
-15. c4 O-O 16. Qe3 Rad8
-17. Rxd8 Rxd8 18. Bf4 Bd6 19. Bxd6 Rxd6 20. c5 Rd7
-21. b3 Nd5 22. Qd2 Nb4 23. Qg5 Rd5 24. Qc1 Nd3
-25. Qe3 Nxc5 26. Bf3 Re5 27. Qc3 Ne4 28. Bxe4 Bxe4
-29. Re1 f5 30. f3 Qb6+ 31. Kf1 Rc5 32. Qe3 Bd5
-33. Nxf5 e5 34. Qxe5 Bc4+ 35. bxc4 Rxe5 36. Rxe5 Qb1+
-37. Kf2 Qb2 38. Re2 Qb6 39. Ne3 Qc7 40. g3 b5
+1. d4 c6 2. e4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 { B18 Caro-Kann Defense: Classical Variation }
+5. Ng3 Bg6 6. Nf3 Nd7 7. Ne5 Nxe5 8. dxe5 Qa5+ 9. c3 Qxe5+ 10. Be2 Qc7 11. O-O Nf6 
+12. Qb3 e6 13. Rd1 Be7 14. Bg5 a5 15. c4 O-O 16. Qe3 Rad8 17. Rxd8 Rxd8 18. Bf4 Bd6 
+19. Bxd6 Rxd6 20. c5 Rd7 21. b3 Nd5 22. Qd2 Nb4 23. Qg5 Rd5 24. Qc1 Nd3 25. Qe3 Nxc5 
+26. Bf3 Re5 27. Qc3 Ne4 28. Bxe4 Bxe4 29. Re1 f5 30. f3 Qb6+ 31. Kf1 Rc5 32. Qe3 Bd5 
+33. Nxf5 e5 34. Qxe5 Bc4+ 35. bxc4 Rxe5 36. Rxe5 Qb1+ 37. Kf2 Qb2+ 38. Re2 Qb6+ 39. Ne3 Qc7 
+40. g3 b5 41. cxb5 cxb5 42. Rc2 Qd7 43. Ke2 h6 44. Rd2 Qe7 45. Rd5 Qb7 46. Rd8+ Kh7 
+47. Nd5 b4 48. Ne3 Qb5+ 49. Kf2 Qe5 50. Rd2 h5 51. Rd5 Qb2+ 52. Ke1 Qxh2 53. Rxa5 Qxg3+ 
+54. Ke2 h4 55. Rh5+ Kg6 56. Rh8 Qh2+ 57. Kd3 Qxa2 58. Rxh4 Qb1+ 59. Ke2 b3 60. Nc4 Qc2+ 
+61. Nd2 b2 62. Rb4 Kf5 63. Rb5+ Ke6 64. Rb6+ Kd5 65. Rb5+ Kc6 66. Rb8 g5 67. Rc8 Kd7 68. Rxc2 b1=Q *
