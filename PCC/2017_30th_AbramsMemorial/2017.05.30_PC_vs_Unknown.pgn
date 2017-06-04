@@ -1,0 +1,33 @@
+[Event "30th Richard Abrams Memorial"]
+[Site "Pittsburgh Chess Club, Pittsburgh, PA"]
+[Date "2017.05.30"]
+[Round "3"]
+[White "Cantalupo, Paul"]
+[Black "????"]
+[Result "1-0"]
+[WhiteElo "unr"]
+[BlackElo "450"]
+[TimeControl "7200"]
+1. d4 d5 2. c4 b6 3. Nf3 Nf6 4. Nc3 Be6 5. cxd5 Nxd5 6. e4 Nf6
+7. Be2 Nc6 8. Bb5 Qd6 9. e5 Qd7
+10. exf6
+( { I had a much stronger attack b/c how does Black double defend Nc6 }
+10. Qa4 Qd8 11. Bxc6+ Bd7 12. exf6 exf6 13. O-O Be7 14. Nd5 Bxc6 15. Qxc6+ Kf8)
+exf6
+11. O-O a6
+12. Bxc6 { I thought about Qa4, which is a top engine move,
+but couldn't visualize how to retreat Queen after taking Ra8. }
+Qxc6
+13. Be3
+( 13. d5! { but for some reason I worried about Black queenside
+castle with Rook bearing down on Queen } )
+Bc4 14. Re1 O-O-O 15. Qc2 Bb4 16. a3 Bd6 17. Qe4 Qxe4 18. Nxe4 Be7 19. Nc3 g5
+20. Bxg5 Rhe8 21. Bh4 Be6 22. Ne4 f5 23. Bxe7 Rxe7 24. Neg5 Rh8
+25. Nxe6?
+( 25. d5! { bishop is pinned to unguarded rook. I totally didn't see this })
+fxe6 26. Ne5 Rg8 27. Rac1 h5 28. Re3 Rd8 29. Nc6 Ree8 30. Nxd8 Kxd8
+31. Rce1 b5 32. Rxe6 Rxe6 33. Rxe6 a5 34. Rf6 f4 35. Rxf4 c6
+36. Rf7 a4 37. f4 Ke8 38. Rc7 Kd8 39. Rxc6 Kd7 40. Rc5 Kd6
+41. Re5 Kc6 42. f5 Kb6 43. f6 Ka5 44. f7 Kb6 45. f8=Q Ka5
+46. Qd8+ Ka6 47. Re6+ Kb7 48. Qd7+ Ka8 49. Re8#
+
