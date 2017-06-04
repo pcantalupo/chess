@@ -5,7 +5,7 @@
 [Result "0-1"]
 [WhiteElo "????"]
 [BlackElo "1255"]
-[TimeControl "none"]
+[Event "friendly game"]
 1. Nf3 c6 2. g3 d5 3. Bg2 Nf6 4. O-O e6 5. c4 Nbd7
 6. cxd5 cxd5 {I wanted to keep pawn structure balanced and take toward center.}
 7. d3 Be7 8. Nc3 O-O 9. Bg5 {White told me he wanted to control d5 and d4.}
