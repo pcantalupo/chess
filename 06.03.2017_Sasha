@@ -1,0 +1,28 @@
+[Site "Pittsburgh Chess Club, Pittsburgh, PA"]
+[Date "2017.06.03"]
+[White "Sasha"]
+[Black "Cantalupo, P"]
+[Result "0-1"]
+[WhiteElo "????"]
+[BlackElo "1255"]
+[TimeControl "none"]
+1. Nf3 c6 2. g3 d5 3. Bg2 Nf6 4. O-O e6 5. c4 Nbd7
+6. cxd5 cxd5 {I wanted to keep pawn structure balanced and take toward center.}
+7. d3 Be7 8. Nc3 O-O 9. Bg5 {White told me he wanted to control d5 and d4.}
+9... Ng4 {Black was trying to exchange dark bishop and control e5}
+10. Bf4 e5! {Black surprisingly found the top move. Black was worried about opening up the center.}
+11. Bd2 Ngf6 {White thought this might be wasted tempo but it is top engine move.}
+12. Rc1 h6 13. a3 a6 {I worried about weakening dark squares but felt I had control with Q and N. Top engine move.}
+14. Nh4 Nb6 15. a4 Bb4 16. Qb3 a5 17. Nf3 Be6 {Indirectly defends e5 b/c of tactic on queen} 18. Qd1
+(18. Nxe5 d4! {The point of 17... Be6})
+18... e4 19. Ne1? { Better was moving forward with Nd4 }
+19... exd3 20. Nxd3 {White thought exd3 might be better but Nxd3 was top engine move.}
+20... Bd6 21. Nb5 Nc4 22. Nxd6 Nxd6
+(22... Qxd6 {this was OK too but I worried about White next move} 23. Bf4 Qb6)
+23. Nc5 Nfe4 24. Nxe6 fxe6 25. Bf4 Qb6
+(25... Rxf4!? {I thought of this sac but engine easily finds refutation.} 26. gxf4 Qf6 27. f3! {Knight has no where to go!})
+26. Bh3 Rae8 27. Be3 Qxb2 28. Bd4 Qd2 29. Qxd2 { now white is worse -0.3}
+({better was disrupting K position} 29. f3 Qxd1 30. Rfxd1)
+29... Nxd2 30. Rfd1 N6c4 ({best line: remove dark bishop!} 30... Nb3)
+31. Rxd2? {White said my knights were too strong but engine says position is even}
+31... Nxd2 32. Rc7 Rf7 {White resigned}
