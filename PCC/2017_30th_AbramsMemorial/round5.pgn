@@ -1,0 +1,26 @@
+
+Jeff ~1950
+Round 5
+AbramsMemorial
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Be7 8. a5 Nbd7
+9. O-O O-O 10. h3 h6 11. Re1 Ne4 12. Qb3 Qc7 13. Nxe4 Bxe4 14. Nd2 Nf6
+15. Bxe6 Bd5?
+  (
+  15... Bxg2! {Even though Black is down a pawn, engine shows it as even.
+  Probably due to naked white king and poor development by white with black pieces flowing to king side}
+  16. Bxf7+
+    (16. Kxg2 fxe6 17. Qxe6+ Kh8)
+  16... Rxf7 17. Kxg2
+  )
+  (
+  15... fxe6?? {leads to loss of two pawns.} 16. Qxe6+ Kh8 17. Nxe4 Nxe4 18. Qxe4
+  )
+16. Bxd5 cxd5 17. Nf3 Rac8 18. Bd2 Bd6 19. Bc3 b6 20. Ne5 Rfe8 21. axb6 axb6
+22. Ra6 Rb8 23. Rea1 Rb7 24. Qb5 Rd8 25. Ra8 Rxa8 26. Rxa8+ Kh7 27. f4 Ra7
+28. Rxa7 Qxa7 29. Qc6 Qc7 30. Qxc7 Bxc7 31. Nxf7 Kg6 32. Ne5+ Kf5 33. g4+ Ke6
+34. f5+ Ke7 35. Bb4+ Bd6 36. Bxd6+ Kxd6 37. h4 Ne4 38. b4 Nc3 39. Kf2 Na2
+40. g5 hxg5 41. hxg5 Nxb4?? 42. f6 gxf6 43. g6 Ke7 44. g7 fxe5 45. g8=Q exd4
+46. exd4 Kd7 47. Qf7+ Kc6 48. Qe8+ Kb7 49. Qe7+
+
+
