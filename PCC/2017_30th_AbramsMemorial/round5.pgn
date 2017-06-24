@@ -1,26 +1,36 @@
-
-Jeff ~1950
-Round 5
-AbramsMemorial
-
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Be7 8. a5 Nbd7
-9. O-O O-O 10. h3 h6 11. Re1 Ne4 12. Qb3 Qc7 13. Nxe4 Bxe4 14. Nd2 Nf6
+[Event "30th Richard Abrams Memorial"]
+[Site "Pittsburgh Chess Club, Pittsburgh, PA"]
+[Date "2017.06.20"]
+[Round "5"]
+[White "Schreiber, Jeff"]
+[Black "Cantalupo, P."]
+[Result "1-0"]
+[WhiteElo "~1900"]
+[BlackElo "Unr"]
+[TimeControl "7200"]
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Be7 8. a5
+{ White wondered if this was a novelty. It is a novelty based on games in 365chess.com }
+Nbd7
+9. O-O O-O 10. h3 h6 11. Re1 Ne4
+(11... Bb4 {I didn't feel comfortable with this line.} 12. Qb3 Bxa5 13. Qxb7 Qb6 )
+12. Qb3 Qc7 13. Nxe4 Bxe4 14. Nd2 Nf6
 15. Bxe6 Bd5?
-  (
-  15... Bxg2! {Even though Black is down a pawn, engine shows it as even.
+  (15... Bxg2! {Even though Black is down a pawn, engine shows it as even.
   Probably due to naked white king and poor development by white with black pieces flowing to king side}
   16. Bxf7+
     (16. Kxg2 fxe6 17. Qxe6+ Kh8)
-  16... Rxf7 17. Kxg2
-  )
-  (
-  15... fxe6?? {leads to loss of two pawns.} 16. Qxe6+ Kh8 17. Nxe4 Nxe4 18. Qxe4
-  )
-16. Bxd5 cxd5 17. Nf3 Rac8 18. Bd2 Bd6 19. Bc3 b6 20. Ne5 Rfe8 21. axb6 axb6
-22. Ra6 Rb8 23. Rea1 Rb7 24. Qb5 Rd8 25. Ra8 Rxa8 26. Rxa8+ Kh7 27. f4 Ra7
-28. Rxa7 Qxa7 29. Qc6 Qc7 30. Qxc7 Bxc7 31. Nxf7 Kg6 32. Ne5+ Kf5 33. g4+ Ke6
+  16... Rxf7 17. Kxg2)
+
+  (15... fxe6?? {leads to loss of two pawns.} 16. Qxe6+ Kh8 17. Nxe4 Nxe4 18. Qxe4)
+16. Bxd5 cxd5 {16... Nxd5 is 0.6 pawns worse} 17. Nf3 Rac8 18. Bd2 Bd6 19. Bc3 b6 20. Ne5 Rfe8 21. axb6 axb6
+22. Ra6 Rb8? {Engine move was to block check with rook; I didn't see this and don't know why}
+23. Rea1 Rb7? {Gives up c6 square to White queen!}
+24. Qb5 Rd8 25. Ra8 Rxa8 26. Rxa8+ Kh7 27. f4 Ra7
+28. Rxa7 Qxa7 29. Qc6 Qc7? {Qe7 or Bf8 was better} 30. Qxc7 Bxc7 31. Nxf7 Kg6 32. Ne5+ Kf5 33. g4+ Ke6
 34. f5+ Ke7 35. Bb4+ Bd6 36. Bxd6+ Kxd6 37. h4 Ne4 38. b4 Nc3 39. Kf2 Na2
-40. g5 hxg5 41. hxg5 Nxb4?? 42. f6 gxf6 43. g6 Ke7 44. g7 fxe5 45. g8=Q exd4
+40. g5 hxg5 41. hxg5 Nxb4?? {lost 3 points; I was trying to make play on queen side but White pawns/knight are too strong!}
+42. f6! {Queening is unavoidable!} gxf6 {thinking I was OK since did not see next move}
+43. g6 Ke7 44. g7 fxe5 45. g8=Q exd4
 46. exd4 Kd7 47. Qf7+ Kc6 48. Qe8+ Kb7 49. Qe7+
 
 
