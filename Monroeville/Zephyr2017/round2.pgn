@@ -1,0 +1,25 @@
+[Event "MCC June Zephyr"]
+[Site "Monroeville, PA"]
+[Date "2017.06.24"]
+[Round "2"]
+[White "Me"]
+[Black "Unico, Mark"]
+[Result "1/2-1/2"]
+[WhiteElo "Unr"]
+[BlackElo "1437"]
+[TimeControl "2700"]
+1. d4 d5 2. Bf4 Nf6 3. Nf3 Bf5 4. e3 e6 5. c3 Bd6 6. Bg3 O-O 7. Nh4 Bg6 8. Nxg6 fxg6
+9. Nd2 c5 10. Bd3 c4 11. Nxc4 {I wanted to mix it up and pressure Black into making poor moves}
+dxc4 12. Bxc4 Nd5 13. Qb3 Bxg3 14. hxg3 b6? { ...Nc6 holds it together }
+15. e4 Nc7 16. Bxe6+ Nxe6 17. Qxe6+ Kh8? 18. Qh3? { I did not see Qxg6! was available! Tactics! }
+h6 19. Qg4 Qf6 20. O-O Nc6 21. Qe2 Rad8 22. Rad1 Rfe8 23. e5
+{23. f4 is best to prep for eventual e5 so that Knight cannot sacrifice on e5.} Qe6 24. a3 Nxe5
+25. dxe5 Rxd1 26. Rxd1 Qxe5 27. Qxe5 Rxe5 28. Kf1 a5 29. f4
+  (29. Rd6! { attacking two undefended pawns })
+Rc5 30. Ke2 b5
+31. Rd4 Kg8 32. Kd3 Kf7 33. b3 Ke6 34. c4 b4 35. axb4 axb4 36. Ke4 Ra5
+37. Rd2 Ra3 38. c5? { drawish now }
+  (38. Rd3! { I was blind to this simple defense } Ra2 39. Kd4! {ignoring the g2 pawn for better idea of grabbing b4 pawn})
+Rxb3 39. Rc2 Rc3 40. Rb2 Rxc5 41. Rxb4 { agreed drawn }
+
+
