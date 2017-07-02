@@ -1,0 +1,39 @@
+[Event "MCC June Zephyr"]
+[Site "Monroeville, PA"]
+[Date "2017.06.24"]
+[Round "3"]
+[White "Sutton, Michael"]
+[Black "Me"]
+[Result "0-1"]
+[WhiteElo "Unr"]
+[BlackElo "Unr"]
+[TimeControl "2700"]
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. c3
+c5 {Maybe wait to do this until White bishop moves first. Therefore, White made two moves instead of one to give check.}
+6. Bb5+ Nc6 7. O-O Qb6!? 8. Na3!? {looks awkward for White but was accurate} Ne7? {Cramped and couldn't find a move}
+  (8... cxd4 {best to resolve tension in center} 9. Nxd4 Bxa3 10. Qa4 Ne7 11. Bxc6+ bxc6
+  12. Qxa3 h6 13. Be3 Qc7 {+0.4 white})
+9. dxc5 Qc7 10. Bf4 Ng6 11. Bg3? Bxc5 12. Nc2 a6 13. Bxc6+ {Why is it a good move to give up bishop pair here?}
+bxc6 14. Ncd4 Bg4 15. Qa4 {Black did not see indirect attack on Black bishop here}
+Ne7?! {Black thought there were no tactics on c6 but Black can pick up a pawn!}
+  (15... Bxf3 {Thought about this but feared discovered checks on White move 17. However, did not
+  see was that the discovered checks cannot hurt Black.} 16. Nxc6 Be4 17. Nd4+ Qd7)
+16. Nxe6??
+  (16. Nxc6! {best line; picks up a pawn. Tactic on black bishop} Qxc6 17. Qxg4 O-O 18. Rfd1 Nf5)
+Bxe6 17. Ng5 O-O 18. Nxe6 fxe6 19. Rfe1 Nf5 20. Qg4 Nxg3 21. Qxg3 Bxf2+ 22. Qxf2 Rxf2
+23. Kxf2 Rf8+ 24. Kg1 Qb6+ 25. Kh1 Qxb2 26. Rab1 Qxc3 27. Rec1 Qxe5 28. Rxc6 Qe4 29. Rbc1 Rf2
+30. Rc8+ Kf7 31. R1c7+ Kg6 32. Rc1 Qxg2#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
