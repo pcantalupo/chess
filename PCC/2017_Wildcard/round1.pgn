@@ -1,0 +1,20 @@
+[Event "Wildcard Tourney"]
+[Site "Pittsburgh Chess Club, Pittsburgh, PA"]
+[Date "2017.07.18"]
+[Round "1"]
+[White "Me"]
+[Black "Malik"]
+[Result "0-1"]
+[WhiteElo "1511"]
+[BlackElo "~2150"]
+[TimeControl "2hr 5delay"]
+1. d4 d5 2. Nf3 Nf6 3. Bf4 g6 4. e3 Bg7 5. c4 c6 6. Bd3 O-O 7. O-O Nbd7
+8. Nc3?! {h3 was better for bishop flight square} dxc4 9. Bxc4 Nh5 10. Bg3 Nxg3
+11. hxg3 Nb6 12. Be2 Bg4 13. Rc1 Rc8 14. Qb3 e6 15. Ne4 Qe7 16. Rc2 Rfd8 17. Rfc1 Bxf3
+18. Bxf3 e5 19. dxe5 Bxe5 20. Nc5 Rb8 21. a4 Nd5 22. Nd3 Bg7
+23. Bxd5?! {Felt like I had to remove that strong knight but I lost 0.5 pts.}
+Rxd5 24. Rd2?! Rbd8 25. Rcd1 h5 26. Qc2 Qd6 27. b3 g5 28. Kf1 h4 29. gxh4 gxh4
+30. Qc4 b5 31. axb5 cxb5 32. Qc2 Qg6 33. Ke2 Qxg2 34. Nf4 Rxd2+ 35. Rxd2 Rxd2+ 36. Qxd2 Qg5
+37. Qd5?? {Hmmm, and I thought a queen trade was good for White in activating the knight to go after the A/B pawns}
+Be5 38. Nh3 Qg4+ 39. Qf3?? Qxf3+ 40. Kxf3 a5 41. Ng1 a4 42. bxa4 bxa4 43. Ne2 Bb2
+44. Nf4 a3 45. Nd3 a2 46. Nxb2 a1=Q 47. Nc4 Qg1 48. Ne5 h3 49. Ng4 Qxg4+ 50. Kxg4 h2 {white resigns}
