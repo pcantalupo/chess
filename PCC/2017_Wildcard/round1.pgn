@@ -9,10 +9,22 @@
 [BlackElo "~2150"]
 [TimeControl "2hr 5delay"]
 1. d4 d5 2. Nf3 Nf6 3. Bf4 g6 4. e3 Bg7 5. c4 c6 6. Bd3 O-O 7. O-O Nbd7
-8. Nc3?! {h3 was better for bishop flight square} dxc4 9. Bxc4 Nh5 10. Bg3 Nxg3
-11. hxg3 Nb6 12. Be2 Bg4 13. Rc1 Rc8 14. Qb3 e6 15. Ne4 Qe7 16. Rc2 Rfd8 17. Rfc1 Bxf3
+8. Nc3?! {h3 was better for bishop flight square}
+  (8. cxd5 {Gabriel said to think about this move since Black played Nbd7
+            and would rather have knight on c6.}
+  Nxd5 9. Bg3 N7f6 10. Nc3)
+dxc4 9. Bxc4 Nh5 10. Bg3
+  (10. Bg5 {If my king side pawns are going to get doubled, then at least force a weakness in his king side.}
+  h6 11. Bh4 g5 12. Bg3 Nxg3 13. hxg3)
+Nxg3
+11. hxg3 Nb6 12. Be2 {better than b3, d3 since I don't have an h-pawn to kick Black bishop from Bg4} Bg4
+13. Rc1
+  (13. Nd2 Bxe2 14. Qxe2 e5 15. Nf3 exd4 16. Nxd4 Bxd4 17. Rfd1! {don't need to capture bishop with pawn since Qxd4}
+    (17. exd4 Qxd4)
+  c5 18. exd4 cxd4 19. Nb5 {Black cannot hold e-pawn} Re8 20. Qf3 Qe7 21. Nxd4)
+Rc8 14. Qb3 e6 15. Ne4 Qe7 16. Rc2 Rfd8 17. Rfc1 Bxf3
 18. Bxf3 e5 19. dxe5 Bxe5 20. Nc5 Rb8 21. a4 Nd5 22. Nd3 Bg7
-23. Bxd5?! {Felt like I had to remove that strong knight but I lost 0.5 pts.}
+23. Bxd5?! {Felt like I had to remove that strong knight but I lost 0.5 pts. Gabriel said knight is not strong b/c White can take it anytime and where is it going to go? He said to leave tension there b/c I invited his rook forward after capture.}
 Rxd5 24. Rd2?! Rbd8 25. Rcd1 h5 26. Qc2 Qd6 27. b3 g5 28. Kf1 h4 29. gxh4 gxh4
 30. Qc4 b5 31. axb5 cxb5 32. Qc2 Qg6 33. Ke2 Qxg2 34. Nf4 Rxd2+ 35. Rxd2 Rxd2+ 36. Qxd2 Qg5
 37. Qd5?? {Hmmm, and I thought a queen trade was good for White in activating the knight to go after the A/B pawns}
