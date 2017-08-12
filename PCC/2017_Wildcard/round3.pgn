@@ -8,11 +8,20 @@
 [WhiteElo "1511"]
 [BlackElo "~2200"]
 [TimeControl "2hr 5delay"]
-1. d4 Nf6 2. Bf4 d5 3. e3 c5 4. c3 cxd4 5. exd4 Nc6 6. Nf3 Bf5 7. Bd3 Bg6 8. O-O e6
-9. Re1 Be7 10. Ne5 Nxe5 11. Bxe5 O-O 12. Bxg6 hxg6 13. Nd2 b5 14. a4 b4 15. Qb3 a5
-16. cxb4 Bxb4 17. Red1 Rc8 18. Bf4 Qb6 19. Nf3 Rc4 20. Be3 Rb8 21. Ne5 Rcc8
-22. Rac1 Qa6 23. Qd3 Qb7 24. Bd2 Rxc1 25. Bxc1 Bd6 26. Nf3 Qb4 27. Qc2 Ne4 28. Ne1 Qb7
-29. Nd3 Rc8 30. Qb1 Qb3 31. Be3 Qxa4 32. Rc1 Rc4 33. f3 Nf6 34. Nc5 Rxc1+ 35. Qxc1 Qb5
-36. Qc3 Qb8 37. Na4 Bxh2+ 38. Kh1 Bg3 39. Qc2 Qb5 40. Nc3 Qf1+ 41. Bg1 Nh5
+1. d4 Nf6 2. Bf4 d5 3. e3 c5 4. c3 cxd4 5. exd4 Nc6 6. Nf3 Bf5 7. Bd3 {opening database move is Nbd2, then Qb3, then Nh4}
+Bg6 8. O-O e6
+9. Re1 Be7 10. Ne5 Nxe5 11. Bxe5 O-O 12. Bxg6 hxg6 13. Nd2 {need to play a4 to block minority attack}
+b5 14. a4 b4 15. Qb3 a5
+16. cxb4 {c4 is better but I didn't like opening up the center}
+Bxb4 17. Red1 Rc8 18. Bf4 Qb6 19. Nf3 Rc4 20. Be3 Rb8 21. Ne5 Rcc8
+22. Rac1 Qa6 23. Qd3 Qb7 24. Bd2 Rxc1 25. Bxc1
+  {I worried about Rxc1 since Black could take b2 pawn and didn't like the back rank mate issues.
+  But White has active rook and knight}
+Bd6 26. Nf3 Qb4 27. Qc2 Ne4 28. Ne1 Qb7
+29. Nd3 Rc8 30. Qb1?? { always look for Knight forks even if you *think* a square is defended! }
+Qb3 31. Be3 Qxa4 32. Rc1 Rc4 33. f3 Nf6 34. Nc5 Rxc1+ 35. Qxc1 Qb5
+36. Qc3 Qb8 37. Na4? { I was pressed for time and didn't even realize h2 was under attack }
+Bxh2+ 38. Kh1 Bg3 39. Qc2 Qb5 40. Nc3? { again time pressure; I needed to play Kg1 to block Black queen from entering }
+Qf1+ 41. Bg1 Nh5
 42. Qe2 Qc1 43. Qd1 Qh6 44. Bh2 Nf4
 
