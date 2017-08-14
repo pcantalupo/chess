@@ -1,0 +1,30 @@
+[Event "Allegheny Chess Congress"]
+[Site "Pittsburgh Chess Club, Pittsburgh, PA"]
+[Date "2017.08.12"]
+[Round "1"]
+[White "Finn"]
+[Black "Me"]
+[Result "1-0"]
+[WhiteElo "1748"]
+[BlackElo "Me"]
+[TimeControl "30min/d5"]
+1. d4 d5 2. c4 c6 3. e3 Nf6 4. Nc3 e6 5. Nf3 Nbd7 6. Qc2 Be7 7. cxd5 exd5 8. Bd3 O-O
+9. O-O Re8 10. Ne5 Nf8
+  (Nxe5 {it was difficult to see how this could work in the game bc after
+              12. f4 where is knight going to go? and what about Bxh7+?}
+  11. dxe5 Ng4
+  12. f4
+    (12. Bxh7+ Kh8 13. f4 g6 {sharp line that completely opens up my king side}
+      (Bc5 {I never saw this double attack on e3})
+    14. Bxg6 fxg6 15. Qxg6 Rg8 16. Qh5+ Kg7)
+  g6 {tough to see this move and the ensuing line!}
+  13. h3 Nh6 14. g4 Bh4 15. g5 Nf5
+  )
+11. b3 Bd6 12. f4 c5 { was hard to find a move here}
+  (Ng6 13. f5? {I didn't play Ng6 bc I thought f5 was strong. I didn't see that I could take Ne5!} Nxe5)
+13. Ba3 b6
+  (c4 {tactic where if white does not play accurately, White is losing - as in this line:} 14. Bxd6? cxd3 15. Qxd3 Qxd6)
+14. Nb5 Ba6 15. dxc5 Bxe5 16. fxe5 Rxe5 17. Rfe1 Ne4 18. Bb2 Re7 19. Bxe4 Rxe4
+20. Nd6 Re7? 21. Qc3 Ne6 22. Nf5 Rc7 23. Nxg7 Qg5?? {I moved immediately. I need to stop and visualize the line bc now White queen dominates back rank!}
+24. Nxe6 fxe6 25. Qh8+ Kf7 26. Qxh7+ Ke8 27. Qxc7 Rc8 28. Qxa7 Bd3 29. Qxb6 Be4 30. Qxe6+ Kd8 31. Bf6+
+
