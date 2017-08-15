@@ -1,0 +1,20 @@
+[Event "Allegheny Chess Congress"]
+[Site "Pittsburgh Chess Club, Pittsburgh, PA"]
+[Date "2017.08.12"]
+[Round "3"]
+[White "Me"]
+[Black "Dennis Reilly"]
+[Result "0-1"]
+[WhiteElo "1552"]
+[BlackElo "1462"]
+[TimeControl "30min/d5"]
+1. d4 d5 2. Bf4 Nf6 3. Nf3 e6 4. e3 Nbd7 5. Bd3 c5 6. c3 g6 7. Nbd2 Bg7 8. O-O O-O
+9. Re1 a5 10. e4
+  ( 10. Bd6! {take advantage of the weakened squares and a tempo on the rook} Re8 11. dxc5 )
+cxd4 11. e5 Nh5 12. Bg5 Qc7 13. cxd4 f6 14. exf6 Bxf6 15. Rxe6?! { Don't be greedy here; that pawn isn't going anywhere. You can plant a knight on e5 too. } Bxg5
+16. Nxg5 Qf4 17. Ndf3 Ndf6 18. Qc2 Ng7
+  (18... Bxe6 19. Nxe6 Qg4 20. Nxf8 Rxf8)
+19. Nh3? (19. g3! { push queen away! } ) Qh6 20. Re5? Bxh3 21. gxh3 Qxh3 22. Be2? ( 22. Ng5 {much better} )
+Ng4 23. Bf1 Qxf3 24. Bg2 Qf4 25. h3 Nxe5 26. dxe5 Qxe5 27. Rd1 Rad8 28. Qb3 Qe2
+29. Rf1 Rf5 30. Qb6 Rdf8 31. f3 Rf4 32. Qxb7 Rd4
+{ we played several more moves but could not record them due to low time control}
