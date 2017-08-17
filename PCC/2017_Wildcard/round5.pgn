@@ -1,0 +1,26 @@
+[Event "Wildcard Tourney"]
+[Site "Pittsburgh Chess Club, Pittsburgh, PA"]
+[Date "2017.08.15"]
+[Round "5"]
+[White "William Hoppman"]
+[Black "Me"]
+[Result "0-1"]
+[WhiteElo "1187"]
+[BlackElo "1511"]
+[TimeControl "2hr 5delay"]
+1. c4 c6 2. Nc3 d5 3. cxd5 cxd5 4. d4 Nf6 5. g3 Nc6 6. Nf3 e6 7. Bg2 Bd6 8. O-O O-O
+9. Re1 a6 10. a3 b5 11. b4 Bb7 12. Bg5 h6 { I played this too quickly without thinking about e2-e4. Best is to break the pin with Be7 }
+13. Bxf6 Qxf6 14. Qd3?! (14. e4 dxe4 15. Nxe4 Qd8 16. Nc5 Bxc5 17. dxc5 Qc7) Qe7 15. e4 dxe4
+16. Nxe4 Rfd8 17. Nxd6
+  (17. Nc5? { seems better but it is not because of tactics on White queen } Bxc5 18. bxc5 Qxc5! )
+Rxd6 18. Qc3 Rc8 19. Qb2 Qd7 20. Rad1 Qc7 21. Ne5 Nxe5
+22. Rxe5 Bxg2 23. Kxg2 Qb7+ 24. Kg1 Rc4 25. Rc5 Rc6?! { I worried about White taking on
+Rc5 and my pawn being isolated. But it is a strong passed pawn especially with Black Qf3}
+(Qf3! {attacking White rook and pressure on a3})
+26. Rxc6 Qxc6 27. Qa1 Qf3
+28. Rd2 Qc6 29. Rd1 Rc2 30. Re1 Qf3 31. Rf1 Qe2 32. Qd1 Qe4 33. Re1 Qc6 34. Rf1 Rc3
+35. Qa1 Qf3 36. Qd1 Qd5 37. Qa1 Qxd4 38. Rd1 Qf6 39. Rd6?? Qf3 (Rxg3! {I must look at all checks before making a move})
+40. Rxa6?? Rd3 {white resigns}
+
+
+
