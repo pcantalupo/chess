@@ -1,0 +1,21 @@
+[Date "2017.09.02"]
+[White "Greg Thomas"]
+[Black "Me"]
+[Result "1/2-1/2"]
+[WhiteElo "~1550"]
+[BlackElo "~1550"]
+[Event "Friendly game"]
+[TimeControl "30min/d5"]
+1. f4 d5 2. d4 Nf6 3. Nf3 g6 4. e3 Bg7 5. Nbd2 O-O 6. Be2 Nbd7 7. Ne5 b6 8. O-O Bb7
+9. a4 c5 10. Ndf3 Rc8 11. Bd2 Ne4 12. a5 cxd4 13. exd4 Nxe5 14. fxe5 Qc7 15. a6 Bc6
+16. c3 Nxd2 17. Qxd2 Qd7 18. Rf2 Bb5 19. h3 f6 20. e6 Qc6 21. Re1 Bc4 22. Bxc4 Qxc4
+23. Qe2 b5 24. Qxc4 Rxc4 25. Ra1 Bh6 26. Re2 Rb8 27. Nd2 Bxd2
+28. Rxd2 { I felt like I was better here with pressure building on queenside backward pawns. Indeed I was; score = -1.4 }
+Rc6 29. Re2 Rbb6 30. Ra5 Rxe6? { Difficult rook ending to figure out best move. How could I have calculated differently to keep the advantage? }
+  (Rc4 { Looking to swing over to A-file to attack rook }
+  31. Rc2 Ra4 32. Rxa4 bxa4 33. c4 Rxe6 34. cxd5 Rxa6 35. Rc6 Rb6 36. Rc7 Kf8
+  37. Rxa7 Rb4 38. d6 exd6 39. d5)
+31. Rxe6 Rxe6 32. Rxb5 Rxa6 33. Rxd5 Kf7 34. b4 Rc6 35. Rc5 Rxc5
+36. dxc5 e5 37. b5 Ke6 38. b6 axb6 39. cxb6 Kd6 40. c4 Kc6 41. c5 f5 42. Kf2 e4
+{ game continued with both sides queening and eventually ended in a draw after queens were exchanged }
+
