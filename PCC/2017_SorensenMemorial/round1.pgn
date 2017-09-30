@@ -1,0 +1,22 @@
+[Event "Sorensen Memorial"]
+[Site "Pittsburgh Chess Club, Pittsburgh, PA"]
+[Date "2017.09.19"]
+[Round "1"]
+[White "Me"]
+[Black "Jeff Schragin"]
+[Result "1/2-1/2"]
+[WhiteElo "1527"]
+[BlackElo "1936"]
+[TimeControl "2hr/d5"]
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. cxd5 exd5 6. Qc2 Be7 7. h3 O-O 8. Bf4 Na6
+9. a3 Nc7 10. e3 Be6 11. Bd3 h6 12. O-O Rc8 13. Rac1 Nce8 14. Qb3 Qb6 15. Qxb6 axb6
+16. Na4 b5 17. Nc5 Bxc5 18. Rxc5 {engine says taking with pawn is better but how to decide?}
+Nd7 19. Rc3 Nef6 20. Ne5 Nb6 21. Ra1 Rfe8
+22. b3 Ra8 23. Rc2 Ra7 24. Rca2 Ne4 25. f3 Nf6 ( 25... Nc3 26. Rc2 b4! 27. a4 {cannot take since rook undefended} )
+26. Be2 Nfd7 27. Kf2 Bf5 28. g4 Be6 29. h4 Rea8 30. Nxd7 Bxd7 31. Bd6 Nc8 32. Bb4 f6
+33. Bd3 b6?! 34. Rc2?! (34. Bg6 {taking advantage of the weak white squares})
+Kf7 35. Re1 {converging on e7} Ne7 36. e4 {trying to open things up} Be6 37. e5 Ng6 38. exf6 Nf4 39. Re3? (39. Bh7)
+Rc8 40. fxg7 Kxg7 41. Kg3 Rf7 42. Bd6 Nxd3 43. Rxd3 Bd7 44. f4? h5! {breaking down the light squares} 45. gxh5 Bf5
+46. Rdd2 Bxc2 47. Rxc2 Kh6 48. Re2 Rg8+ 49. Kh3 Kxh5 50. Re5+ Kg6 (50... Kh6 {preserve the advantage})
+51. Rg5+ Kh7 52. Rh5+ Kg7 53. Rg5+ Kh7 {1/2 - 1/2}
+
