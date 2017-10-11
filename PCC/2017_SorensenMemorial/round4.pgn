@@ -1,0 +1,18 @@
+[Event "Sorensen Memorial"]
+[Site "Pittsburgh Chess Club, Pittsburgh, PA"]
+[Date "2017.10.10"]
+[Round "4"]
+[White "Michael Kostyak"]
+[Black "Me"]
+[Result "1-0"]
+[WhiteElo "~1800"]
+[BlackElo "1527"]
+[TimeControl "2hr/d5"]
+1. Nf3 c6 2. g3 d5 3. Bg2 Nf6 4. O-O Qc7 5. c4 Bf5 6. d4 e6 7. Nbd2 Be7 {h6 is better}
+8. Nh4 Bg4 9. a3 O-O 10. b4 a6 11. Re1 Nbd7 12. Bb2 Rfe8 13. Qc2 Rac8 14. Rac1 Bd6
+15. e4 dxe4 16. Nxe4 Nxe4 17. Bxe4 Nf6 18. Bg2 Qb8 19. d5?! Be7? {I worried too much about allowing my king side to get damaged.}
+  (19... cxd5! 20. Bxf6 Rxc4 21. Qd2 Rxc1 22. Rxc1 gxf6 {up two pawns but damaged king side; black -1.9})
+20. Be5 Qa7 21. d6 Nd7 22. dxe7 Nxe5 23. Rxe5 Rxe7 24. h3 f6 25. Ree1 Bh5 26. g4 Bf7
+27. Rcd1 Rec7 28. Rd6 c5 29. Qd3 Qb8 30. Rd1 Be8 31. Rxe6 Bc6 32. Bd5 Kh8 33. Bxc6 bxc6
+34. Rd6 Rg8 35. Rd7 cxb4 36. axb4 c5 37. Ng6+ hxg6 38. Qxg6 Rxd7 39. Qh5#
+
