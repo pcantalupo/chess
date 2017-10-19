@@ -1,0 +1,26 @@
+[Event "Pittsburgh Chess League"]
+[Site "Pittsburgh, PA"]
+[Date "2017.10.15"]
+[Round "2"]
+[Team "Pitt IV"]
+[White "Brad Bozick"]
+[Black "Me"]
+[Result "1-0"]
+[WhiteElo "1575"]
+[BlackElo "1525"]
+[TimeControl "30/90 d5; SD60 d5"]
+{ There are more blunders that need analyzed in this game }
+1. d4 c6 2. e4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 e6 7. Be2 Be7 8. O-O O-O
+9. Bf4 b6 10. Rc1 Bb7 11. Qd2 dxc4 12. Bxc4 Nb4 13. Ne5 Nbd5 14. Bg3 Rc8 15. Rfe1 a6
+16. Qe2 b5 17. Bb3 Bb4 18. Nxd5 Bxd5 19. Red1 Bxb3 20. axb3 Qd5 21. Qd3 Rfd8 22. f4 Nh5
+23. Qe3 Ba5 24. Bh4 Nf6 25. Nf3 Ng4 26. Qd3 f6 27. h3 Nh6 28. g4 Bc7 29. g5 Nf5
+30. gxf6 Nxh4 31. Nxh4 gxf6 32. Rc5 Qxc5 33. dxc5 Rxd3 34. Rxd3 Bxf4 35. b4 Rc7 36. Kf2 Kf7
+37. Kf3 Be5 38. b3 Ke7 39. Ke4 Rd7 40. Nf3 f5+ 41. Ke3 Bf6 42. Nd4 Bxd4+ 43. Rxd4 h6
+44. Rh4 Rd5 45. Rxh6 Re5+ 46. Kd3 Rd5+ 47. Ke3 Rd1 48. Rh4 Rb1 49. Kf4 Rf1+ 50. Ke5 Re1+
+51. Kf4 Kf6 52. Kf3 Rb1 53. Rd4 Rxb3+ 54. Kg2 Rc3 55. h4 a5 56. bxa5 Rxc5 57. a6 Rc6
+58. a7 Ra6 59. Rd7 b4 60. Rb7 b3 61. Kf3 Ra4 62. Kg3 b2 63. Rxb2 Rxa7 64. Rb6 Rg7+
+65. Kh3 f4 66. Ra6 Kf5 67. h5 Rh7 68. Kh4 e5 69. h6 Ke4?? { I was winning -2 }
+( 69...Rf7! {I never thought about moving pawn from behind the pawn. I was too worried about letting it advance. I need to slow down, stop and think about what White needs to defend against and if White can promote its pawn after my rook moves.} )
+70. Kh5 f3 71. Kg6 Rxh6+ 72. Kxh6 Kf4 73. Rf6+ Ke3 74. Kg5 e4 { Engine says draw }
+75. Kg4 Kf2 76. Rf4 Ke3?? (76...Kg2 {Holds the draw. I did I care about the e-pawn so much? }) 77. Kg3 Kd3
+{resigned}
