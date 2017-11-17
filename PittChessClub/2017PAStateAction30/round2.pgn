@@ -1,0 +1,27 @@
+[Event "PA State Action Championship"]
+[Site "Pittsburgh, PA"]
+[Date "2017.11.04"]
+[Round "2"]
+[Section "Championship"]
+[White "Allen Gao"]
+[Black "Me"]
+[Result "0-1"]
+[WhiteElo "1580"]
+[WhiteTeam "CMU"]
+[BlackElo "1500"]
+[BlackTeam "Pitt"]
+[TimeControl "30d5"]
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. Bd2 Nbd7
+9. O-O O-O 10. e4 Bg4 11. e5 Bxc3 12. bxc3 Ne4 13. Be2 Nxd2
+  (13... Bxf3 {missed tactic to win a pawn because I remove the defender of d2.
+  Therefore Queen has to recapture on d2 and she is defenseless to Nxe5. }
+  14. Bxf3 Nxd2 15. Qxd2 Nxe5)
+14. Nxd2 Bxe2 15. Qxe2 Nb6
+16. Nc4? { Ne4 was better to get into d6 } Nxc4 17. Qxc4 Rc8 18. Rfb1 b6 19. Rb3 Qd5
+20. Qxd5 cxd5 21. Raa3 h6 22. Kf1 Rc7
+23. Ke2 f6 24. f4??
+  (24. exf6 Rxf6 25. a5 bxa5 26. Rxa5)
+24... fxe5 25. fxe5 Rcf7 26. Kd3 Rf2
+27. c4?? dxc4+?? { I had a mate in 4! }
+  (27... Rxg2! { remove defender of f3 } )
+28. Kxc4 Rxg2 29. Rh3 Rc8+ 30. Kd3 Rg4 31. Rg3 Rxg3+ 32. hxg3 Rf8 33. Ke4

@@ -1,0 +1,20 @@
+[Event "PA State Action Championship"]
+[Site "Pittsburgh, PA"]
+[Date "2017.11.04"]
+[Round "3"]
+[Section "Championship"]
+[White "Me"]
+[Black "Matt McKinnion"]
+[Result "1-0"]
+[WhiteElo "1500"]
+[WhiteTeam "Pitt"]
+[BlackElo "859"]
+[BlackTeam "N/A"]
+[TimeControl "30d5"]
+{needs analyzed}
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Bb4 5. a3 Bxc3+ 6. bxc3 dxc4 7. Qa4+ Bd7
+8. Qxc4 O-O 9. Bf4 Nc6 10. e3 Nd5 11. Bd3 Na5 12. Qa2 Nxc3 13. Qc2 Nd5 14. Bxh7+ Kh8
+15. Be5 f6 16. Bg3 f5 17. Bg6 Rf6 18. Ne5 Be8 19. Bxe8 Qxe8 20. O-O f4 21. exf4 Nxf4
+22. Bxf4 Rxf4 23. Ng6+ Kg8 24. Nxf4 e5 25. Rfe1 Qf7 26. Ne2 Rf8 27. dxe5 Nb3
+28. e6 Nxa1 29. exf7+ Rxf7 30. Qb2 b6 31. Qxa1 a5 32. Ng3
+
