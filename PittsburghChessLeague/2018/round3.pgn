@@ -1,0 +1,25 @@
+[Event "Pittsburgh Chess League"]
+[Site "Pittsburgh, PA"]
+[Date "2017.11.12"]
+[Round "3"]
+[Team "Pitt IV"]
+[White "Paul Cantalupo"]
+[Black "Dick Holden"]
+[Result "1-0"]
+[WhiteElo "1527"]
+[BlackElo "1668"]
+[TimeControl "30/90 d5; SD60 d5"]
+{ analysis needs done }
+1. d4 Nf6 2. Bf4 g6 3. e3 Bg7 4. Nf3 O-O 5. c3 d6 6. Bd3 Re8 7. O-O Bg4 8. e4
+(8. h3 Bxf3 9. Qxf3 e5 10. Qxb7 Nbd7 11. Bg3 Rb8 12. Qxa7 Rxb2)
+8... e5 9. dxe5 dxe5 10. Bg5 h6 11. Be3 Nbd7 12. Nbd2 Qe7 13. Qc2 a6 14. h3 Be6 15. Nc4 Nh7
+(15... Nxe4 16. Bxe4 Bxc4 17. Bxb7 Rab8 18. Rfd1 Rxb7 19. Qe4 Rxb2 20. Qxc4)
+16. Nfd2 b5 17. Na5 c5 18. c4 b4 19. a3 bxa3 20. bxa3 Qd8 21. Nab3 Qc7 22. Nb1 f5 23. f3
+(23. exf5 gxf5 24. Bxf5)
+23... f4 24. Bf2 Rac8 25. Nc3 Nhf8 26. Rfc1 g5 27. Nd5 Qd8 28. Be1 Bxd5 29. cxd5 c4
+30. Bxc4 Nb6 31. Qd3 Nxc4 32. Rxc4 Rxc4 33. Qxc4 Qc8 34. Rc1 Qxc4 35. Rxc4 Nd7 36. Bb4 Bf8
+37. Bxf8 Kxf8 38. Rc6 Rb8 39. Nc5 Nxc5 40. Rxc5 Rb6 41. a4 Ke7 42. a5 Rd6 43. Kf2
+(43. Rc7+ Rd7 44. Rxd7+ Kxd7)
+43... Rg6 44. Rc1 Kd7 45. Ke2 h5 46. Kf2 g4 47. hxg4 hxg4 48. Rb1 {purely a waiting move} Kc7
+49. fxg4 Rxg4 50. Rb6 Rg8 51. Re6
+
