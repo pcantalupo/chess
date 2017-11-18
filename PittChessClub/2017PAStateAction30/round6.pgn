@@ -1,0 +1,23 @@
+[Event "PA State Action Championship"]
+[Site "Pittsburgh, PA"]
+[Date "2017.11.04"]
+[Round "5"]
+[Section "Championship"]
+[White "Joe Murecino"]
+[Black "Paul Cantalupo"]
+[Result "1-0"]
+[WhiteElo "2000"]
+[WhiteTeam "N/A"]
+[BlackElo "1500"]
+[BlackTeam "Pitt"]
+[TimeControl "30d5"]
+{ late middle/endgame needs analyzed}
+1. d4 d5 2. Nf3 Nf6 3. e3 Bf5
+  (3... c5! { 3. e3 indicates Colle system so play c5 here to undermine central pawns when white plays e4 } )
+4. c4 c6 5. Qb3 Qb6 6. Nc3 e6 7. Be2 Nbd7 8. Nh4 Bg4?!
+  (8... Qxb3! { can win pawn on b3 } 9. axb3 Bc2 10. Bd2 Bxb3 11. c5 Be7 12. Ra3 Bc4
+  13. Bxc4 dxc4 14. Ra4 b5 15. cxb6 Nxb6)
+9. f3 Bh5 10. g4 Bg6 11. Nxg6 hxg6 12. Qxb6 Nxb6 13. b3 Be7 14. Kf2 c5 15. Nb5 Kd7?! { just castle! }
+16. Bb2 a6 17. Na3 Rh3 18. Bf1 Rh7 19. h3 Bd6 20. Rd1 Ke7 21. Kg2 Nbd7 22. Bd3 Nb8
+23. g5 Nh5 24. cxd5 cxd4 25. Nc4 b5 26. Nb6 Ra7 27. Nc8+ { black resigned }
+
