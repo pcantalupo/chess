@@ -1,0 +1,20 @@
+[Event "PA State Action Championship"]
+[Site "Pittsburgh, PA"]
+[Date "2017.11.04"]
+[Round "5"]
+[Section "Championship"]
+[White "Paul Cantalupo"]
+[Black "Samuel Kagle"]
+[Result "1-0"]
+[WhiteElo "1500"]
+[WhiteTeam "Pitt"]
+[BlackElo "1100"]
+[BlackTeam "N/A"]
+[TimeControl "30d5"]
+{needs analyzed}
+1. d4 d5 2. c4 Nf6 3. Nf3 Nc6 4. Nc3 Bf5 5. Qb3 b6 6. Bf4 g6 7. e3 Bg7 8. cxd5 Na5
+9. Bb5+ Bd7 10. Qa4 O-O 11. O-O Rc8 12. Ne5 Bxb5 13. Qxb5 e6 14. dxe6 fxe6 15. Nc6 a6
+16. Qa4 Nxc6 17. Qxc6 Qe7 18. Rac1 Rfd8 19. Ne4 Nd5 20. Bg5 Nf6 21. Rc2 Qd7
+22. Nxf6+ Bxf6 23. Bxf6 Qxc6 24. Rxc6 Re8 25. Rfc1 Kf7 26. Be5 Re7 27. Rxc7 Re8
+28. Rxe7+ Kxe7 29. Rc7+ Kd8 30. Ra7 Re7 31. Bf6 {black resigned}
+

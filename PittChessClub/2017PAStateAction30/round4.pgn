@@ -1,0 +1,19 @@
+  [Event "PA State Action Championship"]
+  [Site "Pittsburgh, PA"]
+  [Date "2017.11.04"]
+  [Round "4"]
+  [Section "Championship"]
+  [White "Franklin Ming Chen"]
+  [Black "Paul Cantalupo"]
+  [Result "1-0"]
+  [WhiteElo "2150"]
+  [WhiteTeam "N/A"]
+  [BlackElo "1500"]
+  [BlackTeam "Pitt"]
+  [TimeControl "30d5"]
+  {needs analyzed}
+  1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. Nbd2 Be7 6. Bd3 dxc4 7. Nxc4 b5 8. Nce5 Bb7
+  9. O-O O-O 10. Qc2 Bd6 11. Rd1 Qc7 12. b3 Nbd7 13. Bb2 Rac8 14. Nxd7 Qxd7 15. e4 Be7
+  16. e5 Nd5 17. Bxh7+ Kh8 18. Be4 c5 19. Qd2 c4 20. bxc4 bxc4 21. Bxd5 Qxd5 22. Rac1 g5
+  23. Ne1 a5 24. Rc3 Rg8 25. Rh3+ Kg7 26. Rg3 Kh8 27. h4 Rg6 28. hxg5 Bb4 29. Bc3 Rcg8
+  30. Nf3 Bxc3 31. Qxc3 Rd8 { Stopped recording b/c of clock. }
