@@ -1,0 +1,22 @@
+[Event "Smith Memorial"]
+[Site "Pittsburgh Chess Club, Pittsburgh, PA"]
+[Date "2017.11.21"]
+[Round "2"]
+[White "Paul Cantalupo"]
+[Black "Finn Overlie"]
+[Result "1-0"]
+[WhiteElo "1500"]
+[BlackElo "1700"]
+[TimeControl "2hr/d5"]
+1. d4 Nf6 2. c4 e6 3. Nf3{ anti-Nimzo } 3... d5 4. e3 c5 5. Nc3 cxd4 6. exd4 Nc6
+7. b3 Bb4 8. Bd2 dxc4 9. bxc4 Nxd4? { trap is sprung }
+  (9... Be7 { hard to find this since the d-pawn looks good for the taking } )
+10. Nxd4 Qxd4 11. Qa4+ Bd7 12. Qxb4 a5 13. Qb1 O-O 14. Qd3 Qc5 15. Be2 Bc6 16. O-O Rfd8
+17. Qe3 Qf5 18. Rad1 Rd7 19. Bc1 Rad8 20. Rxd7 Rxd7 21. Rd1 Qg6 22. Qg3 Rxd1+ 23. Bxd1 Qf5
+24. h3
+  (24. Qb8+ { I was too worried about making this move because of his Queen and my weak back rank. But after analyzing the position, how does his Queen threaten checkmate? } Ne8 25. Ba4 Bxa4 26. Nxa4 h6 27. Qxe8+ )
+24... e5 25. Qe3 h5 26. Ba4 Be4
+  (26... Bxa4 27. Nxa4 Qc2 28. Nc3)
+27. Nxe4 Nxe4 28. Bc2 Qd7 29. Qxe4 {black resigns}
+
+
