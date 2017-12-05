@@ -1,0 +1,24 @@
+[Event "Pittsburgh Chess League"]
+[Site "Pittsburgh, PA"]
+[Date "2017.12.03"]
+[Round "4"]
+[Team "Pitt IV"]
+[White "Paul Cantalupo"]
+[Black "Harry Repogle"]
+[Result "0-1"]
+[WhiteElo "1500"]
+[BlackElo "1848"]
+[TimeControl "30/90 d5; SD60 d5"]
+1. d4 d5 2. Bf4 e6 3. Nf3 Nf6 4. e3 Bd6 5. Bxd6 cxd6 6. c3
+  (6. c4 { I worried about exposing my King but should have realized that Black does not have dark bishop } Qa5+ 7. Nc3)
+Nc6 7. Nbd2 O-O 8. Be2 e5
+9. dxe5 dxe5 10. O-O Re8 11. Qc2 Bg4 12. Rfe1 Rc8 13. Rad1 Qb6 14. Qb3 Qc7 15. a3 a6
+16. Nh4 e4 17. Bxg4 Nxg4 18. g3 Rcd8 19. Nf5 Nce5 20. Nd4 Nd3 21. Rf1 Qd7 22. c4 dxc4
+23. Nxc4 b5 24. Nd2 Nc5 25. Qc2 Rc8 26. Qb1 Nf6 27. N2b3?! { I need to realize that this deflects my central knight. Both knights need to guard f3 }
+  (27. b4! {Brings it to even} )
+Nxb3 28. Nxb3 Qh3 29. f3 exf3
+30. Rf2 Rxe3 31. Nd4 Ng4 32. Rdf1 Nxf2 33. Rxf2 Rce8 34. Nxf3 Rxf3 35. Rxf3 Re2
+36. Rf2 Rxf2 37. Kxf2 Qxh2+ 38. Kf3 Qh5+ 39. Kg2 Qe2+ 40. Kh3 h5 41. Qf5 Qe6
+42. Qxe6 fxe6 43. Kh4 g6 44. Kg5 Kf7 45. Kf4 Kf6 46. Ke3 g5 47. b3 h4 48. gxh4 gxh4
+49. Kf4 h3 50. Kg3 Ke5 51. Kxh3 Kd4 52. Kg4 Kc3 53. b4 Kb3 54. Kf4 Kxa3
+55. Ke5 Kxb4 56. Kxe6 Kc3
