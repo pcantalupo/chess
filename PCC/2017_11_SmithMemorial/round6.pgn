@@ -1,0 +1,25 @@
+[Event "Smith Memorial"]
+[Site "Pittsburgh Chess Club, Pittsburgh, PA"]
+[Date "2017.12.19"]
+[Round "6"]
+[White "Paul Cantalupo"]
+[Black "Walter Kennedy"]
+[Result "1/2-1/2"]
+[WhiteElo "1500"]
+[BlackElo "1800"]
+[TimeControl "2hr/d5"]
+{ London opening; needs analyzed }
+{ Lichess analysis shows no Mistakes nor Blunders on either side. Wow. }
+1. d4 d5 2. Nf3 e6 3. Bf4 Nf6 4. e3 Be7 5. h3
+(5. Bd3 Nh5 6. Be5 f6 7. Bg3 Nxg3 8. hxg3)
+5... b6 6. Bd3 Bb7 7. c3 Nbd7 8. Nbd2 Ne4 9. Ne5 O-O 10. Nxd7 Qxd7 11. O-O Bd6 12. Nxe4
+(12. Qc2 Bxf4 13. exf4 f5 14. Nf3 c5 15. Ne5 Qc7 16. Rfe1 Rac8)
+12... dxe4
+(12... Bxf4 13. Nf6+ gxf6 14. Qg4+ Kh8 15. Qxf4)
+13. Bxd6 cxd6 14. Bc4 Rac8 15. Bb3 d5 16. Rc1
+(16. Qe2)
+16... Ba6 17. Re1 f5 18. Qd2 Qd6 19. Bd1 f4 20. exf4 Rxf4 21. Be2 Bxe2 22. Rxe2 b5
+23. Qe3 Rcf8 24. Rf1 R8f6 25. Qd2 Rg6 26. Re3 Qf8 27. Qe2 a6 28. f3 Rgf6 29. Rf2 Qd6
+30. g3 R4f5 31. Kg2 Qc7?! 32. h4 h5 33. f4 Rg6 34. Kh3 Qe7 35. b4 Rg4 36. a3 Qd7
+37. Qa2 Qd8 38. Qe2 Qc7 39. Qc2 Qc6 40. Kh2 Rf8 41. Kh3 Qb6 42. Qe2 g6 43. Qf1 Rc8
+44. Rc2 Rf8 45. Rf2 Rc8 46. Rc2 Rf8 47. Rf2

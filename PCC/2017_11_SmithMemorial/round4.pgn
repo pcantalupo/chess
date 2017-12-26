@@ -1,0 +1,18 @@
+[Event "Smith Memorial"]
+[Site "Pittsburgh Chess Club, Pittsburgh, PA"]
+[Date "2017.12.05"]
+[Round "4"]
+[White "Paul Cantalupo"]
+[Black "Vassil Prokhov"]
+[Result "1-0"]
+[WhiteElo "1500"]
+[BlackElo "1840"]
+[TimeControl "2hr/d5"]
+{ London opening; needs analyzed }
+1. d4 Nf6 2. Bf4 d5 3. Nf3 c5 4. c3 cxd4 5. cxd4 Nc6 6. Nc3 Ne4 7. Rc1 e6 8. a3 a6
+9. e3 Bd6 10. Bxd6 Nxd6 11. Bd3 Bd7 12. O-O O-O 13. Qe2 b5 14. e4 dxe4 15. Nxe4 Nf5 16. Ng3
+(16. Nc5 Ncxd4 17. Nxd4 Nxd4 18. Qe4 Nf5 19. Nxd7 Qxd7)
+16... Ncxd4 17. Nxd4 Nxd4 18. Qe4 Nf5 19. Rfd1 Rc8 20. Bc2 Rc7 21. Rd6 Rxc2 22. Qxc2 Nxd6
+23. Rd1 Nb7 24. Qe4 Qc8 25. Nh5 f6 26. Qd4 Bc6 27. Rc1 Qd7 28. Qc3 Rc8 29. Qg3 Qf7
+30. Nf4 e5 31. Nd3 Qd7 32. Qe3 Rd8 33. Ne1 Rc8 34. Qb3+ Qf7 35. Qh3 f5 36. Nf3 Qf6
+37. Qg3 e4 38. Ng5 Qd6 39. Qb3+ Kh8 40. Nf7+
