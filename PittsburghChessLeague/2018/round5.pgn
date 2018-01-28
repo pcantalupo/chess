@@ -1,0 +1,30 @@
+[Event "Pittsburgh Chess League"]
+[Site "Pittsburgh, PA"]
+[Date "2018.01.28"]
+[Round "5"]
+[Team "Pitt IV"]
+[White "Kebish Pius"]
+[Black "Paul Cantalupo"]
+[Result "1/2-1/2"]
+[WhiteElo "~1350"]
+[BlackElo "~1580"]
+[TimeControl "30/90 d5; SD60 d5"]
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bb5 a6 7. Ba4 b5 8. Bb3 Bf5
+9. O-O e6 10. Bg5 Be7 11. Re1 Bg4 12. Re3 O-O 13. h3 Bh5 14. Ne2 Ne4 15. Bxe7 Qxe7
+16. Nf4 Bxf3 17. Rxf3 Qd6 18. Ne2 Na5 19. Ng3 f5 20. Qe1 Nc4 21. Bxc4 bxc4 22. Rd1 Qb6
+23. b3 Rfc8 24. Nxe4 fxe4 25. Rg3 cxb3 26. cxb3 Rc2 27. Qe3 Qc7 28. Qh6 Qf7 29. Rf1 Kh8
+30. Qe3 Rf8 31. a4 Qf4 32. Qxf4 Rxf4 33. Re3 Kg8 34. f3 Kf7
+  (
+    34... exf3
+    35. Rxe6
+    (35. gxf3 Kf7)
+    (35. Rfxf3 Rxf3 36. gxf3 (36. Rxf3 Rd2) )
+    35... Rxg2+ {I did not see envision this check in the event of Rxe6}
+    (35... f2+ {I saw the check but for some reasons I thought White could capture pawn and trade off my rooks; I do not have good chess vision } 36. Kh2 )
+    36. Kh1
+  )
+35. fxe4 Rxf1+ 36. Kxf1 dxe4 37. Rxe4 Rc3 38. b4 Rc4 39. b5 Rxa4 40. bxa6 Rxa6
+41. Kf2 g5 42. Kg3 h5 43. Re5 Ra3+ 44. Kh2 Kf6 45. h4 Rd3 46. hxg5+ Kg6 47. Rxe6+ Kxg5
+48. Re4 Kf5 49. Rh4 Kg5 50. g3 Rd2+ 51. Kg1 Rd3 52. Kf2 Rd2+ 53. Ke3 Rg2 54. Kf3 Rd2
+55. Re4 Rd3+ 56. Kf2 Rd2+ 57. Ke3 Rg2 58. Kf3 Rd2 59. Re5+ Kg6 60. d5 Rd4 61. Ke3 Rg4
+62. Kf3 Rd4 63. Re6+ Kf5 64. Rh6 Kg5 65. Rd6 Kf5 66. Rh6 { Black accepts draw offer 1/2 - 1/2}
