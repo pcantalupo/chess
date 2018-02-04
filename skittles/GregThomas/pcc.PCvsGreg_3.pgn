@@ -1,0 +1,32 @@
+I'm done commenting/analyzing this game
+I need to ask 2000 level player on how to press my advantage.
+
+[Event "Friendly Game at PCC"]
+[Date "2017.6.10"]
+[White "P.C"]
+[Black "Greg"]
+[WhiteElo "Unr"]
+[BlackElo "1500"]
+[TimeControl "1200"]
+1. d4 c6 2. e4 e6 3. Nf3 d5 4. exd5 Qa5+?! 5. Nbd2 Qxd5 6. c4 Qa5 7. Bd3 Nd7
+8. O-O Qc7 9. Re1 Ngf6 {White has built pawn advantage but how to take advantage of it}
+10. Ne4
+(10. b3 Be7 11. Bb2)
+Be7
+(10... Nxe4 11. Bxe4 Nf6)
+11. Bg5 h6 12. Nxf6+ Bxf6 13. Bxf6 gxf6? {White is +2 but how to take advantage?}
+14. Qb3?! b6
+15. c5?! {Trying to put pressure on e6}
+(15. d5! Nc5 16. Qc3 Nxd3 17. Qxd3 Kf8 18. d6 {+1.5})
+Kf8
+(15... bxc5 {taking was OK since white rook sac doesn't lead to much} 16. Rxe6+ fxe6 17. Qxe6+ Kd8 18. Re1 Qa5)
+16. Qc2 Bb7 17. Nd2 {eyeing up d6} e5? {again White does not know how to punish this!}
+18. Ne4?! f5?? 19. Nd6 e4
+20. Qc4?? ( 20. Bc4 { No need to sac the bishop!} Rh7 21. Nxf5 )
+Rh7
+21. Nxf5 exd3
+22. Qxd3 Qf4? 23. b4?
+(23. Nd6 {I missed discovered attack on bishop and rook, +2. White under time pressure} Rg7 24. Nxb7)
+a5 24. a3 Ba6 25. Qh3 Nf6 26. Re7 Ne4 27. Rxe4 Qxe4
+28. Nd6 Qxd4 29. Qd7 Qxa1#
+

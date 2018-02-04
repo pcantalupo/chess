@@ -1,0 +1,18 @@
+[Date "2017.09.02"]
+[White "Me"]
+[Black "Greg Thomas"]
+[Result "1-0"]
+[WhiteElo "~1550"]
+[BlackElo "~1550"]
+[Event "Friendly game"]
+[TimeControl "30min/d5"]
+1. d4 c6 2. c4 e6 3. Nf3 d5 4. Nc3 Nf6 5. cxd5 Nxd5 6. e4 Nf6 7. Bg5 Qa5 8. Bd3 Nbd7
+9. O-O h6 10. Bf4 g5 11. Bd2 g4 12. Nd5 Qd8 13. Nxf6+ Qxf6 14. Ne5 Nxe5 15. dxe5 Qg7
+16. Be2 h5 17. b4 Qxe5 18. Qc2 Bd6 19. g3 Qf6 20. Rad1 Qe7 21. a3
+(21. Bg5 {deflection trade} 21... Qxg5 22. Rxd6)
+21... Qc7 22. Bc3 Rg8 23. Qb2
+(23. Qd2 {pressure dark bishop to retreat so can capture h5} 23... Be7 24. Qh6)
+23... h4?? 24. e5?? (24. Rxd6! {never saw this line of attack}) Be7 25. Rd4 hxg3
+26. fxg3 f5?? (26... Bd7 { just develop and give back the pawn } 27. Rxg4 ) 27. exf6 Bxf6 28. Rxg4 Rxg4 29. Bxg4 Bxc3
+30. Qxc3 e5 31. Bh5+ Ke7 32. Rf7+ Kd6 33. Qc5+ Ke6 34. Rxc7 Bd7 35. Bg4+ Kf6
+36. Qd6+ Kg5 37. Rxd7 Rg8 38. Qxe5+ Kh6 39. Qh5#
