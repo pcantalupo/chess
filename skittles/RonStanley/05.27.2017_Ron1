@@ -5,6 +5,7 @@
 [WhiteElo "Unr"]
 [BlackElo "~2100"]
 [Event "Friendly game"]
+{ D30: Queen's gambit declined 3. Nf3 Nf6; D43: Semi-Slav}
 1. d4 d5
 2. c4 e6
 3. Nf3 Nf6
