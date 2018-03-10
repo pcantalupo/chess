@@ -10,6 +10,7 @@
 [BlackElo "1525"]
 [TimeControl "30/90 d5; SD60 d5"]
 {needs annotated}
+{ opening: A06: Tennison (Lemberg, Zukertort) gambit }
 1. Nf3 d5 2. e4 c6 3. exd5 cxd5 4. d4 Nf6 5. Bd3 Nc6 6. h3 e6 7. c3 Be7 8. O-O O-O
 9. Nbd2 Qc7 10. Qe2 Bd6 11. Re1 Nh5 12. Nf1 Nf4 13. Bxf4 Bxf4 14. g3 Bh6 15. Ne3 g6
 16. Ng4 Bg7 17. Nge5 Bd7 18. Kg2 a6 19. h4 b5?
