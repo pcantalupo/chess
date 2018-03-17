@@ -1,0 +1,22 @@
+[Event "Metropolitan Open"]
+[Date "2018.03.10"]
+[Round "3"]
+[Section "Reserve U1800"]
+[White "Don Hake"]
+[Black "Paul Cantalupo"]
+[Result "0-1"]
+[WhiteElo "~1350"]
+[BlackElo "~1550"]
+[TimeControl "45min 5delay"]
+{opening: A06 Reti Nimzowitsch-Larsen attack}
+{needs annotated}
+1. Nf3 d5 2. b3 Nf6 3. Bb2 e6 4. e3 Be7 5. c4 c6 6. d3 O-O 7. Be2 Nbd7 8. O-O Qc7
+9. Nbd2 Ng4 10. Rc1 Bf6 11. Qc2 Bxb2 12. Qxb2 Ngf6 13. cxd5 exd5 14. d4 Re8 15. Bd3
+Ne4 16. b4 Ndf6 17. b5 Bd7
+(17... Qb6 18. Qc2 (18. Rb1 cxb5 19. Bxb5 Rd8 20. Qc2 Qd6 21. Rbc1 Bf5))
+18. Ne5 Nxd2 19. Qxd2 Rac8 20. bxc6 Bxc6 21. f4 Qe7 22. Rc2 Rc7 23. Rfc1 Rec8 24. Nxc6 bxc6
+(24... Rxc6 25. Rxc6 Rxc6 26. Rxc6 bxc6)
+25. Ba6 Re8 26. Rxc6 Rxc6 27. Rxc6 Qa3
+(27... Qxe3+ 28. Qxe3 Rxe3 29. Rc8+ Re8 30. Rc7 Kf8 31. Rxa7 Re4 (31... Re1+ 32. Kf2 Rd1 33. Ra8+ Ke7 34. Ra7+ Kf8 35. Ra8+))
+28. Bd3 Qa4 29. Rc3 Ne4 30. Bb5
+

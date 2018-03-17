@@ -1,0 +1,27 @@
+[Event "Metropolitan Open"]
+[Date "2018.03.10"]
+[Round "2"]
+[Section "Reserve U1800"]
+[White "Paul Cantalupo"]
+[Black "Jules Coulson"]
+[Result "0-1"]
+[WhiteElo "~1550"]
+[BlackElo "~1350"]
+[TimeControl "45min 5delay"]
+{opening: London}
+{needs annotated}
+1. d4 d5 2. Bf4 Nf6 3. e3 e6 4. c3 c5 5. Nf3 Nc6 6. Bd3 Bd6 7. Bg3 Bxg3 8. hxg3 Qe7
+9. Nbd2 Bd7 10. Qc2 h6 11. O-O O-O-O 12. dxc5 e5 13. Bf5
+  (13. Bb5 a6
+    (13... Qxc5 14. Bxc6 Bxc6)
+    (13... e4 14. Bxc6 Bxc6 15. Nd4 Qxc5 16. b4 Qe7)
+  14. Bxc6 Bxc6 15. a4 Qxc5)
+13... e4 14. Bxd7+
+  (14. Nd4 Nxd4
+    (14... Kb8 15. Bxd7 Nxd7 16. b4)
+  15. Bxd7+)
+14... Nxd7 15. b4 exf3 16. Nxf3 Nce5 17. Nd4 g6 18. Nb5 Nc6 19. a4 Nde5 20. Nd6+ Rxd6
+21. cxd6 Qxd6 22. Rfd1 h5 23. c4 Nxb4 24. cxd5+
+  (24. Qc3 d4 25. exd4 Ng4)
+24... Nxc2
+

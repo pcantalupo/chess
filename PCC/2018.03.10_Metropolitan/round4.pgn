@@ -1,0 +1,20 @@
+[Event "Metropolitan Open"]
+[Date "2018.03.10"]
+[Round "4"]
+[Section "Reserve U1800"]
+[White "Paul Cantalupo"]
+[Black "John Heffron"]
+[Result "1-0"]
+[WhiteElo "~1550"]
+[BlackElo "~1350"]
+[TimeControl "45min 5delay"]
+{opening: London with 2... d6}
+{needs annotated}
+1. d4 Nf6 2. Bf4 d6 3. e3 c5 4. c3 Qb6 5. Qb3 Nh5 6. dxc5 Qxb3 7. axb3 Nxf4 8. exf4 dxc5
+9. Nf3 e6 10. Nbd2 b6 11. Be2 Bd6 12. g3 O-O 13. O-O Bb7 14. Nc4 Bc7 15. Rfd1 Rd8
+16. Rxd8+ Bxd8 17. Rd1
+  (17. Nd6 Bc6 18. Ne5 {I thought about Nd6 but did not see the follow up Ne5.} )
+17... Bf6 18. Nce5 Nc6 19. Rd7 Nxe5 20. Rxb7 Nxf3+ 21. Bxf3 g6 22. Kf1 Rd8 23. Ke2 e5
+24. fxe5 Bxe5 25. Rxa7 Re8 26. Kd2 Rd8+ 27. Kc2 b5 28. Be2 b4 29. Bc4 bxc3 30. Bxf7+
+Kh8 31. bxc3 Rf8 32. f4 { Black ran out of time }
+
