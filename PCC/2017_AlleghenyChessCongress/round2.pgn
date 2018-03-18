@@ -8,7 +8,8 @@
 [WhiteElo "1552"]
 [BlackElo "1925"]
 [TimeControl "30min/d5"]
-1. d4 Nf6 2. Bf4 d5 3. Nf3 e6 4. e3 Be7 5. Bd3 O-O 6. c3 c5 7. O-O Nc6 8. Nbd2 Qb6
+{ opening: London }
+1. d4 Nf6 2. Bf4 d5 3. Nf3 { delay this until Black e6 } e6 4. e3 Be7 5. Bd3 O-O 6. c3 c5 7. O-O Nc6 8. Nbd2 Qb6
 9. Qb3 Bd7 10. Ne5 Nxe5 11. Bxe5 Ng4 12. Bf4 f5 13. c4 g5 14. Qxb6 axb6 15. Bc7 b5
 16. cxb5?! { -1  Probably due to undoubling Black b-pawns and c4 tempo attacking White bishop}
   (16. cxd5 c4 17. d6 { countering attack on Black bishop })

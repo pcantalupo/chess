@@ -9,7 +9,7 @@
 [BlackElo "1840"]
 [TimeControl "2hr/d5"]
 { London opening; needs analyzed }
-1. d4 Nf6 2. Bf4 d5 3. Nf3 c5 4. c3 cxd4 5. cxd4 Nc6 6. Nc3 Ne4 7. Rc1 e6 8. a3 a6
+1. d4 Nf6 2. Bf4 d5 3. Nf3 { delay this until Black e6 } c5 4. c3 cxd4 5. cxd4 Nc6 6. Nc3 Ne4 7. Rc1 e6 8. a3 a6
 9. e3 Bd6 10. Bxd6 Nxd6 11. Bd3 Bd7 12. O-O O-O 13. Qe2 b5 14. e4 dxe4 15. Nxe4 Nf5 16. Ng3
 (16. Nc5 Ncxd4 17. Nxd4 Nxd4 18. Qe4 Nf5 19. Nxd7 Qxd7)
 16... Ncxd4 17. Nxd4 Nxd4 18. Qe4 Nf5 19. Rfd1 Rc8 20. Bc2 Rc7 21. Rd6 Rxc2 22. Qxc2 Nxd6

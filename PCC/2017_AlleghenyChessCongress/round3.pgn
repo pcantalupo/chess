@@ -8,8 +8,9 @@
 [WhiteElo "1552"]
 [BlackElo "1462"]
 [TimeControl "30min/d5"]
+{ opening: London }
 1. d4 d5 2. Bf4 Nf6 3. Nf3 e6 4. e3 Nbd7 5. Bd3 c5 6. c3 g6 7. Nbd2 Bg7 8. O-O O-O
-9. Re1 a5 10. e4
+9. Re1 a5 10. e4 { premature since a8-h1 diagonal is not weakened yet by a b6 move }
   ( 10. Bd6! {take advantage of the weakened squares and a tempo on the rook} Re8 11. dxc5 )
 cxd4 11. e5 Nh5 12. Bg5 Qc7 13. cxd4 f6 14. exf6 Bxf6 15. Rxe6?! { Don't be greedy here; that pawn isn't going anywhere. You can plant a knight on e5 too. } Bxg5
 16. Nxg5 Qf4 17. Ndf3 Ndf6 18. Qc2 Ng7
