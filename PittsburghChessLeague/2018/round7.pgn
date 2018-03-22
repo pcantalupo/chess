@@ -1,0 +1,21 @@
+[Event "Pittsburgh Chess League"]
+[Site "Pittsburgh, PA"]
+[Date "2018.03.18"]
+[Round "7"]
+[Team "Pitt IV"]
+[White "Paul Cantalupo"]
+[Black "Jason Briegel"]
+[Result "0-1"]
+[WhiteElo "~1550"]
+[BlackElo "1853"]
+[TimeControl "30/90 d5; SD60 d5"]
+[Lichess "https://lichess.org/dxfcWA2X"]
+{ opening: London with A45 Indian Game and d6 }
+{ needs annotated }
+1. d4 Nf6 { A45 Indian Game } 2. Bf4 g6 3. e3 Bg7 4. c3 d6 5. Nd2 O-O 6. Ngf3 Nbd7
+7. Be2 c5 8. O-O b6 9. Qc2 Bb7 10. a4 Rc8 11. Rfd1 cxd4 12. exd4 Nd5 13. Be3 N7f6
+14. Qd3 Nxe3 15. Qxe3 Nd5 16. Qg5 a6 17. Nc4 Qc7 18. Qd2 Rfe8 19. Ne3 Nf4 20. Bf1 Bh6
+21. Ne1 Qc6 22. d5 Qd7 23. Qd4 b5 24. Nd3 e5 25. Qb4 f5 26. g3 Nxd5 27. Nxd5 Bxd5
+28. Nf4 exf4 29. Rxd5 fxg3 30. hxg3 f4 31. Kg2 fxg3 32. fxg3 Qf7 33. Qd4 Be3 34. Qd3 Qf2+
+35. Kh3 Qg1 36. Qe2 Qh1+ 37. Qh2 Qxd5 38. axb5 Re5 39. g4 Bg5 40. Qc2 Qh1+
+41. Kg3 Re3+ 42. Kf2 Rf8+ *
