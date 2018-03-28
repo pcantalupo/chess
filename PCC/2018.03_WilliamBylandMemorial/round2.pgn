@@ -7,6 +7,23 @@
 [WhiteElo "~1550"]
 [BlackElo "1554"]
 [TimeControl "2hr 5delay"]
-{ opening: XXXX }
-{ needs annotated }
-1. d4 d5 2. c4 c6 3. a4 Nf6 4. Nc3 dxc4 5. Bg5 Bf5 6. Bxf6 exf6 7. e3 Bb4 8. Bxc4 O-O 9. Ne2 Nd7 10. O-O Nb6 11. Bb3 Rc8 12. Ng3 Bg6 13. Nce2 Bd6 14. a5 Nd5 15. Bc4 f5 16. Bxd5 cxd5 17. Qb3 Qe7 18. Qxd5 Rfd8 19. Qf3 Rc7 20. Nxf5 Bxf5 21. Qxf5 g6 22. Qf3 Rc2 23. b3 Rb2 24. Rab1 Rxb1 25. Rxb1 Qc7 26. g3 Qxa5 27. Qxb7 Qa2 28. Nc3 Qc2 29. Ra1 Qxc3 30. Rxa7 Rf8 31. Qd5 Bb4 32. Rb7 Qe1+ 33. Kg2 Bd2 34. Qf3 Qa1 35. d5 Qa6 36. Rc7 Qb6 37. Rc6 Qxb3 38. d6 Qe6 39. Qd1 Qd5+ 40. Qf3 Qxf3+ 41. Kxf3 Kg7 42. Ke4 Kf6 43. Kd5 Rd8 44. e4 h5 45. e5+ Kf5 46. Rc7 Rf8 47. Rb7 h4 48. d7 hxg3 49. fxg3 Bg5 50. Rb4 Bd8 51. h4 g5 52. g4+ Kg6 53. h5+ Kg7 54. Ra4 Kh6 55. Ra6+ Kh7 56. e6 Kg7 57. Ra8 Kf6 58. exf7 Kxf7 59. Kc6 Ke6 60. Rc8 Ke7
+[Opening "Slav with immediate 3. a4"]
+1. d4 d5 2. c4 c6 3. a4 Nf6 4. Nc3 dxc4!? { best to just develop here since if Qb3 (undefended queen) can be met with Qb6 }
+5. Bg5 Bf5 6. Bxf6 exf6 7. e3 Bb4!?
+  (7... Be6 {simply defend the pawn! I did not see this b/c I was in automatic Slav defense Bb4 mode =sad= )})
+8. Bxc4 O-O
+9. Ne2 Nd7 10. O-O Nb6 11. Bb3 Rc8 12. Ng3 Bg6 {This move did not feel right as it isolated my bishop but I hoped it would put pressure on the b2-h7 diagonal}
+13. Nce2 Bd6!?
+  (13... Nd5 {I never saw this as a possibility} 14. e4 Ne7 {defends bishop} 15. Nf4 f5 16. Nxg6 hxg6 17. exf5 Nxf5)
+14. a5 Nd5 15. Bc4 { white is setting up a tactic that I did not see } f5 (15... Ne7 {avoids the tactic and supports f5 push})
+16. Bxd5 cxd5 17. Qb3 Qe7 18. Qxd5 Rfd8 19. Qf3 Rc7?!
+  (19... Rc2 {think more aggressive! The move indirectly defends the pawn since Queen is defending e2 knight})
+20. Nxf5 Bxf5 21. Qxf5 g6 22. Qf3 Rc2 23. b3 Rb2 24. Rab1 Rxb1 25. Rxb1 Qc7 26. g3 Qxa5 27. Qxb7 Qa2 28. Nc3 Qc2
+29. Ra1 Qxc3 30. Rxa7 Rf8 31. Qd5 Bb4 32. Rb7 Qe1+ 33. Kg2 Bd2 34. Qf3 Qa1 35. d5 Qa6
+36. Rc7 Qb6 37. Rc6 Qxb3 38. d6 Qe6 39. Qd1 Qd5+ 40. Qf3 Qxf3+ 41. Kxf3 Kg7
+42. Ke4 Kf6 43. Kd5 Rd8 44. e4 h5 45. e5+ Kf5 46. Rc7 Rf8 47. Rb7 h4 48. d7 hxg3
+49. fxg3 Bg5??
+  (49... Rd8 50. Kd6 Bh6 {Am I really going to allow White to queen? Yes because of the bishop skewer!} 51. Ke7 Rh8 52. d8=Q Bg5! )
+{ both sides were in alot of time pressure at this point }
+50. Rb4 Bd8 51. h4 g5 52. g4+ Kg6 53. h5+ Kg7 54. Ra4 Kh6 55. Ra6+ Kh7
+56. e6 Kg7 57. Ra8 Kf6 58. exf7 Kxf7 59. Kc6 Ke6 60. Rc8 Ke7

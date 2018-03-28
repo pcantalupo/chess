@@ -1,0 +1,17 @@
+[Event "William Byland Memorial"]
+[Date "2018.03.27"]
+[Round "3"]
+[White "Bryant Sims"]
+[Black "Paul Cantalupo"]
+[Result "0-1"]
+[WhiteElo "~1200"]
+[BlackElo "1554"]
+[TimeControl "2hr 5delay"]
+[Opening "Slav with 4. Bf4"]
+[Lichess "https://lichess.org/LHTgXobU"]
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Bf4 dxc4 { top move }
+  (4... Bf5 5. Qb3 Qb6 6. Qxb6 axb6 7. Bc7?? {I worried about losing the b-pawn but Black has a strong move } 7... Na6 {ready to invade on b4 })
+5. e3 b5 {=} 6. a4 a6 7. axb5 cxb5 8. Nc3 Bb7 9. Be2 e6 10. Nxb5 axb5 11. Rxa8 Bxa8
+12. Qc2 Bb4+ 13. Nd2?? Ne4 14. O-O Nxd2 {took my time to make sure to take with the correct piece }
+  (14... Bxd2?? 15. f3 Bxe3+ 16. Bxe3)
+15. Ra1 Nc6 16. f3 O-O 17. Ra6 Nxd4
