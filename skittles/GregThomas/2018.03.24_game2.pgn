@@ -1,0 +1,24 @@
+[Date "2018.03.24"]
+[White "Greg Thomas"]
+[Black "Paul Cantalupo"]
+[Result "0-1"]
+[TimeControl "30m/2d"]
+[Lichess "https://lichess.org/e9MtRc9h"]
+{ opening: Slav with e4 }
+{ general comment: there were many missed opportunities for playing c5 (move 19, 20, 22, 23, 24) }
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Bf4 dxc4 5. e4 e6?! (5... b5! { just to keep it even = })
+6. e5? Nd5 7. Bd2 b5 8. Nf3 Be7
+9. b3 cxb3?
+  (9... Nxc3 10. Bxc3 b4! {the idea})
+10. axb3 Bb4 11. Qc2 Bb7 12. Bd3 Bxc3 13. Bxc3 Nf4 14. O-O Qe7 15. Ra2 Nd7
+16. Rfa1 Nxd3 17. Qxd3 a6 18. Ba5 O-O 19. Qd2 Rfc8!?
+  (19... c5! { getting c5 break in while blocking bishop access to b4; -1 black advantage })
+20. Rd1 Nf8?
+  (20... c5!)
+21. Bb4 Qd8 22. Bd6 Ng6
+23. g3 Ne7 (23... c5! { After g3 white knight is undefended. }) 24. Ne1 Nf5 25. Qb4 Nxd6 26. exd6 Qb6?
+  (26... Qf8 {pinning pawn to Queen; always look for undefended pieces on both sides })
+27. Qc5 Qxc5 28. dxc5 Rd8 29. b4 Bc8
+30. Nf3 f6 31. Nd4 Bd7 32. Rda1 e5 33. Ne2 Bc8 34. f3 Kf7 35. Kf2 Ke6 36. h3 Kd5
+37. Ke3 h5 38. g4 hxg4 39. hxg4 Rh8 40. Rb2 Rh3 41. Rd1+ Ke6 42. Rbd2 Bd7 43. Nc3 a5
+44. bxa5 Rxa5 45. Ra2 { stopped recording since running out of time }
