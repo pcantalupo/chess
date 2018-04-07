@@ -1,0 +1,13 @@
+[Date "2018.03.24"]
+[White "Greg Thomas"]
+[Black "Paul Cantalupo"]
+[Result "1-0"]
+[TimeControl "20m/2d"]
+[Lichess "https://lichess.org/7qejyjc6"]
+{ opening: Slav with e3 }
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Bf4 dxc4 5. e3 Bf5 6. Bxc4 e6 7. Nf3 Bb4 8. O-O Bd6
+9. Bg3 O-O 10. Re1 Bxg3 11. fxg3 Ne4 12. Bd3 Nxc3 13. bxc3 Bxd3 14. Qxd3 Nd7 15. h4 Qc7
+16. Kh2 Rad8 17. Ng5 Nf6 18. e4 h6 19. e5?? Ng4+ 20. Kg1 hxg5 21. hxg5 Nxe5 22. Qe2 Ng6
+23. Rad1 c5 24. Qf3 cxd4 25. cxd4 Rd5 26. g4 Rfd8 27. Rb1 Qc4 28. Rxb7 Qxa2??
+{running out of time and was not paying attention to White threats}
+29. Qxf7+ Kh8 30. Qxg7#
