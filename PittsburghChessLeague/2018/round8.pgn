@@ -1,0 +1,36 @@
+[Event "Pittsburgh Chess League"]
+[Site "Pittsburgh, PA"]
+[Date "2018.04.15"]
+[Round "8"]
+[Team "Pitt IV"]
+[White "Harry Repogle"]
+[Black "Paul Cantalupo"]
+[Result "1/2-1/2"]
+[WhiteElo "~1850"]
+[BlackElo "1550"]
+[TimeControl "30/90 d5; SD60 d5"]
+[Lichess "https://lichess.org/xzH7V8Os"]
+{ opening "Caro-Kann Panov Botvinik attack" }
+{ Notes: based on Lichess analysis nobody made any mistakes or blunders...very even game throughout the endgame }
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Bf5?!
+{Played due to thinking that Qb3 was losing move. Rather it is losing only if White plays Qxb7.
+There is no rush to play Bf5; just develop with Nc6}
+6. Nf3!?
+  (6. Qb3 Nc6 7. cxd5! (7. Qxb7??) Nxd4?? 8. Qa4+)
+dxc4?! { was not sure how to defend b7 if 6... e6 7. Qb3; but Black can just play Qb6}
+  (6... e6 7. Qb3 Qb6) 7. Bxc4 e6 8. O-O Be7 9. Bb5+ Nbd7 10. d5 exd5
+11. Nxd5 O-O { I did not want to exchange Knights since Qxd5 hits both Bf5 and b7.}
+12. Nxe7+ Qxe7 13. Re1 Qd8 14. Bg5 h6 15. Bxd7 Qxd7 16. Bxf6 gxf6 17. Qd4 Qxd4
+18. Nxd4 Bd3 19. Re3 Bc4 20. b3 Rad8 21. Rg3+ Kh7 22. Nf5 Be6 23. Rf3 Bxf5 24. Rxf5 Rd6
+25. Kf1 Rfd8 26. Rc5 Kg6 27. Rc7 R8d7 28. Rac1 a6 29. Rxd7 Rxd7 30. Rc2 Re7 31. f3 f5
+32. Kf2 f4 33. g3 fxg3+ 34. hxg3 f5 35. Rd2 Re6 36. Rd5 Kf6 37. Rd2 Kg6 38. Rd3 Kf6
+39. a3 Kg6 40. a4 a5 41. Rd5 b6 42. Rb5 Kf6 43. b4 axb4 44. Rxb4 Ke7 45. Rb5 Kf6
+46. Rd5 Re5 47. Rd6+ Re6 48. Rd8 Kg7 49. Ra8 Kf6 50. Ra6 Ke5 51. Kg2 Kf6 52. Kh3 Ke5
+53. Kg2 Kf6 54. Kf2 Ke7 55. Ra7+ Kf6 56. Ra6 Ke7 57. Kg2 Kd7 58. Kh3 Ke7 59. Kh4 Kd7
+60. Kh3 Ke7 61. Kg2 Re2+ 62. Kh3 Re6 63. a5 bxa5 64. Rxa5 Kf6 65. Ra8 Re3 66. Rf8+ Kg6
+67. f4 Re6 68. Rd8 Kh5 69. Rd5 Kg6 70. Kh4 Rf6 71. Re5 Rd6 72. Kh3 Rf6 73. Kg2 Rd6
+74. Kf2 Rf6 75. Rd5 Re6 76. Kf3 Rf6 77. Ke3 Kh5 78. Kf3 Kg6 79. Kf2 Kh5 80. Kg2 Kg4
+81. Rd8 Rg6 82. Kf2 Rf6 83. Rg8+
+
+
+
