@@ -1,4 +1,13 @@
-Black: Vassil Prokhov 1800
+[Event "PCC Championship"]
+[Date "2018.02.06"]
+[Round "4"]
+[White "Vassil Prokhov"]
+[Black "Paul Cantalupo"]
+[Result "1-0"]
+[WhiteElo "1800"]
+[BlackElo "1600"]
+[TimeControl "2hr 5delay"]
+[Opening "Queen's pawn with c4 and King Indian defense"]
 { needs analyzed }
 1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. e3 O-O 6. Bd3 Nc6 7. O-O Re8 8. Qc2 Nb4
 9. Qd1 Nxd3 10. Qxd3 Bf5 11. Qd1 dxc4 12. Qa4 Bd3 13. Rd1 c6 14. Ne5 b5 15. Qa6 b4
