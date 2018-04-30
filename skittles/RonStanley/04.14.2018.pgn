@@ -1,14 +1,22 @@
 [Date "04.14.2018"]
 [White "Ron Standley"]
 [Black "Paul Cantalupo"]
-{ needs analyzed more }
 1. d4 d5 2. c4 Nf6 3. Nc3 c6 4. Nf3 dxc4 5. e4 b5 6. e5 Nd5 7. Ne4 Bf5 8. Ng3 Bg4
-9. Be2 e6 10. O-O Be7 11. h3 Bxf3 12. Bxf3 O-O 13. Ne4 Qc7 14. Bg4 Nd7 15. Qe2 c5
-16. dxc5 Nxc5 17. Nxc5 Bxc5 18. Kh1 c3 19. f4 Qb6 20. Bf3 Be3 21. bxc3 Bxc1 22. Bxd5 exd5
+9. Be2 e6 10. O-O Be7 11. h3 Bxf3 12. Bxf3 O-O 13. Ne4 Qc7 14. Bg4
+  (14. a4 a5 15. axb5 cxb5 16. Nc3 Qd7)
+Nd7 15. Qe2 c5
+16. dxc5 Nxc5 17. Nxc5 Bxc5 18. Kh1 c3 19. f4 Qb6 20. Bf3 Be3??
+  (20... cxb2 {I worried about letting the bishop develop but it deflects bishop to play Nxf4 attacking the queen}
+    21. Bxb2
+      (21. Qxb2 {allows Bishop skewer} 21... Bd4)
+    Nxf4 22. Qc2 Rad8)
+21. bxc3 Bxc1 22. Bxd5 exd5
 23. Raxc1 Rac8 24. f5 f6
-  (24... Rc4 25. f6 Re4 26. Qh5 Qe3! {prevents Rf3 lift} 27. fxg7 Kxg7!! { only possible since Queen and Rook guard checking
+  (24... Rc4 25. f6 Re4 26. Qh5 Qe3! {prevents Rf3 lift by attacking Rc1} 27. fxg7 Kxg7!! { only possible since Queen and Rook guard checking
   squares and Black is ready to capture both rooks if Re1 }
   )
-25. e6 Rfe8 26. Rfd1 Rcd8 27. Qh5 Qc6 28. Qf7+ Kh8 29. e7 Rc8 30. Re1 Rg8 31. Re6 Qd7
+25. e6 Rfe8 26. Rfd1 Rcd8 27. Qh5 Qc6 28. Qf7+ Kh8 29. e7 Rc8 30. Re1?
+  (30. Rd3 {rook lift to get to g3! })
+Rg8? (30... h6) 31. Re6 Qd7?? { do not put your Queen where it is not defended!} (31... Qe8 {=})
 
 
