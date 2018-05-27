@@ -9,10 +9,15 @@
 [TimeControl "2hr 5delay"]
 [Opening "E61 Kings Indian Defense: Semi-Classical Variation"]
 [Lichess "https://lichess.org/hjfHef2S"]
-{needs analyzed}
 1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. e3 O-O 5. Be2 d6 6. Nc3 Nbd7 7. O-O c5 8. d5 Re8
-9. e4 Ng4 10. Rb1 Nde5 11. h3 Nxf3+ 12. Bxf3 Ne5 13. Be2 e6 14. f4 Nd7 15. dxe6 Rxe6
-16. Bg4 Re8 17. Qxd6 Bd4+ 18. Kh1 Nf6 19. Qxd8 Rxd8 20. Bf3 Be6 21. Nd5 Rab8 22. b3 b5
+9. e4 Ng4?!
+  (9... e6 { I didn't play this because I couldn't see past Ng5 and Qxd6 } 10. dxe6 Rxe6
+  11. Ng5 Re8 12. Qxd6 h6 13. Nf3 Nxe4 14. Nxe4 Rxe4)
+10. Rb1 Nde5 11. h3 Nxf3+ 12. Bxf3 Ne5 13. Be2 e6 14. f4 Nd7 15. dxe6 Rxe6
+16. Bg4 Re8 17. Qxd6 Bd4+ 18. Kh1 Nf6?
+  (18... Qh4 {saw this during game but didn't see how I could win back bishop after capture on d7} 19. Bxd7 Rd8! {I did not see})
+  (18... Nb6 {keep pressure on c4 } 19. Qxd8 Rxd8 20. Be2 Bxc3 { get rid of knight since it wants to jump to d5 and double c-pawns } 21. bxc3)
+19. Qxd8 Rxd8 20. Bf3 Be6 21. Nd5 Rab8 22. b3 b5? {look for opponent checks and notice that your rooks are on same color square}
 23. Ne7+ Kg7 24. Nc6 bxc4 25. Nxd8 Rxd8 26. bxc4 Bxc4 27. Rd1 Bxa2 28. Rb7 a6 29. Bb2 Bc4
 30. e5 Nd5 31. Bxd4 cxd4 32. Rxd4 Ba2 33. Rb2 Bc4 34. Rxc4 Ne3 35. Rc1 Rd4 36. g3 Nf5
 37. Kh2 a5 38. Ra1 Ne3 39. Be2 a4 40. Ra3 Nd5 41. Rd3 Rxd3 42. Bxd3 a3 43. Ra2 Nc3
