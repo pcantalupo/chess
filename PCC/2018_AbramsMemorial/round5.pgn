@@ -1,0 +1,23 @@
+[Event "Abrams Memorial"]
+[Date "2018.06.05"]
+[Round "5"]
+[White "Alexander Sax"]
+[Black "Paul Cantalupo"]
+[Result "0-1"]
+[WhiteElo "1511"]
+[BlackElo "1623"]
+[TimeControl "2hr 5delay"]
+[Opening "Caro Kann with f3"]
+[Lichess "https://lichess.org/uGPOEDe4"]
+{needs analyzed}
+1. e4 c6 2. d4 d5 3. f3 e5 4. dxe5 Bc5 5. exd5 cxd5 6. Qe2 Qb6 7. Qb5+ Nc6 8. Qxb6 Bxb6
+9. f4 Nge7 10. Nc3 Be6 11. Bd2 O-O-O 12. Nb5 Nf5 13. Bd3 a6 14. Bxf5 axb5 15. Bxe6+ fxe6
+16. O-O-O Rdf8 17. Nf3 h6 18. Rhe1 Bc5 19. g3 Rhg8 20. Be3 Be7 21. Rd3 Nb4 22. Rc3+ Nc6
+23. Nd4 Kd7 24. Rb3 Bc5 25. Nxb5 Bxe3+ 26. Rexe3 Na5 27. Rbd3 Nc4 28. Re4 Ke7 29. Red4 g5
+30. b3 Na5 31. Nd6 Nc6 32. Ra4 b6 33. Rc3 Kd7 34. Ra6 Rb8 35. Rf3?? {I thought what the hell is he doing; push the B-pawn!!}
+Rgf8 36. f5 Nxe5
+37. Nc4 Nxf3 38. Nxb6+ Kc7 39. Na4 e5 40. Rxh6 Rxf5 41. Nc5 Rb6 42. Ne6+ Kb8 43. Rh8+ Ka7
+44. Rh7+ Ka6 45. Nc7+ Ka5 46. Nxd5 Rd6 47. b4+ Ka6 48. c4 Rxd5 49. cxd5 e4 50. Rh6+ Kb5
+51. g4 Rxd5 52. Re6 Re5 53. Rf6 e3 54. Rxf3 e2 {0-1}
+
+
