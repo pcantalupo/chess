@@ -9,10 +9,19 @@
 [BlackElo "1840"]
 [TimeControl "2hr/d5"]
 [Lichess "https://lichess.org/MeHWVt0z"]
-1. d4 Nf6 2. Bf4 d5 3. Nf3 { delay this until Black e6 } c5 4. c3 cxd4 5. cxd4 Nc6 6. Nc3 Ne4 7. Rc1 { worried about Nxc3 and isolated rook pawn } e6 8. a3 a6
-9. e3 Bd6 10. Bxd6 (10. Bd3 {= even with Bxf4 }) Nxd6 11. Bd3 Bd7 12. O-O O-O 13. Qe2 b5 14. e4 dxe4 15. Nxe4 Nf5 { unexpected when I played 14. e4. Going to be a pawn down. How to recover? } 16. Ng3
+1. d4 Nf6 2. Bf4 d5 3. Nf3 { delay this until Black e6. But Gabriel said that 3... Bg4 4. e3 e6 5. Be2 is fine for White } c5 4. c3 cxd4 5. cxd4 Nc6 6. Nc3 Ne4
+7. Rc1 { I worried about Nxc3 and isolated rook pawn. Gabriel said that Nxc3 is OK, isolated pawn is OK, and developing king side is more important }
+  (7. e3 Nxc3 8. bxc3 e6 (8... a6 { Gabriel said that if black insists on clamping down on c4, this is the technique to break it down } 9. Bd3 b5 10. a4 b4 11. cxb4 Nxb4 12. Be2) 9. Bd3 Bd6 10. Bxd6 Qxd6)
+e6 8. a3 a6
+9. e3 Bd6 10. Bxd6
+  (10. Bd3 {= even with Bxf4; but Gabriel said this is a computer move and might be difficult to play at my level})
+  (10. Bg3 {Gabriel said this is OK. Black loses his king side knight, g2 & g3 pawn structure is solid and activity on h-file} Nxg3 11. hxg3 Bd7 12. Bd3 h6)
+Nxd6 11. Bd3 Bd7 12. O-O
+  (12. Na4 { Gabriel suggested I consider this move. White plans Nc5 to attack bishop. 12...b6 weakens queen side and makes Rc8 more difficult })
+O-O 13. Qe2 b5 14. e4 dxe4 15. Nxe4 Nf5 { unexpected when I played 14. e4. Going to be a pawn down. How to recover? } 16. Ng3
 (16. Nc5 { not sure why I didn't play this; maybe I didn't see that 16. Ng3 blocks 19. g4} Ncxd4 17. Nxd4 Nxd4 18. Qe4 Nf5 19. g4)
 16... Ncxd4 17. Nxd4 Nxd4 18. Qe4 Nf5 19. Rfd1 Rc8 20. Bc2 { pinning bishop to Queen } Rc7 21. Rd6?? { rook is en prise } Rxc2 { tactic: take out checkmate threat to free up knight for capture on d6 } 22. Qxc2 Nxd6
 23. Rd1 Nb7 24. Qe4 Qc8 25. Nh5 { trying to feign an attack } f6 26. Qd4 Bc6 27. Rc1 Qd7 28. Qc3 Rc8 29. Qg3 Qf7
 30. Nf4 e5 31. Nd3 Qd7 32. Qe3 Rd8 33. Ne1 Rc8 34. Qb3+ Qf7 35. Qh3 f5 36. Nf3 Qf6
 37. Qg3 e4 38. Ng5 Qd6 39. Qb3+ Kh8 40. Nf7+
+
