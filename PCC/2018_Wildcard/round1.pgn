@@ -1,0 +1,35 @@
+[Event "Wildcard"]
+[Date "2018.07.10"]
+[Round "1"]
+[White "Paul Cantalupo"]
+[Black "Tom Riccardi"]
+[Result "0-1"]
+[WhiteElo "1677"]
+[BlackElo "2295"]
+[TimeControl "2hr 5delay"]
+[Opening "London with Kings indian defense"]
+[Lichess "https://lichess.org/9nSTWz34"]
+1. d4 Nf6 2. Bf4 g6 3. e3 Bg7 4. Nf3 O-O 5. c3 d6 6. Bd3 c5 7. O-O Nc6 8. h3 b6
+9. Nbd2 Bb7 10. Ne4?!
+  (10. dxc5 { breaks up Black center to allow White control of e5 } dxc5 { if bxc5 isolated a-pawn for Black } 11. Qc2 )
+Nd5 11. Bg3 Nc7 12. Qc2 Qd7 13. Rad1?! { dxc5 to weaken c5 } d5 14. Ned2 e6 15. Rfe1 a5
+16. a4 Ba6 17. Bxa6 Nxa6 18. Nb3 c4 19. Nbd2 Ra7 20. Nb1 Nc7 21. Na3 Rb7 22. e4 Rc8
+23. exd5 exd5 24. Qd2?! { Poor move; not defending a4 anylonger! }
+  (24. Re2 {start taking control of e-file!})
+Ne7 25. Nc2?
+  (25. Bxc7! {I considered this but valued my bishop too highly. I would have been able to lock down the Queen side with my knight on b5.})
+Nf5 26. Bf4 Ne6 27. Bh2 Qxa4 28. Ne3 Nxe3 29. Rxe3?
+  (29. fxe3 { I played Rxe3 almost immediately. I need to stop and think about Black next move. Also need to see that Q & R are on a dark square and Black still has a dark bishop})
+Bh6
+30. Qe2 Bxe3 31. fxe3 b5 32. Qf1?
+  (32. e4 { Queen needs to guard c2 from Black queen entry.})
+Qc2 33. Rb1 b4 34. Qc1 Qe4 35. Ra1 Ra8 36. Ne5 {eyeing up Ng4 then Nf3 for my only threat} bxc3
+37. bxc3 Rab8?
+(37... h5 {stops 38. Ng4} )
+38. Ng4! { threatening to fork King/Queen and win the exchange Rook/Bishop } Qd3 39. Bxb8 Rxb8 40. Rxa5??
+  (40. Kh2 {Frees up Rook to attack a5} Rb3 41. Rxa5 Rxc3? 42. Qb2! Rc2
+      (42... Rb3 43. Qf2 Ra3 44. Qf6 { ignoring threat to Rook })
+    43. Qb8+ Kg7 44. Qe5+ Kf8 45. Ra8+)
+  (40. Qf1 Qxc3 41. Nf6+ Kg7 42. Nxd5 { = })
+
+

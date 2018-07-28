@@ -1,0 +1,25 @@
+[Event "Wildcard"]
+[Date "2018.07.24"]
+[Round "3"]
+[White "Mike Bashur"]
+[Black "Paul Cantalupo"]
+[Result "0-1"]
+[WhiteElo "1085"]
+[BlackElo "1677"]
+[TimeControl "2hr 5delay"]
+[Opening "London with London defense"]
+[Lichess "https://lichess.org/l4A697uN"]
+1. d4 d5 2. Bf4 Nf6 3. e3 Bf5 4. Nf3 e6 5. c3 c6 6. h3 Bd6 7. Bxd6 Qxd6 8. Bd3 Bxd3
+9. Qxd3 Nbd7 10. Nbd2 e5 11. dxe5 Nxe5 12. Nxe5 Qxe5 13. Nf3 Qe7 14. O-O O-O 15. Rfd1 {after this I saw f2 was undefended and decided to play on kingside}
+Rad8 16. Qc2 { saw that c6 was vulnerable } Ne4 { start kingside attack } 17. Rd3 f5
+18. Rad1 b5!? {weakens c6! I thought I needed to clap down on c4 }
+  (18... g5 { no need to play b5} 19. c4 g4 20. Nd4 gxh3 21. g3 { slight advantage black})
+19. b3 g5 20. c4 bxc4 21. bxc4 g4 22. hxg4??
+  (22. Nd4!)
+fxg4
+23. Nd4 Nxf2 {setting the trap if Nxc6}
+24. Nxc6 Qh4 25. Ne7+ Qxe7
+  (25... Kh8! { Forced mate. During game I rejected Kh8 since did not want to give White any counterplay. Would never have seen d4!} 26. Qb2+ d4 27. Qxf2 Qxf2+ 28. Kh1 Qh4+ 29. Kg1 g3 30. Nf5 Rxf5 31. exd4 Qh2#)
+26. Rxd5 Qh4 27. Rf5 Rxd1+
+
+
