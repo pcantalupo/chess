@@ -8,12 +8,21 @@
 [BlackElo "1623"]
 [TimeControl "2hr 5delay"]
 [Opening "London vs. Dutch defense"]
-[Lichess ""]
-{needs analyzed}
+[Lichess "https://lichess.org/4JvvzsO0"]
 1. d4 e6 2. Bf4 d5 3. Nf3 c6 4. c3 f5 5. e3 Be7 6. h3 Nf6 7. Nbd2 O-O 8. Be2 Bd7
 9. O-O Be8 10. c4 Bh5 11. Ne5 Bxe2 12. Qxe2 Nbd7 13. Ndf3 Ne4 14. Nxd7 Qxd7 15. Ne5 Qe8
 16. Rac1 g5 17. Bh2 Kh8 18. f3 Nf6 19. c5 Nh5 20. g4 Ng7 21. Nd3 Rf6 22. Nf2 Qd7
-23. b4 a6 24. Be5 Rf7 25. Qd3 Bf6 26. Rcd1 Bxe5 27. dxe5 Qc7 28. a4 Qxe5 29. Kg2 Qf6
-30. f4 h6 31. Qd4 gxf4 32. exf4 Qg6 33. Kh2 Kh7 34. Rg1 Qf6 35. Qxf6 Rxf6 36. Nd3 fxg4
-37. hxg4 Raf8 38. Kg3 Rg8 39. Kh3 Rgf8 40. Kg3 {draw agreed}
+23. b4 a6 24. Be5 Rf7 25. Qd3
+  (25. f4 { Closes up king side. If gxf4 then exf4; if fxg4 then Knight captures})
+Bf6 26. Rcd1?!
+  (26. Bxf6 )
+Bxe5 27. dxe5 Qc7 28. a4? Qxe5 29. Kg2 Qf6
+30. f4? { steps into a square controlled by Black three times}
+  (30. e4 { prevent e5 e4 pawn storm by Black} Raf8 31. Qe2 dxe4 32. fxe4 f4)
+h6 31. Qd4 gxf4 32. exf4 Qg6 33. Kh2 Kh7 34. Rg1 Qf6 35. Qxf6 Rxf6 36. Nd3 fxg4
+37. hxg4 Raf8 38. Kg3?!
+  (38. Rgf1 )
+Rg8 39. Kh3?! { lessens defense of f4 } (39. Kf3!)
+Rgf8 40. Kg3?! (40. b5! e5 41. Nxe5 Rxf4 42. bxa6 bxa6 43. Nxc6 Rf3+ 44. Kh4 { safe from checks})
+{draw agreed}
 
