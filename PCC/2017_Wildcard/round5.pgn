@@ -3,17 +3,21 @@
 [Date "2017.08.15"]
 [Round "5"]
 [White "William Hoppman"]
-[Black "Me"]
+[Black "Paul Cantalupo"]
 [Result "0-1"]
 [WhiteElo "1187"]
 [BlackElo "1511"]
 [TimeControl "2hr 5delay"]
-1. c4 c6 2. Nc3 d5 3. cxd5 cxd5 4. d4 Nf6 5. g3 Nc6 6. Nf3 e6 7. Bg2 Bd6 8. O-O O-O
-9. Re1 a6 10. a3 b5 11. b4 Bb7 12. Bg5 h6 { I played this too quickly without thinking about e2-e4. Best is to break the pin with Be7 }
+[Lichess "https://lichess.org/vEdOdWy2"]
+[Opening "English with Caro Kann defense; D10 Slav Defense Exchange variation"]
+1. c4 c6 2. Nc3 d5 3. cxd5 cxd5 4. d4 Nf6 { transposed into D10 Slav exchange } 5. g3 Nc6 6. Nf3 e6 7. Bg2 Bd6 8. O-O O-O
+9. Re1 a6
+  (9... h6 { Avoid bishop pin. See moves 12 to 15. Need to keep some control of e4})
+10. a3 b5 11. b4 Bb7 12. Bg5 h6 { I played this too quickly without thinking about e2-e4. Best is to break the pin with Be7 }
 13. Bxf6 Qxf6 14. Qd3?! (14. e4 dxe4 15. Nxe4 Qd8 16. Nc5 Bxc5 17. dxc5 Qc7) Qe7 15. e4 dxe4
 16. Nxe4 Rfd8 17. Nxd6
   (17. Nc5? { seems better but it is not because of tactics on White queen } Bxc5 18. bxc5 Qxc5! )
-Rxd6 18. Qc3 Rc8 19. Qb2 Qd7 20. Rad1 Qc7 21. Ne5 Nxe5
+Rxd6 18. Qc3 Rc8 19. Qb2 Qd7 20. Rad1 Qc7?! (20... Rd8 {keep pressure on that isolated pawn}) 21. Ne5 Nxe5
 22. Rxe5 Bxg2 23. Kxg2 Qb7+ 24. Kg1 Rc4 25. Rc5 Rc6?! { I worried about White taking on
 Rc5 and my pawn being isolated. But it is a strong passed pawn especially with Black Qf3}
 (Qf3! {attacking White rook and pressure on a3})
