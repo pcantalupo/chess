@@ -1,0 +1,28 @@
+[Event "Wildcard"]
+[Date "2018.07.31"]
+[Round "4"]
+[White "Paul Cantalupo"]
+[Black "William Hoppmann"]
+[Result "1-0"]
+[WhiteElo "1677"]
+[BlackElo "1123"]
+[TimeControl "2hr 5delay"]
+[Opening ""]
+[Lichess "https://lichess.org/c9ioIjct"]
+1. d4 g6 2. Bf4 Bg7 3. e3 Nf6 4. Nd2 d6 5. c3 Bg4?! 6. Be2 { Didn't want to self pin with Nf3. Plus trading develops my Queen to a good square }
+Bxe2 7. Qxe2 O-O 8. h3 d5 9. Ngf3 Nbd7 10. O-O Nh5 11. Bh2 Nhf6
+  (11... f5?? 12. Ng5! Qe8 13. Ne6)
+12. e4 dxe4 13. Nxe4 Rc8 14. Rab1 { moving out of bishop range and putting pieces on light squares } c5 15. Rfd1 cxd4 16. Nxd4 Qe8
+17. Nf3?!
+  (17. Nxf6+ {I saw this line to win a pawn but wasn't clear how to get advantage if instead Black plays Nxf6. Instead I kept my Ne4 to keep control of d6 which worked well on Blacks next move } Bxf6?! (17... Nxf6) 18. Ne6 fxe6 19. Qxe6+ Qf7 20. Qxf7+ Rxf7 21. Rxd7)
+17... e5?? 18. Nd6 Qe6 19. Nxc8 Rxc8 20. a3? e4? 21. Nd4 Qe7
+22. Nb5 a6?! 23. Nd6 Rb8?! 24. Nc4?
+  (24. Nxf7 { Saw this line but I didn't want to play it. It would trade my strong N and B for passive R and P } Kxf7 25. Bxb8 Nxb8)
+Rc8?! 25. Ne3? Qe6 26. Rd6 Qe7? 27. Rbd1 Nc5 28. Nd5 Nxd5 29. R6xd5?! Nd3?? 30. R5xd3 h5?!
+31. Rd7 Qe8 32. Qd2?! Bf6?! 33. Rxb7?! Rd8 34. Rd7 Rc8?! 35. Qd6 Bg5 36. Qe5?! f6?
+37. Qxe8+? Rxe8 38. Rd8 Kf8?! 39. Rxe8+ Kxe8 40. Rd6 a5 41. Ra6?! f5? 42. Rxa5?! f4? 43. Rxg5 *
+
+
+
+
+
