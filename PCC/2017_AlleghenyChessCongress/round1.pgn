@@ -8,6 +8,8 @@
 [WhiteElo "1748"]
 [BlackElo "1552"]
 [TimeControl "30min/d5"]
+[Lichess ""]
+[Opening "D10 Slav defense 3. e3"]
 1. d4 d5 2. c4 c6 3. e3 Nf6 4. Nc3 e6 5. Nf3 Nbd7 6. Qc2 Be7 7. cxd5 exd5 8. Bd3 O-O
 9. O-O Re8 10. Ne5 Nf8
   (Nxe5 {it was difficult to see how this could work in the game bc after
