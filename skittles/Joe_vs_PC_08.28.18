@@ -1,2 +1,14 @@
-
-1. Nf3 d5 2. g3 c6 3. Bg2 Nf6 4. O-O Bf5 5. d3 e6 6. Bg5 Be7 7. Re1 O-O 8. e4 dxe4 9. dxe4 Bxe4 10. Qxd8 Rxd8 11. Bxf6 Bxf3 12. Bxe7 Re8 13. Rd1 Bxd1 14. Nc3 Bxc2 15. Be4 Bxe4 16. Nxe4 Rxe7 17. Rd1 Na6 18. h4 Nc7 19. f4 Nd5 20. a3 Rd8 21. b4 Red7 22. Nc5 Rd6 23. Nxb7 Kf8 24. Nxd8 Rxd8 25. Rc1 Rc8 26. b5 Ne7 27. a4 cxb5 28. Ra1 a6 29. Rd1 Ke8
+[Date "08.28.2018"]
+[White "Joe"]
+[Black "Paul Cantalupo"]
+[TimeControl "quick skittles"]
+[Lichess "https://lichess.org/Vw6kp3Qq"]
+[Opening "A07 King's Indian Attack with Caro Kann defense"]
+1. Nf3 d5 2. g3 c6 3. Bg2 Nf6 4. O-O Bf5 5. d3 e6 6. Bg5 Be7 7. Re1 O-O 8. e4 dxe4
+9. dxe4 Bxe4 10. Qxd8 Rxd8 11. Bxf6 Bxf3??
+  (11... Bxf6 12. Rxe4? Bxb2 13. Rb4 Bxa1 14. Rxb7 Bf6)
+12. Bxe7 Re8 13. Rd1??
+  (13. Bxf3 {white is up a piece})
+Bxd1 14. Nc3 Bxc2 15. Be4 Bxe4 16. Nxe4 Rxe7 17. Rd1 Na6 18. h4 Nc7
+19. f4 Nd5 20. a3 Rd8 21. b4 Red7 22. Nc5 Rd6 23. Nxb7 Kf8 24. Nxd8 Rxd8 25. Rc1 Rc8
+26. b5 Ne7 27. a4 cxb5 28. Ra1 a6 29. Rd1 Ke8
