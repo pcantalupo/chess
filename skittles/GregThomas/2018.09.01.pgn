@@ -1,0 +1,19 @@
+[White "Paul Cantalupo"]
+[Black "Greg Thomas"]
+[TimeControl "Played skittle game for about 1.5 hrs"]
+[Lichess "https://lichess.org/3K0RLgBZ"]
+1. d4 c6 2. Bf4 e6 3. c3 d5 4. Nf3 Bd6 5. Bg3 Nf6 6. Nbd2 Ne4 7. Nxe4 dxe4 8. Ne5 f6
+9. Nc4 Bc7 10. e3 b5 11. Nd2 f5 12. Be2 g6 13. a4 Bd7 14. axb5 cxb5 15. Qb3 a6
+16. c4 Bxg3 17. hxg3 b4 18. c5 a5 19. Nc4 a4 20. Qxb4 Nc6 21. Nd6+ Kf8 22. Qc3 Qa5
+23. Qxa5 Nxa5 24. Nc4 Nb3 25. Ra3 Ra7 26. Nb6 Nc1 27. Nxd7+ Rxd7 28. Rc3??
+  (28. Rxa4 Nd3+ (28... Nxe2 29. Ra8+ Kg7 30. Rxh8 Kxh8 31. Kxe2) 29. Bxd3 exd3 30. Ra8+ Kg7 31. Rxh8 Kxh8)
+Nxe2 29. Kxe2 Kg7 30. Ra1 Rb8 31. Ra2 Rdb7 32. Rc2 Rb4 33. c6 h5 34. c7 Rc8 35. Kd2 Rb7
+36. Rxa4 Rbxc7 37. Rxc7+ Rxc7 38. Ra5 Kf6 39. Rc5 Rb7 40. Kc3 Rh7 41. b4 h4 42. b5?
+  (42. gxh4 {keep king side pawn structure intact} Rxh4 43. b5)
+hxg3 43. fxg3 Rb7 44. Kb4 Kg5 45. Rc6 Kg4 46. Rxe6 Kxg3 47. Rxg6+ Kf2 48. g4??
+  (48. Kc5! {Forget about Black king. White's attack comes faster} Kxe3 49. d5)
+fxg4 49. Rxg4 Kxe3 50. Kc5 Kf3 51. Rg8? (51. Rg6 {Prevents rook check}) e3
+  (51... Rc7+ 52. Kd6 Rc1)
+52. Rf8+ Kg2 53. Rg8+ Kf1 54. Rf8+ Ke1 55. Kc6 Rh7 56. d5
+  (56. b6 Rh6+ 57. Kc7 Rh7+ 58. Kc8 e2 59. b7 Kd1 60. b8=Q e1=Q 61. Qb1+ Kd2 62. Qxh7)
+Kd2 57. d6 e2 58. Re8 e1=Q 59. Rxe1 Kxe1 60. d7 Rh8 61. Kc7 Kd2 62. d8=Q+ Rxd8 63. Kxd8
