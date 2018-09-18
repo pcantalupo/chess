@@ -1,0 +1,20 @@
+[Event "Summer Open"]
+[Date "2018.09.15"]
+[Round "1"]
+[White "Joe Winwood"]
+[Black "Paul Cantalupo"]
+[Result "1-0"]
+[WhiteElo "2000"]
+[BlackElo "1665"]
+[TimeControl "1hr d5"]
+[Opening "London"]
+[Lichess "https://lichess.org/8zWssDKM"]
+1. d4 d5 2. Nf3 Nf6 3. Bf4 Bf5 4. e3 e6 5. Bd3 Bg6 6. Nbd2 c6 7. Ne5 Bd6 8. Ndf3 Bxd3 9. Qxd3
+(9. cxd3 Bb4+)
+9... Qe7 10. c3 Nbd7 11. h3 O-O 12. Ng5 Rac8
+(12... Bxe5 13. dxe5 (13. Bxe5 c5) 13... Nc5 14. Qc2 Nfe4)
+(12... g6 13. Nxd7 Qxd7)
+13. Nxd7 Qxd7 14. Be5 h6 15. Bxf6 hxg5 16. Bxg5 e5 17. dxe5 Bxe5 18. f4 Bc7 19. O-O-O Rce8 20. f5 Re5 21. g4 f6 22. Bf4
+(22. Bh4)
+22... Re4
+(22... Re7 23. Bxc7 Qxc7 24. h4 Rfe8 25. Rh3 Re4 26. Rg1 Qe5 27. Rgg3)
