@@ -1,0 +1,19 @@
+[Date "09.08.2018"]
+[White "Ron Standley"]
+[Black "Paul Cantalupo"]
+[TimeControl "30m/d5"]
+[Lichess "https://lichess.org/KI6RyQAz"]
+1. e4 c6 2. f4 e5 3. Nf3 d6 4. d4 exd4 5. Qxd4 Qf6 6. e5 dxe5 7. fxe5 c5??
+  (7... Qg6 {attacking g2 pawn which restricts Bd3})
+8. Qe4??
+  (8. Qa4+! {look for all checks before moving})
+Qc6 9. Nc3 Qxe4+ 10. Nxe4 Bf5 11. Bb5+ Nd7 12. Bxd7+ Bxd7 13. O-O Be7 14. c4 Nh6 15. Bxh6 gxh6 16. Rfe1 Be6 17. b3 O-O-O
+18. Rad1 Bg4
+  (18... Rxd1 19. Rxd1 Rd8 { trying to get rooks off and play with the two bishop advantage})
+19. Nd6+ Bxd6 20. exd6 Bxf3 21. gxf3 Rhg8+
+  (21... Rd7 22. Re5 b6 23. Red5 (23. Rh5 Rg8+ 24. Kf2 Rg6 25. Rhd5 Kb7 26. a4 Kc6) 23... Rhd8 24. f4 Kb7 25. Kf2 Kc6 26. Re5 Rxd6 27. Rxd6+ Rxd6)
+22. Kf2 Rg6 23. Re7 Rgxd6 24. Rxd6 Rxd6 25. Rxf7 Rd2+ 26. Kg3 Rd7?
+  (26... Rxa2 { There are alot of aggressive moves in this line that I don't make or try to think about. Notice how the King makes moves toward the h-pawn and Rook while advancing the a-pawn to create a threat } 27. Rxh7 Rb2 28. Rxh6 Rxb3 29. h4 Kd7 30. h5 a5 31. Rh8 Ke6 32. h6 Kf7 33. Ra8 Kg6 34. h7 Kxh7 35. Rxa5  b6 36. Ra7+ Kg6 37. Re7 Kf6 38. Re4 b5 39. cxb5 Rxb5 40. f4 Rb3+ 41. Kg4 Rb6 42. Rc4 Rc6)
+27. Rf6 Rg7+ 28. Kf4 Rg6?
+  (28... Rg2 29. Rxh6 Rxa2 30. Rxh7)
+29. Rxg6 hxg6 30. Ke5 Kd7 31. Kf6

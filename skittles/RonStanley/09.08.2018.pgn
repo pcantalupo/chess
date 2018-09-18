@@ -1,0 +1,30 @@
+[Date "09.08.2018"]
+[White "Paul Cantalupo"]
+[Black "Ron Standley"]
+[TimeControl "30m/d5"]
+[Lichess "https://lichess.org/kRslOTwf"]
+[Opening "A50 Indian Game: Normal variation"]
+1. d4 Nf6 2. c4 c6 {A50 Slav Indian} 3. Nc3 d5 4. Nf3 {transposed into Three Knights Slav defense} Qa5 {Only one Master game for this move}
+5. e3 Bg4 6. Be2 Nbd7 7. O-O dxc4 8. Bxc4 e6
+9. a3 { wasted tempo because dark bishop can still play Bb4 bc white rook is undefended! }
+  (9. e4! Bb4 10. e5 {Ron suggested to counter attack with e4-e5 since e4 pawn was under attack after Bxc3} Bxc3 11. exf6 Nxf6?
+    (11... Bxf3! 12. Qxf3 Bxd4 13. fxg7 Rg8 {=}) 12. bxc3 Qxc3 13. Qb3 Qxa1?! 14. Bb2 Qxf1+ 15. Kxf1)
+Bd6 10. e4 O-O-O 11. Be3
+  (11. e5!? {I wanted to play this move but feared Black Knight fork of my bishop and pinned knight} Bxe5 12. dxe5 Nxe5 13. Qe2 Nxf3+ 14. gxf3 Bh3 15. Rd1 {and my dark bishop critically guards against Qg5+})
+Qh5 12. Be2??
+  (12. h3 {The only move. This line is very difficult at my level to see how to properly defend} 12... Bxh3 13. gxh3 Qxh3 14. Re1 {The only move} 14... Ng4 15. Bf1 Bh2+ 16. Kh1 Qh5 17. Bg2)
+  (12. e5?? { gotta give up your Queen for the Rooks and lose Knight to avoid mate} Nxe5 13. dxe5 Bxe5 14. Qxd8+ Rxd8 15. Nxe5 Qxe5)
+e5?? 13. h3?
+  (13. d5! {I quickly gave up on this because I didn't want to open up the middle with Rd8 bearing down on Queen} 13... Nc5 14. dxc6 bxc6 15. Qc2)
+Bxh3?? 14. Ng5
+  (14. gxh3 Qxh3 15. Ng5 Qh6 16. Nf3 Qg6+ 17. Kh1 exd4 18. Nxd4 {So hard to see these lines and how to defend properly})
+  (14. Nxe5 {attacking Black Queen immediately})
+14... Bg4 15. Nxf7?? {I thought this was good but Black only needs to retreat Bc7 or Bb8 and ignore the Knight fork on Rooks} 15... Qxf7??
+  (15... Bb8! 16. Nxd8?? exd4! {Threatens mate.} 17. Bxd4 Qh2#)
+16. Bxg4 exd4 17. Bxd4 Kb8 18. Bf3
+  (18. Bxa7+?? {Cannot win pawn here because Bg4 is undefended} 18... Kxa7 19. Qxd6 Nxg4)
+18... Bc7 19. Qa4 Nb6 20. Bxb6?!
+  (20. Qb4 Bd6 21. Qa5 Bh2+ 22. Kxh2 Rxd4)
+20... Bxb6 21. Qc2 g5 22. e5 g4 23. exf6 gxf3 24. Ne4??
+  (24. Qf5 fxg2 25. Rfd1)
+24... Qg6 25. g3 Rde8 26. f7 Rxe4 27. Qc3 Qxg3+ 28. Kh1 Qg2#
