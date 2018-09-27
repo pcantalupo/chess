@@ -9,3 +9,8 @@
 ## Books
 + [1001 Brilliant Way to Checkmate, Fred Reinfeld](https://www.amazon.com/Brilliant-Checkmate-Reinfeld-Chess-Classics-ebook/dp/B00L4HQVH4)
 + [1001 Winning Chess Sacs and Combos, Fred Reinfeld](https://www.amazon.com/dp/B00L4HQVJC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+
+
+## Links
++ [6 piece endgame database](http://www.k4it.de/index.php?topic=egtb&lang=en)
+
