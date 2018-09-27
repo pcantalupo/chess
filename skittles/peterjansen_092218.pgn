@@ -1,0 +1,28 @@
+[White "Paul Cantalupo"]
+[Black "Peter Jansen"]
+[Result "0-1"]
+[Time "10m/d5"]
+[Lichess "https://lichess.org/Vqvh9VYt"]
+1. d4 c6 2. c4 d5 3. Nc3 e5 4. cxd5 cxd5 5. dxe5 { Most frequently played move by masters. Others exist }
+  (5. Nf3 e4 6. Ne5 f6 7. Qa4+ Nd7 8. Nxd7 Bxd7 9. Qb3 {=})
+  (5. e3 e4 6. Qb3 Nf6 7. Nge2 Nc6 8. Nf4 Bb4 9. Bd2 Bxc3 10. Bxc3 {=})
+  (5. e4 dxe4 6. Bb5+ Bd7 7. dxe5 Bb4 8. Bd2 Bxc3 9. Bxd7+ Nxd7 10. Bxc3 Nc5 {=})
+d4 6. Ne4 Qa5+ 7. Bd2 Qxe5 8. Ng3 Nc6
+9. Nf3 Qd5 10. a3 Nf6 11. Qc2 Bg4 12. Nh4?!
+  (12. e4)
+Bc5 13. Nhf5 O-O 14. h3 d3
+  (14... Bxf5 15. Qxf5
+    (15. Nxf5?? Ne4! {interfering with defense of f5 knight to win a piece})
+  Ne5!! { Hard to sense why this is a good move and hard to work out } 16. f4 Qb3! 17. fxe5 Qxg3+
+  18. Kd1 Nd5 19. e6!? Qb3+! 20. Ke1? Bd6!)
+15. Qxd3 Qxd3
+16. exd3 Rfe8+ 17. Be3 Bxf5 18. Nxf5 g6?! 19. Ng3?
+  (19. O-O-O! {Active defense with an attack on undefended c5 bishop})
+Nd5 20. Ne4 Nxe3 21. Kd2??
+  (21. fxe3 Bxe3 22. Nf6+ Kg7 23. Nxe8+ Rxe8 24. Be2 Nd4 { it is hard for White to find a reasonable move here})
+Nxf1+
+22. Rhxf1 Bd4 23. f4 f5 24. Nd6 Re6 25. Nc4 b5 26. Ne5 Bxb2 27. Ra2 Bxe5 28. fxe5 Rxe5
+
+
+
+
