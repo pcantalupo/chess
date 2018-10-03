@@ -8,7 +8,8 @@
 [WhiteElo "1552"]
 [BlackElo "1925"]
 [TimeControl "30min/d5"]
-{ opening: London }
+[Lichess "https://lichess.org/kNlGQStT"]
+[Opening "London"]
 1. d4 Nf6 2. Bf4 d5 3. Nf3 { delay this until Black e6 } e6 4. e3 Be7 5. Bd3 O-O 6. c3 c5 7. O-O Nc6 8. Nbd2 Qb6
 9. Qb3 Bd7 10. Ne5 Nxe5 11. Bxe5 Ng4 12. Bf4 f5 13. c4 g5 14. Qxb6 axb6 15. Bc7 b5
 16. cxb5?! { -1  Probably due to undoubling Black b-pawns and c4 tempo attacking White bishop}
@@ -24,4 +25,3 @@ Rag8 34. Bxb3 Bxb3 35. Rxb3 Ne2+ 36. Kf2??
 Rxg2+ 37. Ke1 Rg1+ 38. Kxe2 Rxa1 39. Be1 Rg7 40. Rb6 Ra2+ 41. Kd3 Re7 42. Bh4 Rf7
 43. Rxe6 Rxa5 44. Bf6 Ra3+ 45. Ke2 Ra2+ 46. Kf3 Rc7 47. Re8 Kg6 48. Rg8+ Kh5??
 {I stopped recording bc running out of time; can't remember moves. White is winning here due to passed e-pawn }
-
