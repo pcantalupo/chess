@@ -1,0 +1,24 @@
+[Event "Sorensen"]
+[Date "2018.10.16"]
+[Round "5"]
+[White "Paul Cantalupo"]
+[Black "Steve O'Connor"]
+[Result "1-0"]
+[WhiteElo "1665"]
+[BlackElo "~1450"]
+[TimeControl "2hr 5delay"]
+[Opening "London"]
+[Lichess "https://lichess.org/qUW0LctG"]
+1. d4 Nf6 2. Bf4 e6 3. Nf3 c5 4. e3 d5 5. c3 Nc6 6. Nbd2 Bd6 7. Bg3 O-O 8. Ne5 Ne7
+9. Bd3 c4 10. Bc2 b5 11. O-O Bb7 12. Qe2 Nf5 13. Bf4 Be7 14. h3
+  (14. g4!? Nd6 15. g5 Nfe4 16. h4 Nxd2 17. Qxd2 Ne4 18. Qe2 Nd6 19. Qg4 Nf5 20. h5)
+Nd6 15. Bh2?!
+  (15. a4! { I missed this because I didn't realize that the Bishop was now blocked by the Knight move.
+  You must ask yourself the question "what is that last Black move doing and not doing?"})
+Nfe4
+16. Nxe4 Nxe4 17. f3 Nf6 18. g4?! {I felt like being aggressive tonight!} h6
+19. Rae1 Nd7 20. Nxd7 Qxd7 21. Qf2 Bd6 22. Bxd6 Qxd6 23. e4 Rac8? { letting White advance the pawn }
+24. e5 Qe7 25. Qe3 Rce8 26. Re2 Bc8 27. f4 g5?? 28. f5 a6??
+  (28... exf5 {I saw this line up to Qf3 and thought it was good for White }
+  29. Bxf5 Bxf5 30. Rxf5 f6 31. e6 Rd8 32. Qf3 { +1.5 })
+29. f6 Qd8 30. h4! {best move} Kh8 31. hxg5 {best move} Rg8 32. Qh3 {best move; black resigned}
