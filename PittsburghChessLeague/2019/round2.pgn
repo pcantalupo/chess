@@ -1,0 +1,34 @@
+[Event "Pittsburgh Chess League"]
+[Site "Pittsburgh, PA"]
+[Date "2018.10.21"]
+[Round "1"]
+[White "Paul Cantalupo"]
+[Black "John Surlow"]
+[WhiteElo "~1650"]
+[BlackElo "~1650"]
+[TeamWhite "Pitt III"]
+[TeamBlack "Southern Knights Gold"]
+[Result "1/2-1/2"]
+[TimeControl "30/90 d5; SD60 d5"]
+[Lichess "https://lichess.org/7pGXs4r6"]
+[Opening "London with Bf5"]
+{needs more analysis}
+1. d4 Nf6 2. Bf4 d5 3. e3 Bf5 4. Bd3 Qd7 5. Nf3 Bxd3 6. Qxd3 a6 7. a4 Nc6 8. c3 O-O-O 9. Nbd2 e6
+10. h3 Bd6 11. Bxd6 cxd6 12. b4 e5 13. b5 e4 14. bxc6 Qxc6 {until this move, I did not realize
+how backward my c-pawn was going to be.} 15. Qc2 exf3 16. Nxf3 h6 17. O-O Ne4 18. Qd3 Kd7 19. Rfc1 Rc8
+20. Ra3 {I wanted to play Rab1 to Rac2 but I didn't want a4 to drop} Rc7 21. Nd2 Rhc8 22. Nxe4 dxe4
+23. Qe2 f5 24. Qh5 {I wanted to stay aggressive since Black was getting low on time for first
+time control} Qd5 25. g4 Rf8 26. Qg6 Kd8 27. Rb1
+  (27. c4 {I saw this line but Black would have to blunder to allow this plan to
+materialize} Rxc4 (27... Qc6!) 28. Rxc4 Qxc4 29. Qxd6+ Ke8 30. Qb8+ Kf7 31. Qxb7+ Kg8)
+Rf6 28. Qh5 Rcf7 29. g5 {Again trying to be aggressive and jettison g-pawn}
+  (29. Rab3 {I wanted to play this move. I forgot that Black Queen was undefended therefore leading to worry about a ghost move
+fxg4.})
+hxg5 30. Qxg5
+  (30. Qh8+ {I missed this sneaky line 30... Kc7 31. c4 Qxc4 32. Qa8})
+30... Qe6 31. Kh2 Kc8 32. Rc1 d5 33. Ra2 Qd6+ 34. Qg3 f4 35. Qg4+ Kb8 36. Kh1 f3?? 37. Qg1
+  (37. Qg3 {I thought this line would be worse with rook battery and passed
+f-pawn} Qxg3 38. fxg3)
+Ka8 38. Qh2 Qd7 39. Rg1 Rh6 40. h4 Rf8 41. Rg3 Rfh8 42. Rh3 Qxh3 43. Qxh3 Rxh4 44. Qxh4 Rxh4+ 45. Kg1 g5 46. c4 dxc4 47. Rc2 b5 48. axb5 axb5 49. Rb2 Rg4+
+  (49... Kb7 {this is the line I visualized} 50. Rxb5+ Ka6 51. Rc5 Rg4+ 52. Kf1 {=})
+50. Kf1 Rh4 51. Kg1 Rg4+ 52. Kf1
