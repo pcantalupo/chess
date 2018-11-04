@@ -13,12 +13,16 @@
 [Lichess "https://lichess.org/7pGXs4r6"]
 [Opening "London with Bf5"]
 {needs more analysis}
-1. d4 Nf6 2. Bf4 d5 3. e3 Bf5 4. Bd3 Qd7 5. Nf3 Bxd3 6. Qxd3 a6 7. a4 Nc6 8. c3 O-O-O 9. Nbd2 e6
+1. d4 Nf6 2. Bf4 d5 3. e3 Bf5 4. Bd3 Qd7 5. Nf3 Bxd3 6. Qxd3 a6 7. a4?! {worried about b5 square}
+  (7. O-O b5 8. a4 {breaking down the light squares} bxa4 9. Nc3 a3 10. Rxa3)
+Nc6 8. c3 O-O-O 9. Nbd2 e6
 10. h3 Bd6 11. Bxd6 cxd6 12. b4 e5 13. b5 e4 14. bxc6 Qxc6 {until this move, I did not realize
 how backward my c-pawn was going to be.} 15. Qc2 exf3 16. Nxf3 h6 17. O-O Ne4 18. Qd3 Kd7 19. Rfc1 Rc8
 20. Ra3 {I wanted to play Rab1 to Rac2 but I didn't want a4 to drop} Rc7 21. Nd2 Rhc8 22. Nxe4 dxe4
 23. Qe2 f5 24. Qh5 {I wanted to stay aggressive since Black was getting low on time for first
-time control} Qd5 25. g4 Rf8 26. Qg6 Kd8 27. Rb1
+time control}
+  (24. c4 { followed by Qb2, Rc3 would have secured the Queen side} )
+Qd5 25. g4 Rf8 26. Qg6 Kd8 27. Rb1
   (27. c4 {I saw this line but Black would have to blunder to allow this plan to
 materialize} Rxc4 (27... Qc6!) 28. Rxc4 Qxc4 29. Qxd6+ Ke8 30. Qb8+ Kf7 31. Qxb7+ Kg8)
 Rf6 28. Qh5 Rcf7 29. g5 {Again trying to be aggressive and jettison g-pawn}
