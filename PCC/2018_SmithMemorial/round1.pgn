@@ -1,0 +1,33 @@
+[Event "Smith Memorial"]
+[Date "2018.11.13"]
+[Round "1"]
+[White "Paul Cantalupo"]
+[Black "Melih Ozbek"]
+[Result "0-1"]
+[WhiteElo "1635"]
+[BlackElo "2129"]
+[TimeControl "2hr 5delay"]
+[Opening "A43 Old Benoni Defense"]
+[Lichess "https://lichess.org/EwaJAsyJ"]
+1. d4 c5 {blocks White from playing the London!} 2. d5 e6 3. c4 Nf6 4. Nc3 exd5 5. cxd5 d6
+6. Bf4!? {Premature. e2-e4 is going to be played so no rush to get Bishop out. e4 or Nf3 are top two lines}
+  (6. e4 g6 7. f4! Bg7)
+g6 7. Nf3 Bg7 8. e4 a6 9. a4 O-O 10. Bd3 {I had difficult deciding between Bd3 and Be2}
+Re8 11. O-O c4 {a novelty in Master games} 12. Bc2
+  (12. Bxc4 {I didn't play this because I was going to be a pawn down with playing 13. Qc2 } Nxe4 13. Qc2
+    (13. Nxe4 Bxb2 {I quickly dismissed ever taking on e4 with my Knight because of Bxb2 but did not realize I had Nxd6 with a threat on rook and b7} 14. Nxd6!)
+  Nxc3 14. bxc3 Qc7 15. Bd3 Qxc3 16. Qxc3 Bxc3)
+Bg4 13. h3 Bxf3 14. Qxf3 Qe7 15. Qe2 Qc7 16. Qd2 Nbd7 17. Rfe1 Rab8 18. a5 Nh5 19. Be3 Nc5
+20. f3
+  (20. Ra3 { I thought about this but was feeling pressure on e4 which in retrospect was a ghost. Also Ra3 disconnects my rooks and I've been having problems with coordinating my pieces in many games})
+Rbc8 21. g4 {I played this to then play Bd4. If I reversed move order, Black Knights were going to dominate d3 square}
+  (21. Bd4 Bxd4+ 22. Qxd4 Nf4 {d3 square is dominated by Black knights})
+Nf6 22. Bd4 Qd8 23. Na4 {long think; 39min left} Nfd7 24. Bxg7 Kxg7 25. Nxc5 { long think; 26min left}
+Rxc5 26. Ba4 {trying to get rid of the Knight since it was going to dominate my dark squares}
+Rxa5 27. Qc3+ Kg8 28. Bxd7 Rxa1 29. Rxa1 Qxd7 30. Qxc4 Rc8 31. Qd4? {my downfall starts; I'm having difficulty finding good moves in an open heavy piece ending} Qb5
+32. Rd1? Qe2 33. Qd2 {played this immediately since I was upset for having let the Queen infiltrate}
+Qxf3 34. Qd3 Qf4 35. Rd2 Rc1+ 36. Kg2 Re1 37. Rf2 Qxe4+ 38. Qxe4 Rxe4 39. Rf6 Re2+ 40. Kg3 Rxb2 41. Rxd6 Kf8
+42. Rd7 Ke8 43. Rc7 Rd2 44. Rxb7 Rxd5 45. Ra7 Ra5 46. Kf4 h5 47. gxh5 Rxh5 48. Rxa6 Rxh3
+49. Kg5 Rf3 50. Ra5 Kf8 51. Re5?? { down to 1 minute left } f6+
+
+
