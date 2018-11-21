@@ -1,0 +1,34 @@
+[Event "Smith Memorial"]
+[Date "2018.11.20"]
+[Round "2"]
+[White "Alexander Sax"]
+[Black "Paul Cantalupo"]
+[Result "0-1"]
+[WhiteElo "~1550"]
+[BlackElo "1635"]
+[TimeControl "2hr 5delay"]
+[Opening "Caro Kann Maroczy Fantasy variation"]
+[Lichess "https://lichess.org/sL6zMKn0"]
+1. e4 c6 2. d4 d5 3. f3 g6! { planned this move based on https://www.youtube.com/watch?v=0yMkAJ6Pyig }
+4. Nc3 Bg7 5. Be3 dxe4 6. fxe4 Nf6 7. Nf3 O-O 8. Bc4 { my preparation ended at this move } Nbd7!?
+  (8... b5! 9. Bb3 b4 10. Ne2 Nxe4 {winning the e-pawn})
+9. O-O Qc7?! { need to play b5 here } 10. Qe1 Ng4!? { time 1h43m; plan is to control and attack e5 }
+11. Bd2? Qb6? { time 1h36m; plan was to follow Knight move with e5 but White puts e5 pawn in a pin with Qg3}
+  (11... Bxd4+! {winning a pawn because of mate threat; I clearly missed this!})
+12. Ne2 e5!? { time 1h28m }
+  (12... c5 13. Ba5 { I was totally oblivious to this threat } Qc6 14. d5 Qd6)
+  (12... Nde5 13. Ba5 Nxf3+ 14. gxf3 Bxd4+ 15. Kg2)
+13. Qh4
+  (13. Ba5! {I totally missed this} Qxb2 14. Bb3 exd4 15. Rb1 Qa3 16. h3 Nge5 17. Bb4 Qa6)
+13... exd4 14. Kh1
+  (14. Ng5! Ndf6 15. e5 d3+ 16. Kh1 dxe2 17. exf6 exf1=Q+ 18. Rxf1 Bh6 19. h3 Bxg5 20. Bxg5 h5 21. hxg4 Bxg4)
+14... Nde5 15. Nxe5 Nxe5 16. Bb3 Be6 17. Bxe6 fxe6 18. b3 Qc5 {time 1h10m} 19. Bg5 Rxf1+ 20. Rxf1 Rf8 {time 52m}
+  (20... Qxc2 21. Nxd4 Qd3 22. Qf2)
+21. Rxf8+ Qxf8 22. Qe1
+  (22. Qh3 Qf1+ 23. Ng1 Qf7)
+h6 {time 44m} 23. Bd2 c5 { unnecessary due to the following tactical line }
+  (23... d3 24. Bb4 Nf3 25. Bxf8 Nxe1 { double threat of capture knight and bishop})
+24. h3 g5 25. Bc1 d3 26. cxd3 Nxd3 {time 38m} 27. Qg1 Nf2+ 28. Kh2 Be5+ 29. g3 Qf3
+30. Qe1 Nxe4 {time 27m} 31. Kg1 Bxg3 {time 22m} 32. Nxg3 Qxg3+ 33. Qxg3 Nxg3 34. Be3 b6
+35. h4 Nf5 36. Bf2 Kf7 37. a4 Nd4 38. b4 Nf3+ 39. Kg2 Nxh4+ 40. Kg3 cxb4 41. Bg1 b3
+
