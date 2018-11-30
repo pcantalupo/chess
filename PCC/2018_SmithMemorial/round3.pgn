@@ -1,0 +1,27 @@
+[Event "Smith Memorial"]
+[Date "2018.11.27"]
+[Round "3"]
+[White "Paul Cantalupo"]
+[Black "Shane Barrett"]
+[Result "1-0"]
+[WhiteElo "1635"]
+[BlackElo "~850"]
+[TimeControl "2hr 5delay"]
+[Opening "London with 1... d5 and 2... Nf6"]
+[Lichess "https://lichess.org/eWj1953Z"]
+1. d4 d5 2. Bf4 Nf6 3. e3 a6 4. Bd3 Nc6 5. c3 b5 6. Nd2 h6 7. h3 Bb7 8. Ngf3 e6 9. O-O g5
+10. Bh2 g4 11. hxg4 Nxg4 12. Bf4 Bd6 13. Qe2 Bxf4 14. exf4 Qf6 15. g3 h5 16. Nh4 Ne7
+17. Ndf3 Ng6 18. Nxg6 fxg6 19. Bxb5+ c6 20. Bd3 h4 21. Nxh4??
+  (21. Ng5 { double attack on knight and Queen check! I saw this move but do not know why I didn't play it})
+  (21. Kg2 { I saw this but worried about King being stuck in the corner } h3+ 22. Kh1)
+Rxh4 22. gxh4 Qxh4 23. f3 Ne3
+24. Rf2 Qg3+ 25. Rg2
+  (25. Kh1 { I quickly declined this line since I did not want my King on an open h-file} O-O-O 26. Rh2! {defends the h-file} Qxf4 27. Re1)
+Nxg2 26. Qxg2 Qxg2+ 27. Kxg2 Ke7 28. Rh1 Rf8 29. Kf2 Rxf4 30. Bxg6 Rf6
+31. Rh7+ Kd6 32. Bd3 Bc8 33. Rh1 e5 34. dxe5+ Kxe5 35. Ke3 c5 36. Rh4 c4 37. Bc2 Bf5
+38. Rh5 Ke6 39. Rxf5 Rxf5 40. Bxf5+ Kxf5 41. Kd4 Ke6 42. f4 a5 43. f5+ Kxf5 44. Kxd5 Kf4
+45. Kxc4 Ke3 46. b4 axb4 47. cxb4 Ke4 48. b5 Ke5 49. Kc5 Ke6 50. Kc6 Ke5 51. b6 Kd4
+52. b7 Kc3 53. b8=Q Kc4 54. Qb3+ Kd4 55. Kd6 Ke4 56. Qd5+ Kf4 57. Qe5+ Kf3 58. Kd5 Kf2
+59. Qc3 Ke2 60. Ke4 Kf2 61. Qd3 Kg2 62. Qe3 Kh1 63. Qd2 Kg1 64. Kf3 Kh1 65. Qg2#
+{ I had no time trouble in this game. I ended with ~55 minutes left }
+
