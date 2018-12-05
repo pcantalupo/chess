@@ -3,10 +3,20 @@
 [Round "4"]
 [White "Vassil Prokov"]
 [Black "Paul Cantalupo"]
-[Result ""]
+[Result "1-0"]
 [WhiteElo "1817"]
 [BlackElo "1635"]
 [TimeControl "2hr 5delay"]
-[Opening ""]
-[Lichess ""]
+[Opening "Caro-Kann advance variation"]
+[Lichess "https://lichess.org/pKn2tgY7"]
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O c5 7. Na3 cxd4 8. Nxd4 Ne7
+9. c4 dxc4 10. Nxc4 Nc6 11. Nxf5 exf5 12. Bf4 Be7 13. Nd6+ Bxd6 14. exd6 O-O 15. Qd2 Re8 16. Bf3
+  (16. Bg5 Rxe2)
+16... h6 17. Rfe1 Qf6 18. Rac1 g5 19. Bxc6 bxc6 20. Re7 Rad8
+  (20... Red8! 21. Be3 f4 22. Bd4 Qxd6)
+21. Rce1 Kf8
+  (21... Rf8 22. Be3 f4 23. Bxa7)
+22. Qe3 gxf4 23. Rxe8+ Rxe8 24. Qxe8+ Kg7 25. Qxd7 Qg6 26. Qe7 f3 27. Qe5+ Kh7 28. Qg3 Qf6
+29. d7 Qd4 30. Qxf3 Qxd7 31. h3 Qd2 32. Re2 Qd1+ 33. Kh2 Qd6+ 34. g3 Kg6 35. Rc2 c5
+36. Qc3 f4 37. Qxc5 Qb8 38. Qc6+ Kg7 39. Qf3
 
