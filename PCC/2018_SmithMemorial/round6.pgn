@@ -1,0 +1,19 @@
+[Event "Smith Memorial"]
+[Date "2018.12.18"]
+[Round "6"]
+[White "Paul Cantalupo"]
+[Black "Byron Miller"]
+[Result "0-1"]
+[WhiteElo "1635"]
+[BlackElo "Unr"]
+[TimeControl "2hr 5delay"]
+[Opening "London 2... Nf6 and 3... c5"]
+[Lichess "https://lichess.org/q27SaYny"]
+1. d4 Nf6 2. Bf4 c5 3. e3 d5 4. Bd3 Nc6 5. c3 g6 6. Nd2 c4 7. Bc2 Bg7 8. Ngf3 O-O
+9. h3 Re8 10. O-O b5 11. Re1 Bb7 12. Ne5
+  (12. e4 dxe4 13. Nxe4 Nd5 14. Bg3 f5 15. Nc5 e6)
+12... Qb6 13. Nxc6 Bxc6 14. e4 dxe4 15. Nxe4 Nd5 16. Be3 Rad8 17. Qe2 f5 18. Ng5
+Rd6 19. Nf3 e6 20. Ne5 f4 21. Nxc6 fxe3 22. Ne5 Bxe5 23. dxe5 Rf8 24. Rf1
+  (24. exd6 exf2+ 25. Kh1 fxe1=Q+ 26. Rxe1)
+exf2+ 25. Rxf2 Nf4 26. Qf1 Rd2 27. Kh1 Rxf2
+
