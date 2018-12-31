@@ -1,0 +1,19 @@
+[Event "Bomberault"]
+[Date "2018.12.22"]
+[Round "2"]
+[White "Daniel Kolich"]
+[Black "Paul Cantalupo"]
+[Result "0-1"]
+[WhiteElo "1331"]
+[BlackElo "1622"]
+[TimeControl "45m 5delay"]
+[Opening "English"]
+[Lichess "https://lichess.org/Ejx6lEfn"]
+1. c4 c6 2. Nc3 d5 3. cxd5 cxd5 4. d4 Nf6 5. g3 Nc6 6. Bg2 e6 7. e3 Bd6 8. a3 a6
+9. Nge2 Qe7 10. O-O b5 11. Bd2 Na5 {I played this too fast and didn't see Knight attack on Queen. Need to realize that my Knight is undefended and look for White tactics on next move }
+12. Na2 Nc4 13. Bc3 Bb7 14. Qb3 O-O 15. Rfd1 a5 {long think 26min left}
+16. Qxb5 Ba6 17. Qb3 Nxe3 18. Rd2 Nxg2 {played too fast. Rfb8!  No time pressure; still had ~22min}
+19. Kxg2 Ne4 20. Rc2 Rfb8 21. Nb4 Bc4 {20min left}
+22. Nc6 Rxb3 23. Nxe7+ Bxe7 24. Nf4 Nxc3 25. bxc3 Bxa3 26. Rd1 Bb2 27. Nd3 Bxd3
+28. Rxd3 a4 29. Rd1 a3 30. Rb1 a2 31. Rcxb2 axb1=Q
+

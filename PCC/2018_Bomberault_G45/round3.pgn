@@ -1,0 +1,36 @@
+[Event "Bomberault"]
+[Date "2018.12.22"]
+[Round "3"]
+[White "Paul Cantalupo"]
+[Black "Bill Layton"]
+[Result "0-1"]
+[WhiteElo "1622"]
+[BlackElo "1777"]
+[TimeControl "45m 5delay"]
+[Opening "London"]
+[Lichess "https://lichess.org/QCGguEdy"]
+{this was a well fought game on both sides and the kind of loss that I don't mind losing. I felt like I played strong moves for most of the game.}
+1. d4 d5 2. Bf4 Nf6 3. e3 e6 4. Nf3 b6 5. Bd3 Bb7 6. Nbd2 Be7 7. h3
+  (7. h4 { an aggressive line can be played here } O-O 8. Ne5 Nbd7 9. Qf3 Nxe5 10. dxe5 Nd7 11. Bxh7+ {greek gift} Kxh7 12. Qh5+ { = } Kg8 13. Nf3 f6 14. Ng5! fxg5 15. hxg5 { = })
+O-O 8. c3 c5
+9. a4 Nbd7 10. O-O Ne4 11. Bb5 { I wanted to exchange off his Knight to get my Knight to e5 with tempo on Queen.}
+  (11. Qc2 cxd4 12. exd4 f5)
+a6 12. Bxd7 Qxd7 13. Ne5 Qd8 14. f3? { stop weakening your king side!}
+  (14. Nxe4 {play more aggressive with this line} dxe4 15. Qg4 f5 16. Qh5 cxd4 17. cxd4 Rc8)
+Nf6 15. Bg5 h6 16. Bh4 Nd7 17. Bxe7 Qxe7 18. f4 {25 min left} Qd6 19. Ndf3? {missed a cool tactic against undefended Queen!}
+  (19. dxc5 bxc5
+    (19... Nxc5 20. b4 Nd7 21. Ndc4 Qc7 22. Nxd7 Qxd7 23. Nxb6)
+    20. Ndc4 Qc7 21. Nxd7 Qxd7 22. Nb6)
+Nf6 20. g4 Ne4 21. Qe1 Qe7 22. Kh2 Kh7
+23. Rg1
+  (23. g5 {missed some sharp tactical lines with this move})
+f6 24. Nd3 g5 25. Rf1 Kg7 26. Nf2 {9min left} Rh8 27. Kg2 Bc6 28. fxg5 hxg5 29. Nh1 Qd6
+30. Ng3 Nxg3 31. Qxg3 Qxg3+ 32. Kxg3 c4 33. a5 b5 34. Rae1 Rab8 35. Nd2 b4 36. Rb1 Rb5
+37. Ra1 bxc3 38. bxc3 Rb2 39. Nf3 Rhb8 40. h4 gxh4+ 41. Nxh4 R8b3 42. Rfc1 {1 min left...time trouble}
+Be8 43. Nf3 Bg6 44. g5 Be4 45. gxf6+ Kxf6 46. Ne5 Rg2+ 47. Kf4 Rbb2 48. Rf1 Rbf2+
+49. Rxf2 Rxf2+ 50. Kg3 Rc2 51.Rb1 Rxc3 52.Rb7 Bg6 53.Kf3 Ra3 54.Nd7+ Kg5 55.Nc5 Bf5
+56.Rb6 Rxa5 57.Nxe6+ Bxe6 58.Rxe6 Ra3 59.Re5+ Kf6 60.Rxd5 c3 61.Rc5 a5 62.Ke4 a4
+63.Kd5 Rb3 64.e4 a3 65.Rc6+ Kg5 66.Kc4 Rb1 67.Kxc3 Rc1+ 0-1
+
+
+
