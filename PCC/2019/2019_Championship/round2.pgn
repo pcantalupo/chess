@@ -1,0 +1,28 @@
+[Event "PCC Championship"]
+[Date "2019.01.15"]
+[Round "2"]
+[White "Paul Cantalupo"]
+[Black "Daniel Kolish"]
+[Result "1/2-1/2"]
+[WhiteElo "1622"]
+[BlackElo "~1350"]
+[TimeControl "2hr 5delay"]
+[Opening "London with d6"]
+[Lichess "https://lichess.org/nBQsP3vE"]
+1. d4 Nf6 2. Bf4 g6 3. e3 d6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Nbd7 7. h3 Ne4 8. Nbd2 Ndf6
+9. Nxe4 Nxe4 10. Bd3 Nf6 11. Re1 Bd7 12. c3 Rc8 13. Bc4 {first long think}
+  (13. e4 { did not really consider this. Was thinking about Qd2, Qb3, and Rc1. Had difficulty thinking about my plan of attack. How to efficiently decide on a plan??})
+c6 14. Qe2 Re8 15. Bb3 Bf5
+16. Rac1 Be4 17. Ng5 Bd5 18. c4 Be4 19. Red1 {1hr 4 min} d5 20. Nxe4 {57min} dxe4 21. Rd2 Qd7 22. Rcd1 e6
+23. Bc2 {good move by the engine. I wanted to play d5.}
+  (23. d5 {I saw this line but did feel I was developed enough to completely open the position. Black has a Queen battery and a clear path for Dark bishop} exd5 24. cxd5 cxd5 25. Bxd5 Nxd5 26. Rxd5 Qc6)
+b6 24. Be5 {39 min. I spent on average 5 min for past 4 moves. Need to calculate quicker to save time for endgame}
+b5 25. Bxf6 Bxf6 26. Bxe4 a6
+27. d5? { I always seem to make the wrong choice when to advance pawns in the center during the middle game.}
+cxd5 28. cxd5 e5 29. Bf3 {I thought about d6 but did not want pawn on dark square where I lose a defender and Black has dark bishop}
+Qd6 30. Qd3 Rc4 31. Be2 Rec8 32. Qb1 R4c7 33. Bg4 Rd8 34. Rc2 Be7 35. Rxc7 Qxc7 36. Qd3 {20min} f5
+37. Be2 Bd6 38. Rd2 Rc8 39. g3 {16min} e4 40. Qb3 Qc1+ 41. Rd1 Qc2 42. Qxc2 Rxc2 43. Kf1 Kf7
+44. a4 bxa4 45. Ra1 Rxb2 46. Rxa4 Rb6 47. Kg2 Kf6 48. Bxa6 Ke5 49. Bc4 Rb4 50. Rxb4 Bxb4
+51. h4 h5 52. f3 exf3+ 53. Kxf3 Bd6 54. Bd3 Kxd5 55. e4+ fxe4+ 56. Bxe4+ Ke6 57. Bxg6 Kf6
+58. Bxh5 Kg7 59. g4 {3min} Be5 60. g5
+
