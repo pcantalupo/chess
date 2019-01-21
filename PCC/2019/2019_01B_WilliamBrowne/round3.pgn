@@ -15,7 +15,9 @@
   (8... c5 {I have alot of trouble seeing these lines. I keep thinking Queen is going to grab b7 pawn} 9. dxc5 Nxc5 10. Qb5+ Nc6! {never see this move to block check and b-pawn is defended})
 9. Ng5 h6 10. Nf3 g5 11. Bd2 c5
   (11... g4 {continue the attack! but the plan is not crystal clear} 12. Ne1 Qb6 13. Be3)
-12. dxc5 Bxc5 13. Qb5 Qc7 14. b4 a6 15. Qa5 b6 16. Qa3 Bd4?? 17. Nxd4
+12. dxc5 Bxc5? {too eager to get bishop out. It blocks Queen defense of d5. }
+  (12... Nxc5 Qb5+ 13. Qd7 {simply block with Queen})
+13. Qb5? (13. Nxd5! {tactic to win pawn that defends my knight }) Qc7 14. b4 a6 15. Qa5 b6 16. Qa3 Bd4?? 17. Nxd4
   (17. Nb5!! {I keep missing these Knight forks against my queen})
 Nxd4 18. Qb2 Qb8
 19. Be3 Nf5 20. a4 Qxe5 21. Qc1 Qxc3 22. Rb1 O-O 23. Rb3 Qc4 24. Re1 b5 25. a5 Rac8
