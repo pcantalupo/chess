@@ -1,0 +1,23 @@
+[Date "2019.01.21"]
+[White "Jason (Einstein bagel)"]
+[Black "Paul Cantalupo"]
+[Result "1-0"]
+[TimeControl "skittles"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[Site "https://lichess.org/31gGJRkF"]
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3 Bxd3 5. Qxd3 e6 6. Nf3 c5 7. c3 Nc6 8. a3 cxd4
+9. cxd4 Nge7 10. Nc3 a6 11. b4 Nf5 12. g4
+  (12. Bg5 Be7 13. Bxe7 Qxe7 14. Nxd5! {be careful of this Knight tactic that tries to win a pawn} Qd8 15. Nc3 Nfxd4
+  16. Rd1
+    (16. Nxd4 Qxd4 17. Qxd4 Nxd4)
+  16... Nxf3+ 17. Qxf3 Qc7)
+Nh4 13. Nxh4 Qxh4 14. h3 Be7 15. Be3 h5
+16. O-O-O a5 17. Nb5 Rc8 18. Kb1 axb4 19. axb4 Nxb4 20. Qb3 O-O
+  (20... hxg4 21. Nd6+ Bxd6 22. exd6 Qh7+ 23. Kb2 Qe4! {knight is indirectly defended because of mate threat after Qxb4} 24. Qxb4??)
+21. Nd6 Bxd6 22. exd6 Nc6
+23. gxh5 Qe4+ 24. Qd3 Qxd3+ 25. Rxd3 Na5 26. Rg1 Kh7 27. Bd2 Nc4 28. Bb4 Rc6 29. Rdg3 Rb6
+30. Rxg7+ Kh8??
+  (30... Kh6 { King is immune from checks because g6 is defended by pawn })
+31. d7 Rxb4+ 32. Kc2 Rb2+ 33. Kc3 Rxf2 34. Rg8+ Rxg8 35. Rxg8+ Kxg8
+36. d8=Q+ Kh7 *
