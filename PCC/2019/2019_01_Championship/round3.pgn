@@ -1,0 +1,29 @@
+[Event "PCC Championship"]
+[Date "2019.01.22"]
+[Round "3"]
+[White "Bryant Sims"]
+[Black "Paul Cantalupo"]
+[Result "0-1"]
+[WhiteElo "1333"]
+[BlackElo "1622"]
+[TimeControl "2hr 5delay"]
+[Opening "London with c4"]
+[Lichess "https://lichess.org/cWkrBd96"]
+1. Nf3 d5 2. d4 Nf6 3. Bf4 Bf5 4. e3 e6 5. Nbd2 Be7 6. Be2 h6 7. h3 Nbd7 8. O-O O-O
+9. c4 c6 10. Rc1 Re8 {long think. Wanting to playing Nf8-Ng6 attacking bishop. Thought about a5 and a6. a5 would block b4 incase White wants to support a c5 push. 95min}
+11. Re1
+  (11. c5 { I worried about this push since I don't have Rb8 nor Qc7 in response to Qb3.} a5 12. Qb3 b6 {b5 and Qc8 are playable})
+Ne4 {90min}
+12. Bd3
+  (12. Nxe4 {this was my idea behind Ne4. I wanted to give up my bishop pair for more control of e5 and I could play Bd6 but I didn't see c5 at the end of the line} Bxe4 13. Nd2 Nf6 14. Nxe4 Nxe4 15. c5!)
+Nxf2 {88min} 13. Kxf2 Bxd3 14. Nb3
+  (14. Qb3 {I didn't calculate this line} Bxc4 15. Qxb7 Bb5 16. Bc7 Qc8)
+Bxc4 15. Ne5 Nxe5 16. Bxe5 Bd6 {75min. I was in trading down mode. Didn't want to let his pieces get any activity }
+17. Qd2 Bxe5 {69min} 18. dxe5 Qg5 19. Qd4 f6 20. exf6 e5 { I played this too quickly. I didn't calculate pawn push with check.}
+21. Qc5 Qxf6+ 22. Kg1 b6 23. Qb4 c5 {52min} 24. Qc3 Bxb3 { I was in trading down mode again. Feared letting his knight get active }
+25. Qxb3 Qe6 26. Rcd1 Rad8 27. Rd2 Rd6
+28. Qa4 Qd7 29. Qxd7 Rxd7 30. Red1 d4 {42min} 31. exd4 cxd4 32. Kf2 Kf7 33. Kf3 e4+ 34. Ke2 Red8
+35. Rf1+ Ke6 36. Rf4 Ke5 37. g3 g5 38. Rf1 Rd6 {35min} 39. Rf7 R8d7 40. Rxd7 Rxd7 41. a3 Rf7
+42. Ke1 d3 43. Rd1 Kd4 44. Rc1 Rf3 45. Rc6 Ke3 46. Rxh6 d2+ 47. Kd1 Rf1+
+
+
