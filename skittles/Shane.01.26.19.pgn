@@ -1,0 +1,28 @@
+[Event "Skittles"]
+[Date "2019.01.26"]
+[White "Paul Cantalupo"]
+[Black "Shane Barrnett"]
+[TimeControl "15min 5delay"]
+[Opening "London"]
+[Lichess ""]
+1. d4 d5 2. Bf4 Nf6 3. e3 Bf5 4. Nf3 e6 5. Be2 h6 6. c3 Bd6 7. Qb3 b6
+  (7... Bxf4 8. Qxb7 {going in for a sharp line} Nbd7 9. exf4 Rb8 10. Qxa7 Rxb2 11. Nbd2 O-O 12. Qa3 Qb8 13. O-O {Black slight edge})
+8. Ne5 c5 9. dxc5 Bxc5
+  (9... bxc5 10. Qb7 Nbd7??
+    (10... O-O!! { Rook sacrifice to trap the queen! } 11. Qxa8 Qb6!))
+10. Nd2 O-O 11. Ndf3
+  (11. O-O {so bishop still eyes Nh5})
+11... Nh5 12. Nd3 Bxd3 13. Bxd3 Nxf4 14. exf4 Qf6 15. g3 Nc6
+  (15... g5!? 16. Qa4 gxf4 17. Qxf4 Qxf4 18. gxf4 Bd6 19. Ne5 {pawns look ugly but Black King is exposed})
+16. O-O Rad8 17. Rad1 e5!?
+  (17... g5 18. Qa4 gxf4 19. Qxf4 Qxf4 20. gxf4)
+18. Nxe5 Nxe5 19. fxe5 Qxe5 20. Rfe1 Qf6 21. Re2 Rfe8 22. Rde1?? Bxf2+ {White completely missed this}
+23. Rxf2 Rxe1+ 24. Kg2 Qc6 25. Be2 Re8
+  (25... d4+ 26. Bf3 Qd6 27. cxd4 Qxd4 28. Bh5 Qe4+ 29. Kh3 Qe6+ 30. Qxe6 fxe6 31. Bf7+ Kh7 32. Bxe6)
+26. Bf3 R8e5 27. Rd2 Qc5 28. Rd4 a5 29. Qc2 b5 30. Qd2 Qe7 31. Kf2 Qf6 32. Rf4 Qb6+
+33. Rd4 Qf6 34. Rf4 Qg5 35. h4 Qe7 36. Rd4 Rf5
+37. Kg2 {Game ended here on time. Play could have continued... } Re3 38. Rf4 Rfe5
+39. Kf2 g5 {put pressure on Rook and Bishop position} 40. Rd4 Qe6 { wanting to invade on h3 }
+41. hxg5 hxg5 42. Rd3 Re1 {building mate threat on f1} 43. b3 Qh3
+44. Bg2 { Have to block mate threat. Either this or Queen exchange for Rook pair} Qf5+
+45. Bf3 Rh1 {bishop is pinned and white will lose queen} 46. g4
