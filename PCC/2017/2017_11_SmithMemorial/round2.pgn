@@ -8,6 +8,8 @@
 [WhiteElo "1500"]
 [BlackElo "1700"]
 [TimeControl "2hr/d5"]
+[Opening "D30 Queen's gambit declined"]
+[Lichess "https://lichess.org/lpO9kjBP"]
 1. d4 Nf6 2. c4 e6 3. Nf3{ anti-Nimzo } 3... d5 4. e3 c5 5. Nc3 cxd4 6. exd4 Nc6
 7. b3 Bb4 8. Bd2 dxc4 9. bxc4 Nxd4? { trap is sprung }
   (9... Be7 { hard to find this since the d-pawn looks good for the taking } )
@@ -18,5 +20,3 @@
 24... e5 25. Qe3 h5 26. Ba4 Be4
   (26... Bxa4 27. Nxa4 Qc2 28. Nc3)
 27. Nxe4 Nxe4 28. Bc2 Qd7 29. Qxe4 {black resigns}
-
-
