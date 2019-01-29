@@ -1,0 +1,36 @@
+[Event "Pittsburgh Chess League"]
+[Site "Pittsburgh, PA"]
+[Date "2018.01.27"]
+[Round "5"]
+[White "Paul Cantalupo"]
+[Black "Jonathan Naser"]
+[WhiteElo "1622"]
+[BlackElo "1751"]
+[Result "1/2-1/2"]
+[TimeControl "30/90 d5; SD60 d5"]
+[Lichess "https://lichess.org/QVw45OdT"]
+[Opening "London 2.d5"]
+1.d4 d5 2.Bf4 e6 3.Nf3 Nf6 4.e3 Bd6 5.Bg3 O-O 6.Bd3 c5 7.c3 c4 8.Bxd6 Qxd6 9.Bc2 Nbd7
+  (9... b5 {I didn't see these lines to combat queen side pawn advances} 10. Nbd2 a5
+  11. e4
+    (11. a4 b4 12. e4 {need to strike in the center since Black has to respond} dxe4 13. Nxe4 Nxe4 14. Bxe4)
+  11... dxe4 12. Nxe4 Nxe4 13. Bxe4)
+10.Nbd2 b5 11.b3 {I had trouble deciding how to proceed. I chose this line because felt like I had to break down c4 before I get squeezed. 1h12min}
+  (11. e4 {saw this line but didn't like my bishop on c2 with Black bishop on b7 } dxe4 12. Nxe4 Nxe4 13. Bxe4 Rb8 14. O-O Nf6)
+  (11. Qe2 {Another line I considered. Didn't like it because Black gets a tempo on my Queen and I'm still uncastled.} Bb7 12. e4 dxe4 13. Nxe4 Nxe4 14. Bxe4 Bxe4 15. Qxe4 Nf6)
+  (11. O-O)
+cxb3 12.axb3 Qc7 13.Rc1! {defending the pawn indirectly due to Bxh7+} Bb7 14.Qe2 {1hr 3min}
+  (14. Bd3 {I considered this line but for some reason I thought my undefended bishop was susceptible to attack } a6 15. O-O e5 16. dxe5 Nxe5 17. Nxe5 Qxe5 18. Nf3 Qh5 { I like this position better than the text 18.Qh5 })
+a6 15.O-O {57min}
+  (15. c4 {Examined this line but decided to risky with King uncastled and black has an outside passer. Equal! =} dxc4 16. bxc4 bxc4 17. Nxc4)
+e5 16.dxe5 Nxe5 17.Nxe5 Qxe5
+18.Nf3 Qh5 19.h3 {43min} Ne4 20.Bxe4 {figured that my Knight was better than his Bishop; 37min}
+  (20.Nd4! { I missed this simple sequence to save my bishop})
+dxe4 21.Nd4 Qxe2 22.Nxe2 Bd5 23.Nd4 {29min} Rac8 24.Rc2 {Was trying to determine if Nf5 worked} Rc7
+25.Ra1 {top move} Bb7 26.c4 Rfc8 27.Rac1
+  (27. Nf5 {tried to make this work but didn't see 28.c5! and worried about Rd3} Rd8 28. c5!)
+bxc4 28.bxc4 g6 29.c5 Bc6 30.Rb2 {4min to spare for time control} Bb5 31.Nxb5 axb5 32.Rxb5 f5 33.Kh2 Kf7
+34.Kg3 Ke6 35.Kf4 h6 36.h4 {41min} Kf6 37.Rb6+ {35min} Rc6 38.Rxc6+ Rxc6 39.f3 {30min} g5+ 40.hxg5+ hxg5+ 41.Kg3 Ke5
+42.Kf2 Kd5 43.Kg3 exf3 44.gxf3??
+  (44.Kxf3! {I didn't realize how much my position needed King to control e4. I didn't want to have three pawn islands and I respected his connected fg pawns too much})
+Rxc5 45.e4+ {18min} fxe4
