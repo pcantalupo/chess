@@ -1,0 +1,29 @@
+[Event "PCC Championship"]
+[Date "2019.01.29"]
+[Round "4"]
+[White "Paul Cantalupo"]
+[Black "Finn Overlie"]
+[Result "0-1"]
+[WhiteElo "1622"]
+[BlackElo "1675"]
+[TimeControl "2hr 5delay"]
+[Opening "London with 2.d5"]
+[Lichess "https://lichess.org/u7Rl2Lbc"]
+{needs analyzed}
+1. d4 Nf6 2. Bf4 d5 3. e3 c5 4. c3 cxd4 5. exd4 Bf5 6. Bd3 Bg6 7. Nf3 e6 8. O-O Be7 9. Bxb8
+  (9. Bxg6 hxg6 10. Bxb8 Rxb8)
+  (9. Bb5+ Nbd7 10. Ne5 a6 11. Bxd7+ Nxd7 12. Nxg6 hxg6 13. Nd2)
+9... Bxd3 10. Qxd3 Rxb8 11. Ne5 Qb6 12. Qc2 O-O 13. Nd2 Rbc8 14. Qb3 Qxb3 15. axb3 a6
+16. f4 Rc7 17. Rae1 Bd6 18. f5 Re7 19. fxe6 Rxe6 20. Ndf3 Ne4 21. Ng4 Rfe8
+22. Nf2
+  (22. Nge5 f6 23. Nd3)
+Nd2 23. Rxe6 Nxf3+ 24. gxf3 Rxe6 25. Nd3 Kf8 26. c4
+  (26. b4)
+Re3 27. Nc5 Bxc5 28. dxc5 dxc4 29. bxc4 Rb3 30. Rf2 Ke7 31. Kg2 g6 32. Rd2 h5 33. Kf2
+  (33. Kg3 g5 34. h3 f6 35. h4 g4 36. Kg2 gxf3+ 37. Kf2 Rb4 38. Rd5 (38. Rc2) 38... Rxc4 (38... Rxb2+ 39. Kxf3 Rb3+ 40. Kf4 Rh3))
+33... Rb4 34. Rc2 Kd7 35. Ke3 Rb3+ 36. Ke4 Kc6 37. h4
+  (37. Kd4 Rxf3 (37... a5 38. f4 Rf3 39. Ke4 Rb3 40. Kd4 a4 41. f5 gxf5 42. Rf2 h4 43. Rxf5 Rxb2 44. Rf6+ Kc7 45. Rxf7+ Kb8 46. Rf8+ Ka7 47. c6 bxc6 48. Rf7+ Kb6 49. c5+ Ka5 50. Ra7+ Kb4 51. Rb7+ Ka3 52. Rc7 Rxh2) 38. b4 Rf4+ 39. Kc3)
+37... Kxc5 38. Rd2 Rb4 39. b3 Rxb3 40. Rd7 Rb4 41. Rxf7 Rxc4+ 42. Ke3 Kb6 43. Rf6+ Rc6 44. Rf7 a5 45. f4 a4 46. f5 gxf5 47. Rxf5 Rc5 48. Rf1 Ka5 49. Kd4 b6 50. Rb1 Rb5 51. Rc1 Rb4+ 52. Kd5 Rxh4
+
+
+
