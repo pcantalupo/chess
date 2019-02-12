@@ -1,40 +1,22 @@
 [Event "30th Richard Abrams Memorial"]
 [Site "Pittsburgh Chess Club, Pittsburgh, PA"]
-[Date "2017.5.23"]
+[Date "2017.05.23"]
 [Round "2"]
 [White "O'Connor, Steve"]
-[Black "Cantalupo, P."]
+[Black "Cantalupo, Paul"]
 [Result "1-0"]
-[WhiteElo "~1500"]
-[BlackElo "unr"]
-[TimeControl "7200"]
-1. c4 c6
-2. Nf3 d5
-3. e3 Nf6
-4. Nc3 Bf5
-5. d4 e6
-6. a3 Be7
-7. cxd5 exd5
-8. Be2 0-0
-9. 0-0 Nbd7
-10. Nh4 Be6
-11. Bd3 c5
-12. Nf5 Bxf5
-13. Bxf5 Nb6
-14. dxc5 Bxc5
-15. b4 Be7
-16. Bb2 Nc4
-17. Qc2 Nxb2
-18. Qxb2 d4
-19. exd4 Qxd4
-20. Rad1 Qf4
-21. Bh3 Rad8
-22. g3 Qh6
-23. Bg2 b6
-24. Rfe1 Rxd1
-25. Rxd1 Qh5
-26. Qd2 Re8
-27. Re1 Kf8 { defending bishop so if I ever trade queens on d7 then I could play Rd8 if Bc6 which threatened a pin on my d7 knight. } 
-28. h3 Rd8
-29. Qe3 Ng8
-30. Qe4 Nf6
+[White USCF "1456"]
+[Black USCF "1511"]
+[TimeControl "2hr 5delay"]
+[Lichess "https://lichess.org/0oleCt9S"]
+[ECO "A11"]
+[Opening "English Opening"]
+[Variation "Caro-Kann defensive"]
+1. c4 c6 2. Nf3 d5 3. e3 Nf6 4. Nc3 Bf5 5. d4
+  (5. Qb3 Qb6 6. cxd5 Qxb3 7. axb3 Nxd5 8. e4 Nxc3 9. exf5)
+5... e6 6. a3 Be7 7. cxd5 exd5 8. Be2 O-O 9. O-O Nbd7 10. Nh4 Be6 11. Bd3 c5 12. Nf5 Bxf5 13. Bxf5 Nb6 14. dxc5 Bxc5
+15. b4 Be7 16. Bb2 Nc4 17. Qc2 Nxb2 18. Qxb2 d4 19. exd4
+  (19. Rad1 dxc3 20. Rxd8 cxb2 21. Rxf8+ Kxf8 22. Rb1)
+19... Qxd4 20. Rad1 Qf4 21. Bh3 Rad8 22. g3 Qh6 23. Bg2 b6 24. Rfe1 Rxd1 25. Rxd1 Qh5 26. Qd2 Re8
+27. Re1 Kf8 {defending bishop so if I ever trade queens on d7 then I could play Rd8 if Bc6 which threatened a pin on my d7 knight.}
+28. h3 Rd8 29. Qe3 Ng8 30. Qe4 Nf6?? 1-0
