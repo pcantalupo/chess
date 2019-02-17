@@ -5,3 +5,5 @@
 ## Pittsburgh Chess League
 1. All results [wallchart](http://www.pitt.edu/~schach/ChessPA/ChessLeague/pcl58wl.htm)
 2. [PCL website](http://www.pitt.edu/~schach/ChessPA/ChessLeague/wpapcl.htm)
+
+I added all rounds into SCID
