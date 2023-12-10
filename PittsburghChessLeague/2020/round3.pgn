@@ -1,0 +1,23 @@
+[Event "2020 Pittsburgh Chess League"]
+[White "Caliguire, John"]
+[Black "Cantalupo, Paul"]
+[Lichess "https://lichess.org/WuX6DyCw"]
+[Result "1-0"]
+[Date "2019.12.08"]
+[Round "4"]
+[WhiteElo "1851"]
+[BlackElo "1634"]
+[Opening "English Opening"]
+[Variant "Caro-Kann Defensive System"]
+[TimeControl "30/90; SD60 d5"]
+[ECO "A11"]
+1.  c4 c6 2.  Nc3 d5 3.  cxd5 cxd5 4.  d4 Nf6 5.  Bf4 Bf5 6.  e3 e6 7.  Nf3
+Be7 8.  Bd3 Bxd3 9.  Qxd3 a6 10.  O-O O-O 11.  Rfc1 Nc6 12.  a3 Na5 13. 
+Rab1 Nh5 14.  Ne5 Nxf4 15.  exf4 f6 16.  Ng4 Bd6 17.  f5 Qd7 18.  fxe6 Qxe6
+19.  Ne3 Bf4 20.  Ncxd5 Bxe3 21.  Nxe3 Rfd8 22.  d5 Qd6 23.  b4 Nc6 24.  Nc4
+Ne5 25.  Nxe5 Qxe5 26.  Rd1 Rd6 27.  Rd2 Rc8 28.  Qg3 Qe4 29.  Rbd1 Re8 30. 
+f3 Qe7 31.  Qf2 Red8 32.  Qc5 Qd7 33.  Qd4 Qa4 34.  Qc3 Qd7 35.  Rd4 Qe7 36. 
+Kf2 Kf8 37.  Re4 Qd7 38.  Red4 Qb5 39.  Qc2 Kg8 40.  Qc5 Qd7 41.  Rc1 Qf7
+42.  Qc7 R8d7 43.  Qb8+ Rd8 44.  Rc8 Qf8 45.  Rxd8 Rxd8 46.  Qxb7 Qd6 47. 
+g3 Qe5 48.  Re4 Qb2+ 49.  Re2 Qd4+ 50.  Kg2 Qxd5 51.  Re8+ 1-0
+

@@ -1,0 +1,24 @@
+[Event "2020 Pittsburgh Chess League"]
+[White "Coffin, Jonathan"]
+[Black "Cantalupo, Paul"]
+[Lichess "https://lichess.org/359pfQEt"]
+[Result "1-0"]
+[Date "2020.02.09"]
+[Round "6"]
+[WhiteElo "1636"]
+[BlackElo "1633"]
+[Opening "Queen's Pawn"]
+[Variant "London System"]
+[TimeControl "30/90; SD60 d5"]
+[ECO "A40"]
+1. d4 c6 2. Bf4 d5 3. c3 Nf6 4. e3 Bf5 5. Bd3 Bxd3 6. Qxd3 e6 7. Nd2 Bd6 8. Bg3 Qc7
+9. Ngf3 Nbd7 10. O-O e5 11. e4 O-O 12. dxe5 Nxe5 13. Nxe5 Bxe5 14. Bxe5 Qxe5 15. exd5 Rad8
+16. Nf3 Qc7 17. Qc2 cxd5 18. Rad1 Rd6 19. Rd4 Ne4 20. Nd2 Nxd2 21. Qxd2 Rfd8 22. Rd1 b5
+23. Qe2 Qd7 24. Qd3 a6 25. h3 h6 26. a3 Qc6 27. Qf3 Rf6 28. Qh5 Rfd6 29. Rf4 Qb7 30. Rfd4 Qc6
+31. Rf4 Qb7 32. Rg4 Qd7 33. Qe5 f6 34. Qg3 Qf7 35. Rgd4 Qe6 36. Kf1 Qe5 37. R1d3 Qxg3
+38. Rxg3 Kf7 39. Rgd3 Ke6 40. g4 g5 41. Re3+ Kd7 42. f4 Kc6 43. f5 h5 44. Kg2 Kd7 45. Kg3 h4+
+46. Kf3 Re8 47. Rxe8 Kxe8 48. Ke3 Kd7 49. Rd2 Kc6 50. Kd4 Rd7 51. Re2 Rd6 52. Re7 Kb6
+53. Re8 Kc6 54. Rc8+ Kb6 55. Rc5 Rc6 56. Rxd5 Rc4+ 57. Ke3 Kc7 58. Rd4 Rc5 59. Re4 Rc6
+60. Kd3 Kb6 61. Re6 Kc5 62. Rxc6+ Kxc6 63. Kd4 Kd6 64. b3 Kc6 65. c4 bxc4 66. bxc4 Kd6
+67. c5+ Kc6 68. Kc4 Kd7 69. Kd5 Kc7 1-0
+
