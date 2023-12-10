@@ -1,0 +1,25 @@
+[Event "2024 Pittsburgh Chess League"]
+[White "Jansen, Peter"]
+[Black "Cantalupo, Paul"]
+[Lichess "https://lichess.org/N0QtJJD1"]
+[Result "1-0"]
+[Date "2023.09.10"]
+[Round "1"]
+[WhiteElo "2124"]
+[BlackElo "1594"]
+[Opening "Saragossa Opening"]
+[ECO "A00"]
+[TimeControl "30/90; SD60 d5"]
+1. c3 d5 2. d4 Nf6 3. Bg5 e6 4. Nd2 Be7 5. Ngf3 Nbd7 6. e3 b6 7. Ne5 Nxe5 8.
+dxe5 Nd7 9. Bxe7 Qxe7 10. Nf3 Bb7 11. Bd3 O-O 12. Qc2 f5 13. exf6 Nxf6 14. Ne5
+Qe8 15. f4 c5 16. O-O c4 17. Be2 Nd7 18. Nxd7 Qxd7 19. Bg4 Qe7 20. Qd2 Bc6 21.
+Qd4 Bd7 22. Rf3 Qf6 23. Re1 Qg6 24. Rg3 Qf6 25. e4 Bc6?? {White faced tunnel vision
+thinking undefended bishop was lost in the two alternate lines. However, now I see that
+my bishop is indirectly defended due to Rxe1+ so that Bxd7 is a blunder.}
+(25... Qxd4+ 26. cxd4 Rae8 27. exd5 exd5 28. Bxd7?? {I didn't see Rxe1+})
+(25... Rae8 26. exd5 exd5 27. Bxd7?? {I didn't see Rxe1+})
+26. Bxe6+ Kh8 27. Qxf6 Rxf6 28. exd5 Re8 29. Rge3 Ba8 30. g3 Rff8 31. f5 Rd8
+32. Rd1 Rfe8 33. Re4 b5 34. Red4 h5 35. a4 a6 36. axb5 axb5 37. Ra1 Kh7 38. Ra5 Rb8
+39. g4 hxg4 40. Rxg4 Kh6 41. Ra6 g6 42. Bf7 Kh5 43. Raxg6 1-0
+
+
