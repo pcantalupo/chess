@@ -1,0 +1,39 @@
+[Event "Byland Memorial"]
+[Site "Pittsburgh, PA"]
+[Date "2019.04.02"]
+[Round "4"]
+[White "Jeromin, Mark"]
+[Black "Cantalupo, Paul"]
+[Result "1-0"]
+[WhiteUSCF "1629"]
+[BlackUSCF "1591"]
+[ECO "B17"]
+[EventDate "2019.03.12"]
+[Opening "Caro-Kann Defense"]
+[Variation "Karpov Variation"]
+[TimeControl "2hr-d5"]
+[Lichess "https://lichess.org/SoAL9g8e"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 {I prepared a new line against Mark 
+since we played the main line before.} 5.Bc4 Ngf6 6.Ng3 Nb6 7.Bb3 e6 8.Nf3
+c5 {Prepared this move. Top move by Masters. 1hr 14min} 9.c3 cxd4 10.cxd4 
+Bb4+ 11.Bd2 {Felt like I was equalized and happy with position} 11...Be7 
+$5 {During game I regretted not capturing. Felt like his bishop was going 
+to get active while Be7 would be too passive. I was right; see move 24. 
+Ba5} 12.O-O O-O {1hr 5min} 13.Ba5 Qd6 ( 13...Bd7 {Saw this line but 
+worried about the pin. That is why I played the text move} 14.Ne5 Rc8 ) 
+14.Re1 Nbd5 15.Rc1 b6 16.Bd2 Bb7 17.a3 Rac8 {99min} 18.Qe2 a6 {88min. Was 
+not sure what to do here} 19.Ne5 Rxc1 20.Rxc1 b5 {77min} 21.Bc2 Nb6 ( 
+21...b4 {Mark suggested this move since I have alot of control of b4 and 
+he said he was having trouble deciding on good moves. In retrospect, if he
+pushes a4 then that should be good for Black with more space. If captures,
+then d5 square is vacated for Queen or Bishop.} 22.a4 ) 22.Qd3 Qd5 23.f3 
+Rd8 {played too fast; too eager to pressure the d-file; totally missed the
+Ba5 pin; didn't think about my undefended pieces!} 24.Ba5 Rd6 ( 24...Bc5 
+$1 25.dxc5 {Saw these two moves but thought would have to capture White 
+Queen. I completely missed the capture and check with Qxc5. Miscalculation
+error} 25...Qxc5+ $1 ) 25.Bb4 Qxd4+ $4 {54min long think} 26.Qxd4 Rxd4 27.
+Bxe7 Nfd5 28.Bc5 Rd2 29.Ne4 Rxc2 30.Rxc2 f6 31.Nd6 Ba8 32.Bxb6 Nxb6 33.Nd7
+Nxd7 34.Rc8+ Nf8 35.Rxa8 {Mark did not make one Mistake nor Blunder in the
+game as per Lichess engine} 1-0
+

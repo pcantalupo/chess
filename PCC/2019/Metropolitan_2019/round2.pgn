@@ -1,0 +1,39 @@
+[Event "Metropolitan Open"]
+[Site "Pittsburgh, PA"]
+[Date "2019.03.09"]
+[Round "2"]
+[White "Cantalupo, Paul"]
+[Black "Waite, Dan"]
+[Result "1-0"]
+[WhiteUSCF "1554"]
+[BlackUSCF "1714"]
+[ECO "A45"]
+[EventDate "2019.03.09"]
+[Lichess "https://lichess.org/ngVgfAsI"]
+[Opening "Indian game"]
+[Variation "London system vs. d6"]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bf4 g6 3.e3 Bg7 4.h3 d6 5.Nf3 Nbd7 6.Nbd2 O-O 7.Be2 Re8 8.Bg3 
+Nh5 9.Bh2 Nhf6 10.O-O e5 11.dxe5 dxe5 12.c3 {36 min} 12...e4 13.Nd4 c6 14.
+b4 a5 15.Nc4 {I wanted to attack d6 even if it meant pawn sac. Wanted to 
+get rid of his light bishop to activate mine. 28 min} 15...axb4 16.Nd6 Re7
+17.Nxc8 Qxc8 18.Bd6 {21 min} 18...Re8 19.cxb4 Bf8 20.Bxf8 Kxf8 21.Qb3 {18 
+min
+} 21...Nd5 22.Rfc1 Qd8 23.Bc4 Ne5 24.a3 {Got passive; wanted to defend b4 
+against d5 knight.} ( 24.b5 $1 {Black can't play c5 or will lose Knight.} 
+) 24...Qd6 25.Rd1 Rad8 26.b5 {11 min
+} 26...Nxc4 27.Qxc4 c5 28.Ne2 b6 29.Nc3 {9 min
+} 29...Re5 30.Nxe4 $4 {Spent 4 min on this move. For some reason, I didn't
+even look at Ra2 or Rd2! :(  (5 min)
+} ( 30.Rd2 $1 Ree8 31.Rad1 Qe5 32.Nxd5 ) 30...Qe7 31.Nc3 Nxc3 32.Qxc3 {
+Best move. I considered Rxd8+ but it allows Black to control d-file
+} ( 32.Rxd8+ $5 Qxd8 33.Qxc3 Qd5 ) 32...Rxd1+ 33.Rxd1 Qe6 34.Rd8+ Ke7 35.
+Qd3 c4 36.Qd4 c3 37.Ra8 Rd5 38.Ra7+ {I stopped recording at this point but
+was able to reconstruct game from memory. Probably had 2 minutes left.
+} 38...Kd6 39.Qb4+ Rc5 40.Ra6 Ke7 41.Ra7+ Kd6 42.Ra6 Ke7 43.Qh4+ Qf6 44.
+Ra7+ Ke6 45.Qe4+ Re5 46.Qc6+ Kf5 47.Qxc3 Rc5 48.Qd3+ Ke6 49.Qd7+ Ke5 50.
+f4+ Ke4 51.Qe8+ Kd3 52.Rxf7 Qa1+ 53.Kh2 Qe1 54.Rd7+ Ke2 55.Qa8 Qf1 56.Qe4 
+Rc1 57.Qd3+ Kf2 58.Qxf1+ Rxf1 59.Rb7 Kxe3 60.Rxb6 Kxf4 61.a4 Ra1 62.a5 
+Rxa5 63.Rb7 h6 64.b6 Rb5 65.Rb8 h5 66.b7 Ke3 67.Re8+ Kf4 68.b8=Q+ Rxb8 69.
+Rxb8 1-0

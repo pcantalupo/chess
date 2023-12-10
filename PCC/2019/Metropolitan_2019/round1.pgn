@@ -1,0 +1,24 @@
+[Event "Metropolitan Open"]
+[Site "Pittsburgh, PA"]
+[Date "2019.03.09"]
+[Round "1"]
+[White "Hu, Hemu"]
+[Black "Cantalupo, Paul"]
+[Result "0-1"]
+[WhiteUSCF "1075"]
+[BlackUSCF "1554"]
+[ECO "B10"]
+[EventDate "2019.03.09"]
+[Lichess "https://lichess.org/oqhrfIDM"]
+[Opening "Caro-Kann Defense"]
+[Variation "Accelerated Panov"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6 5.Nc3 Nxd5 6.d4 e6 7.Nf3 Bb4 8.Bd2 
+Qa5 9.Nxd5 ( 9.a3 $1 {I didn't analyze a3 fully. I assumed my triple 
+attack would work but it does not.} 9...Bxc3 10.bxc3 Nxc3 $4 {doesn't work
+due to pin against Queen} 11.Qc2 ) 9...Bxd2+ 10.Qxd2 Qxd5 11.Be2 O-O 12.
+O-O Nd7 13.b3 Nf6 14.Bc4 Qd6 15.Rfe1 a6 16.h3 b5 17.Bd3 Bb7 18.Re3 Rfd8 
+19.Rd1 Rac8 20.Bb1 Nd5 21.Re5 Nc3 22.Rc1 Nxb1 23.Rxb1 Bxf3 24.gxf3 Qxe5 
+25.dxe5 Rxd2 26.f4 Rcc2 27.a3 Rxf2 28.Rd1 g6 29.Rd8+ Kg7 30.Rd6 Rfd2 31.
+Rxa6 Rc1# 0-1

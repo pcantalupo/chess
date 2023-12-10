@@ -1,0 +1,40 @@
+[Event "Byland Memorial"]
+[Site "Pittsburgh, PA"]
+[Date "2019.04.16"]
+[Round "6"]
+[White "Needham, Patrick"]
+[Black "Cantalupo, Paul"]
+[Result "1/2-1/2"]
+[WhiteUSCF "1568"]
+[BlackUSCF "1591"]
+[ECO "B12"]
+[EventDate "2019.03.12"]
+[Lichess "https://lichess.org/m7ZTK2KD"]
+[Opening "Caro-Kann"]
+[Variation "Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Nd7 6.Nbd2 c5 {Only 2 Master games
+played this move. Ne7 is top move (26 games)
+} 7.O-O cxd4 8.Nxd4 Ne7 {I was playing quickly. 1hr 18min} 9.f4 Qb6 $2 {
+Why not put the knight in a pin? However, engine disagrees and i'm not 
+sure why} ( 9...Bg6 {Thought about this move; didn't like the pawn storm. 
+Here is a way to deal with it!
+} 10.g4 h5 11.gxh5 Nf5 12.hxg6 Qh4 13.Rf2 Nxd4 14.gxf7+ Kxf7 $10 ) 10.Nb3 
+Nc6 11.c3 Nc5 {took about 5min} 12.Kh1 Nxb3 13.Nxb3 Be7 14.Bd3 Bxd3 15.
+Qxd3 O-O 16.Qg3 f5 $1 {Top move. Long think; 90min left.} ( 16...g6 $2 {
+Saw that this line was not good.} 17.f5 exf5 18.Rxf5 ) ( 16...Qd8 ) 17.Be3
+Qc7 18.Rac1 Nd8 {I had a long plan to reposition knight on e4 via b7 and 
+c5 but in retrospect it is too slow. I want to trade my Bishop for his 
+Knight since I think my Knight will be much stronger than his dark Bishop.
+} ( 18...Na5 {saw this line but went with the text plan
+} 19.Nd4 Qd7 20.b3 Nc6 $10 ) ( 18...b5 {Thought this might be a way to 
+induce Nc5 so I could trade off Knight} 19.Nc5 Bxc5 20.Bxc5 Rfe8 21.Bd6 
+Qd7 ) 19.Nd4 Bc5 ( 19...b6 20.Nb5 Qc4 {Missed this variation} 21.Nd6 Qxa2 
+) 20.Nb5 Qc6 21.Bxc5 Qxc5 22.Nd6 Qb6 23.Rc2 Nf7 {69min} 24.Nxf7 Rxf7 25.
+Qd3 Rc8 26.Rfc1 Rfc7 27.c4 dxc4 {Long think 51 min left. Saw idea to win 
+b2 pawn with threat to win rook} 28.Rxc4 Qxb2 {45min} 29.h3 Rxc4 {I missed
+how the trade of rooks at the end was a draw. If I'd have seen that, then 
+maybe I would have thought seriously about trading my queen for his two 
+rooks. Still, I was worried that his Queen would get to active on my weak 
+e6 pawn.
+} 30.Rxc4 Rxc4 31.Qd8+ Kf7 32.Qd7+ Kf8 33.Qd8+ Kf7 {draw agreed} 1/2-1/2

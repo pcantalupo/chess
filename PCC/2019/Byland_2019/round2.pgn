@@ -1,0 +1,38 @@
+[Event "Byland Memorial"]
+[Site "Pittsburgh, PA"]
+[Date "2019.03.19"]
+[Round "2"]
+[White "Hausler, Nathan"]
+[Black "Cantalupo, Paul"]
+[Result "0-1"]
+[WhiteUSCF "1369"]
+[BlackUSCF "1591"]
+[ECO "B10"]
+[EventDate "2019.03.12"]
+[Opening "Caro-Kann Defense"]
+[Variation "2.Nc3"]
+[Lichess "https://lichess.org/OhRkiLFB"]
+
+1.e4 c6 2.Nc3 d5 3.exd5 cxd5 4.d4 Nf6 5.Bd3 Bg4 6.Nge2 e6 7.a3 Nc6 8.Be3 
+a6 9.O-O Bd6 {1:07 left} 10.Qd2 O-O 11.Bg5 Be7 {Also thought about e5 but 
+didn't feel like I could defend my IQP properly. 1:03
+} ( 11...h6 $1 {I thought about this move but worried about weakening g6 
+and if my bishop is forced back to that square} ) 12.Rfe1 Re8 13.Nd1 e5 {
+93min.} 14.dxe5 Nxe5 15.Ne3 Nxd3 16.Qxd3 Be6 17.Nd4 Nd7 {83min.} 18.Bf4 
+Nc5 19.Qd2 Ne4 {73min} ( 19...Bd6 20.Bxd6 Qxd6 21.Qb4 {didn't go for this 
+line because my queen was undefended.} ) ( 19...Bg5 20.Bxg5 Qxg5 21.Nf3 
+Qd8 {saw this line} ) 20.Qe2 Bd6 21.Nxe6 fxe6 {62min} 22.Bxd6 Qxd6 23.f3 
+Nf6 24.Rad1 Qc6 25.Rd4 e5 {54min} 26.Rh4 e4 {Spent 9 min on this move. Had
+alot of difficulty figuring out what to do. Thought about d4 but couldn't 
+come up with a concrete plan. 45min.} 27.Qf2 Qe6 {spent 11 min on this 
+move (20 min total for past two moves). As with previous move, had alot of
+difficulty figuring out what to do. Thought about Re5 but didn't like f4! 
+Also, d4 attacking Knight but was worried about over extending my pawns 
+and creating weak squares. Also, Rac8 to activate my rook. 34min left} 28.
+Qg3 Qe5 {spent 11 min on this move (~30 min on past three moves). 23min 
+left} 29.Qh3 exf3 {20min} 30.Qxf3 d4 31.Rh3 dxe3 32.Qxb7 Qc5 33.Kh1 Rab8 {
+9min} 34.Qxa6 Rxb2 35.Rg3 Rxc2 $4 {I was totally blind to the pin on my 
+Knight. Was too focused on trying to open a battery to White back rank 
+with Rook and Queen to force checkmate. 6min} 36.Qxf6 Qe7 37.Qf5 Rc5 38.
+Qd3 e2 39.Qb3+ Kh8 40.Qb1 Rd5 41.Rh3 h6 42.g3 Qe3 43.a4 Red8 44.Kg2 Rd1 
+45.Rxd1 exd1=Q 46.Qxd1 Rxd1 0-1

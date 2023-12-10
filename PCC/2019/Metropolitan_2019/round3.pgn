@@ -1,0 +1,35 @@
+[Event "Metropolitan Open"]
+[Site "Pittsburgh, PA"]
+[Date "2019.03.09"]
+[Round "3"]
+[White "Jeromin, Mark"]
+[Black "Cantalupo, Paul"]
+[Result "1-0"]
+[WhiteUSCF "1629"]
+[BlackUSCF "1554"]
+[ECO "B18"]
+[EventDate "2019.03.09"]
+[Lichess "https://lichess.org/J2MN7Psa"]
+[Opening "Caro-Kann"]
+[Variation "Classical Variation, Main Line"]
+[ECO "B18"]
+
+1.e4 {Mark had me frustrated for most of middle game since he did a very 
+good job of limiting my light bishop and not allowing for any trades. } 
+1...c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.N1e2 e6 8.Nf4 Bh7
+9.Bc4 Nf6 10.O-O Nd5 11.h5 Nxf4 12.Bxf4 Bd6 13.Be3 O-O 14.c3 Nd7 15.Qg4 
+Nf6 16.Qh3 Qc7 17.Qh4 Nd5 18.Bd2 b5 {27 min} 19.Be2 Nf4 20.Bf3 Rac8 21.Ne4
+Bxe4 22.Bxe4 Nd5 {19 min} 23.Bc2 Bf4 24.Be1 c5 25.g3 Bg5 26.Qe4 Nf6 27.Qe2
+cxd4 ( 27...Nd5 {thought about this quickly but I wanted to put pressure 
+on Bc2} 28.Qd3 f5 ) 28.f4 dxc3 29.Bxc3 Nd5 ( 29...b4 {Attack back when you
+are being attacked.} ) 30.fxg5 Qxg3+ {12 min} 31.Qg2 Qxg2+ 32.Kxg2 Nxc3 ( 
+32...Ne3+ {My desire to get rid of his bishop and win a pawn blinded me to
+the Knight fork. } ) ( 32...b4 {Undefended piece on c2. Got to look for 
+undefended pieces in the position.} 33.Be4 bxc3 34.Bxd5 exd5 35.bxc3 hxg5 
+) 33.bxc3 Rxc3 34.Rf2 hxg5 35.Raf1 f6 ( 35...Rd8 {indirectly defends f7} 
+36.Rxf7 Rd2+ {win bishop} ) 36.Bb3 Re8 37.h6 f5 38.hxg7 Kxg7 39.Rd2 Re7 
+40.Rd6 Kf6 {6 min
+} 41.Re1 Kg6 42.Rexe6+ Rxe6 43.Rxe6+ Kh5 44.Ra6 Kg4 45.Rxa7 Rg3+ 46.Kf2 
+Rf3+ 47.Ke2 Kg3 {3 min} 48.Rb7 Rf2+ 49.Kd3 Rf3+ 50.Kd4 b4 51.Kc5 Rf4 52.
+Bc4 g4 53.Rxb4 Kh4 54.Kd5 g3 55.Ke5 Kg5 56.Rb8 Rxc4 57.Rg8+ Kh4 58.Kxf5 
+Ra4 59.Rh8# 1-0

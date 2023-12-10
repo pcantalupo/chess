@@ -1,0 +1,31 @@
+[Event "Abrams Memorial 32nd"]
+[Site "Pittsburgh, PA"]
+[Date "2019.05.28"]
+[Round "4"]
+[White "Cantalupo, Paul"]
+[Black "Kostyak, Michael"]
+[Result "1-0"]
+[WhiteUSCF "1579"]
+[BlackUSCF "1666"]
+[ECO "A40"]
+[EventDate "2019.05.07"]
+[Lichess "https://lichess.org/XYATDdRe"]
+[Opening "Polish Defense"]
+
+1.d4 b5 2.Bf4 Bb7 3.e3 a6 4.Nf3 d5 5.Bd3 Nf6 6.Nbd2 e6 7.Qe2 c5 8.c3 c4 9.
+Bc2 b4 10.e4 bxc3 11.bxc3 Be7 12.Rb1 Bc6 13.Ne5 {long think 102min left; 
+thought about exd5 but didn't like it} 13...O-O ( 13...Qa5 {I saw that 
+this was a good move but did not spend anytime on possible lines} ) 14.
+Rxb8 {played in about 30 seconds which was too fast since I didn't 
+consider if I could really save my knight after Nxe7+; tactic of removing 
+the defender; top move by engine} 14...Qxb8 15.Nxc6 Qxf4 16.Nxe7+ Kh8 17.
+Nc6 Nxe4 18.g3 {5 min think; also considered Nxe4} 18...Qh6 19.Bxe4 {5min 
+think; 90 min left; felt like I needed to trade my bishop so that I would 
+have the two knights; also thought about Ne5 which would have been a 
+blunder that I completely missed over the board -> Nxc3! attacking my 
+queen} 19...dxe4 20.Ne5 f5 21.O-O {80 min left} 21...f4 22.Qxe4 Rab8 23.
+Ndf3 fxg3 24.fxg3 g5 ( 24...Rb2 {I was hoping for this so I could win his 
+Queen or give checkmate} 25.Nf7+ Kg8 26.Nxh6+ ) 25.Nf7+ Rxf7 26.Qe5+ Qf6 
+27.Qxb8+ Kg7 28.Qe5 Qxe5 29.Nxe5 Rb7 30.Rf2 Rb1+ 31.Kg2 Rc1 32.Nxc4 Rxc3 
+33.Ne5 Rc1 34.Nd3 Rc4 35.Nc5 e5 36.Ne6+ Kh6 37.Rf6+ Kh5 38.Ng7+ 1-0
+

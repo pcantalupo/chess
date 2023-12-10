@@ -1,0 +1,25 @@
+[Event "Abrams Memorial 32nd"]
+[Site "Pittsburgh, PA"]
+[Date "2019.06.04"]
+[Round "5"]
+[White "Dean, Ed"]
+[Black "Cantalupo, Paul"]
+[Result "1-0"]
+[WhiteUSCF "2056"]
+[BlackUSCF "1579"]
+[ECO "A16"]
+[EventDate "2019.05.07"]
+[Lichess "https://lichess.org/ECJLtnl6"]
+[Opening "English Opening: Anglo-Indian Defense"]
+[Variation "Queen's Knight Variation"]
+
+1.c4 Nf6 2.Nc3 c6 3.Nf3 d5 4.e3 e6 {Bf5?} 5.b3 Bd6 6.d4 Nbd7 7.Be2 dxc4 {
+spent 5min} 8.Bxc4 b5 9.Bd3 Bb7 10.O-O O-O 11.Bb2 a6 12.Re1 c5 {100min 
+left} 13.e4 cxd4 {e5} 14.Nxd4 Bc5 {long think with several lines: Nc5, 
+Ne5, e5. 80min left} 15.Nf3 Qb6 16.Qe2 Ng4 17.Rf1 Rfe8 {long think. 66min}
+18.h3 Nge5 19.Nxe5 Nxe5 20.Bc2 Rad8 {realized this was poor move quickly 
+after making it. Nc6!} 21.Nxb5 axb5 22.Bxe5 Bd4 23.Bxd4 Rxd4 24.Rfd1 Red8 
+{e5 line; 47min left} 25.Rxd4 Rxd4 26.a4 bxa4 27.bxa4 Ba6 {40min} 28.Qe1 
+Qd6 29.Qa5 Bd3 {31min} 30.Qa8+ Qf8 31.Qxf8+ Kxf8 32.Rd1 Bxe4 33.Rxd4 Bxc2 
+34.a5 Bb3 35.a6 Bd5 36.Rxd5 1-0
+

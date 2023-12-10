@@ -1,0 +1,38 @@
+[Event "Byland Memorial"]
+[Site "Pittsburgh, PA"]
+[Date "2019.03.12"]
+[Round "1"]
+[White "Cantalupo, Paul"]
+[Black "Dean, Ed"]
+[Result "0-1"]
+[WhiteUSCF "1591"]
+[BlackUSCF "2061"]
+[ECO "A45"]
+[EventDate "2019.03.12"]
+[Lichess "https://lichess.org/t27fNlvS"]
+[Opening "Indian game"]
+[Variation "London system with d5"]
+
+1.d4 Nf6 2.Bf4 e6 3.e3 d5 4.Nf3 c5 5.c3 Nc6 6.Bd3 Be7 7.Nbd2 ( 7.h3 {After
+Be7, need to play h3 to save the bishop pair} ) 7...O-O ( 7...Nh5 8.Bg3 
+Nxg3 9.hxg3 h6 $10 ) 8.O-O {Was thinking about Ne5, Qe2 and Qc2.  Engine 
+doesn't like Qc2.} 8...b6 9.h3 Bb7 10.Ne5 Rc8 11.Qe2 {Thought about Nf3 
+and a4. Both are playable by engine. Qf3 is top move (Qe2 is second)} ( 
+11.Qf3 Nxe5 12.dxe5 Nd7 13.Qg4 ) 11...Nxe5 12.Bxe5 ( 12.dxe5 $4 {Greek 
+gift doesn't work here} 12...Nd7 13.Bxh7+ Kxh7 14.Qh5+ Kg8 15.Nf3 f6 {saw 
+this line and could see how to make it work. I'm glad my suspicions were 
+confirmed by engine.
+} ) 12...Bd6 13.Bxd6 ( 13.Nf3 $5 Bxe5 14.Nxe5 Ne4 15.Rad1 f6 16.Nf3 {
+Thought about this line during game. Didn't like how I cannot kick Black 
+knight away with f3 due to fork on g3.} ) 13...Qxd6 14.e4 $2 {82 min
+} ( 14.Ba6 Bxa6 15.Qxa6 Rc7 ) ( 14.Nf3 {Top move. I didn't like it over 
+the board because it gives up some control of Ne4.} 14...Ne4 15.Nd2 ) ( 
+14.Rfe1 e5 15.dxe5 Qxe5 16.Nf3 Qe7 ) 14...dxe4 15.dxc5 $4 {Total mental 
+lapse!  I was so focused to attack Queen.} ( 15.Nxe4 Nxe4 16.Bxe4 Bxe4 17.
+Qxe4 cxd4 18.Rad1 e5 19.cxd4 exd4 20.Qxd4 Qxd4 21.Rxd4 Rc2 22.Rd7 Rxb2 23.
+Rxa7 {I saw this variation during the game.} ) 15...Qxd3 16.Rfe1 ( 16.Qxd3
+exd3 17.cxb6 axb6 18.Rfe1 ) 16...Qxe2 17.Rxe2 Rxc5 18.c4 Rd8 19.b3 Rc7 20.
+Nf1 Rcd7 21.Ne3 Rd3 22.Rc1 Nd7 23.b4 Ne5 24.c5 f5 25.cxb6 axb6 26.Rc7 R3d7
+27.Rec2 f4 28.Rxd7 Rxd7 29.Nc4 Nxc4 30.Rxc4 Bd5 31.Rc2 Ra7 32.Rc8+ Kf7 33.
+Rb8 Rxa2 34.Rxb6 e3 35.f3 Ra1+ 0-1
+

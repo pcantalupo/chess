@@ -1,0 +1,27 @@
+[Event "Abrams Memorial 32nd"]
+[Site "Pittsburgh, PA"]
+[Date "2019.05.21"]
+[Round "3"]
+[White "Lora, Jordhy"]
+[Black "Cantalupo, Paul"]
+[Result "0-1"]
+[WhiteUSCF "1235"]
+[BlackUSCF "1579"]
+[ECO "B12"]
+[EventDate "2019.05.07"]
+[Lichess "https://lichess.org/Otl9dPl6"]
+[Opening "Caro-Kann Defense"]
+[Variation "Advance variation, Short variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Nc3 Nd7 6.Be2 Ne7 7.h3 c5 8.Nb5 Nc6 9.
+g4 Be4 10.c3 Qb6 11.Be3 Bxf3 12.dxc5 Bxe2 ( 12...Qxb5 {I didn't see this 
+line at all. It avoids the complications of Knight fork} 13.Bxb5 Bxd1 14.
+Rxd1 {Black is up a piece and eveuntaully c5 pawn} ) 13.cxb6 Bxd1 14.Nc7+ 
+Kd8 15.Nxa8 Bf3 16.Rg1 axb6 17.Nxb6 Ncxe5 18.Kd2 Nxb6 {long think 88 min 
+left} 19.Bxb6+ Kd7 20.Bd4 Bd6 21.b3 Be4 22.Bxe5 Bxe5 23.Ke3 Rc8 24.f4 
+Rxc3+ 25.Kd2 Rd3+ ( 25...Rc2+ {better line since you can win a full rook} 
+26.Ke3 {if goes to 1st rank, Black wins a rook} 26...Bc7 {mate threat with
+Bb6} 27.Rgd1 Bb6+ 28.Rd4 Rc3+ {deflecting King away from defense of rook} 
+29.Kd2 Bxd4 {winning full rook} ) 26.Ke2 Bxa1 27.Rxa1 Rxh3 0-1
+
+

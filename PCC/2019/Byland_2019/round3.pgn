@@ -1,0 +1,36 @@
+[Event "Byland Memorial"]
+[Site "Pittsburgh, PA"]
+[Date "2019.03.26"]
+[Round "3"]
+[White "Cantalupo, Paul"]
+[Black "Lora, Jordhy"]
+[Result "1-0"]
+[WhiteUSCF "1591"]
+[ECO "A45"]
+[EventDate "2019.03.12"]
+[Opening "Indian game"]
+[Variation "London system with d5"]
+[Lichess "https://lichess.org/DhxZQ8zW"]
+
+1.d4 {I tried to play a patient game without trying to calculate complex 
+lines} 1...Nf6 2.Bf4 c6 3.c3 g6 4.e3 d5 5.Bd3 Bg7 6.Nf3 O-O 7.h3 Nh5 8.Bh2
+f5 9.O-O Nf6 10.Nbd2 Ne4 11.Ne5 Nd7 12.Ndf3 Ndf6 13.Qb3 {long think; not 
+sure what to do. 97min} 13...e6 14.a4 a5 15.Qc2 {Retreated since I thought
+f3 knight was going to get pushed away from King side attack and wanted to
+try to dislodge e4 knight} 15...Bh6 16.Nd2 ( 16.g4 $5 {Wanted to fork f6 
+and h6. Decided against to play a quieter, patient game} ) 16...Nxd2 17.
+Qxd2 Ne4 18.Qe2 Qh4 19.Nf3 {Long think. 79 min} ( 19.Rfe1 {thought about 
+this line to kick knight away but again, I played more patient, and slower
+} 19...Ra7 20.f3 ) 19...Qf6 20.Be5 Qf7 21.Bxe4 {Saw line to take control 
+of the dark squares by getting Knight to e5 or f6. Thought my knight would
+be better than his light bishop} 21...fxe4 22.Nh2 Bg7 23.f4 ( 23.Ng4 {more
+principled and in the spirit of playing pateintly and slowly} ) 23...b5 
+24.Ng4 Ba6 $1 {I didn't see this coming. I forgot about his light bishop; 
+thought it was dead} 25.Bxg7 Qxg7 26.Rf2 bxa4 27.Qd2 Bb5 28.Ne5 Ra7 29.Qc2
+{saw way to pressure Queen side, hopefully get pawn back and bust up his 
+pawn structure} 29...Qc7 30.c4 dxc4 31.Nxc4 {50 min} 31...Rf5 32.Rc1 Bxc4 
+33.Qxc4 Rd5 34.Qxa4 c5 35.Qe8+ Kg7 36.Qxe6 {42 min} 36...Qf7 37.Qxf7+ Kxf7
+38.Rxc5 Rxc5 39.dxc5 Rc7 40.b4 {considered Rc2 but liked forcing the 
+action here. 37 min} 40...axb4 41.Rb2 b3 42.Rxb3 Rxc5 43.Rb4 Rc1+ 44.Kf2 
+Rc2+ 45.Kg3 Kf6 46.Rxe4 h5 47.Kf3 Rb2 48.Ra4 Rb3 49.Ra6+ Kg7 50.g4 h4 51.
+f5 g5 52.Rg6+ 1-0

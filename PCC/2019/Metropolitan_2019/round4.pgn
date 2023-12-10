@@ -1,0 +1,26 @@
+[Event "Metropolitan Open"]
+[Site "Pittsburgh, PA"]
+[Date "2019.03.09"]
+[Round "4"]
+[White "Cantalupo, Paul"]
+[Black "Liu, Jason"]
+[Result "1-0"]
+[WhiteUSCF "1554"]
+[BlackUSCF "1292"]
+[ECO "D00"]
+[EventDate "2019.03.09"]
+[Lichess "https://lichess.org/5cf0yw0S"]
+[Opening "Queen's Pawn Opening: Mason Attack"]
+[Variation "London system; Bf5 mirror"]
+
+1.d4 d5 2.Bf4 Bf5 3.e3 e6 4.Bd3 Bxd3 5.Qxd3 Nf6 6.Nd2 ( 6.Qb5+ {these 
+lines don't lead to any advantage for white because of black rook counter 
+play} 6...Nbd7 7.Qxb7 Rb8 8.Qxa7 ( 8.Qxc7 Qxc7 9.Bxc7 Rxb2 10.Kd1 ) 8...
+Rxb2 ) 6...Bd6 7.Bg3 O-O 8.Ngf3 c6 9.Ne5 Nbd7 10.Nxf7 Rxf7 11.Bxd6 Nb6 12.
+Ba3 Qd7 13.Nf3 Nc4 14.O-O Qc7 15.Rab1 Ne4 16.Ne5 Nxe5 17.dxe5 Qxe5 18.f3 
+Nf6 19.Bb4 Qc7 20.Rbe1 c5 21.Bc3 Rd8 22.Bxf6 Rxf6 23.c3 Rh6 24.g3 Qb6 25.
+Rf2 c4 26.Qd4 Qxd4 27.exd4 Rf6 28.Kg2 a5 29.Rfe2 Re8 30.Re5 Kf7 31.f4 Rf5 
+32.Kf3 Rxe5 33.Rxe5 g6 34.g4 Kf6 35.h4 h6 36.f5 gxf5 37.gxf5 b5 38.fxe6 
+Rxe6 39.Rxd5 Rb6 40.Rc5 a4 41.a3 Ke6 42.Rh5 Kf7 43.Ke4 Ke7 44.d5 Kd7 45.
+Kd4 Kc7 46.Re5 Kd7 47.Kc5 Rb7 48.Re6 h5 49.Rh6 Rc7+ 50.Kxb5 Rb7+ 51.Kxc4 
+Rxb2 52.Kc5 Rb3 53.c4 Rxa3 54.Ra6 Rh3 {Black flagged} 1-0

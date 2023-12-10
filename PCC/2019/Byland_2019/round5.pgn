@@ -1,0 +1,36 @@
+[Event "Byland Memorial"]
+[Site "Pittsburgh, PA"]
+[Date "2019.04.09"]
+[Round "5"]
+[White "Cantalupo, Paul"]
+[Black "Markowski, Ethan"]
+[Result "1-0"]
+[WhiteUSCF "1591"]
+[BlackUSCF "1489"]
+[ECO "D00"]
+[EventDate "2019.03.12"]
+[Lichess "https://lichess.org/smGUGuDs"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[Variation "London system"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 Bf5 4.Bd3 Bxd3 5.Qxd3 Nbd7 6.Nd2 e6 7.Ngf3 Be7 8.h3
+c5 9.c3 {long think here; thought about c4; 104 min} 9...a6 10.a4 O-O 11.
+O-O c4 12.Qc2 b5 13.b3 {best move by engine. Thougth about axb5. Spent 
+about 5min. 90min} 13...Rc8 14.bxc4 {played since didn't want cxb with 
+tempo on Queen} 14...bxc4 15.a5 {fix weakness on a6 and play on light 
+squares; 83min} 15...Nb8 16.Rfb1 {thought too much about Ne5 to attack 
+Nc6. Took 15min. 69min} 16...Nbd7 17.Qa4 {Rb7. Both are top moves} 17...
+Ra8 18.Rb7 h6 19.Rab1 Qe8 20.Qc2 {Rc7 and Ne5. 48min} 20...Bd8 21.Qa2 Nh7 
+22.Bd6 Be7 23.Qa3 Bxd6 24.Qxd6 Nhf6 25.Rc7 {39min} 25...Rb8 26.Rbb7 {34min
+} 26...Rxb7 27.Rxb7 Nb8 28.Ne5 Qc8 29.Qe7 Qe8 30.Qc5 {did not want to 
+trade since thought White had a much stronger position. But engine shows 
+only +1.8. The black knights are strong defenders!} 30...Nfd7 31.Nxd7 Nxd7
+32.Qc6 Nb8 33.Qb6 {18min} 33...Qd8 34.Qxd8 {couldn't find any knockout 
+blow. I thought my position was strong but with engine, White doesn't have
+a strong advantage} 34...Rxd8 35.Nf3 f6 36.Re7 Nc6 37.Rxe6 Nxa5 38.Rxa6 
+Nb3 39.Kf1 Nc1 40.Ne1 Nb3 41.Ke2 Kf8 42.Ra7 g5 43.Rh7 Kg8 44.Ra7 Rd6 45.
+Kf3 f5 46.g4 Nd2+ 47.Kg2 fxg4 48.hxg4 Ne4 49.Ra3 Rf6 50.f3 Nd2 51.Ra2 Nb3 
+52.Rf2 Kf7 53.f4 gxf4 54.exf4 Nc1 55.f5 Kg7 56.Kg3 Rc6 57.Kf4 Nd3+ 58.Nxd3
+cxd3 59.Ke5 Rxc3 60.Kxd5 Rc2 61.Rf1 d2 62.Rd1 Kf6 63.Ke4 Kg5 64.d5 Kxg4 
+65.d6 Rc8 66.Rxd2 Rd8 67.d7 h5 68.Ke5 h4 69.Rd4+ Kg3 70.Rxh4 Kxh4 71.Ke6 
+Kg5 72.f6 Kg6 73.f7 Kg7 74.Ke7 {Black resigned} 1-0
