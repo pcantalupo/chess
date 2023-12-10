@@ -1,28 +1,29 @@
-[Event "Pittsburgh Chess League"]
+[Event "Pittsburgh Chess League 2019"]
 [Site "Pittsburgh, PA"]
 [Date "2018.09.30"]
+[EventDate "2018.09.30"]
 [Round "1"]
-[White "Steve Boak"]
-[Black "Paul Cantalupo"]
-[WhiteElo "1811"]
-[BlackElo "1665"]
+[White "Boak, Steve"]
+[Black "Cantalupo, Paul"]
+[Result "1-0"]
+[WhiteUSCF "1811"]
+[BlackUSCF "1649"]
+[ECO "A09"]
 [TeamWhite "Phalanx Silver Youth"]
 [TeamBlack "Pitt III"]
-[Result "0-1"]
 [TimeControl "30/90 d5; SD60 d5"]
 [Lichess "https://lichess.org/UFmSgjLJ"]
-[Opening "D46 English opening; Semi-Slav Defense: Bogoljubov Variation"]
-1. Nf3 d5 2. c4 c6?! 3. e3 Nf6 4. Nc3 e6 5. d4 Be7 6. Bd3 Nbd7 7. O-O O-O 8. Re1 Re8
-9. Qc2 h6 10. a3 c5 11. b3 b6 12. Bb2 Bb7 13. Rad1 Rc8?! 14. Qb1?! Qc7?!
-15. e4 dxe4 16. Nxe4 cxd4 17. Nxd4 Rcd8?! 18. Nb5 Qb8? 19. Ned6 Rf8 20. Nxb7 Qxb7 21. b4 a6 22. Nd4 a5?
-23. Ba1? Rb8?! 24. Qb2 Qc7 25. Nf5?! Bd8?! 26. Ne3?! Qf4?! 27. g3 Qg5?
-28. Qe2? Bc7 29. h4 Qh5 30. Qxh5 Nxh5 31. Kg2?! Be5 32. f4 Bxa1 33. Rxa1 Rfd8
-34. Rad1 Nhf6 35. Re2 Kf8 36. Red2 Ke7 37. Kf3?! axb4 38. axb4 Ra8 39. Nc2 e5? 40. Bf5 g6 41. Bd3?! e4+?
-42. Bxe4 Nxe4 43. Kxe4 Nf6+ 44. Kf3 Rxd2 45. Rxd2 Ra2 46. Re2+ Kd6 47. Nd4 Rxe2?! 48. Nxe2 Nd7 49. Nd4 h5
-50. g4 hxg4+ 51. Kxg4 Nf6+ 52. Kg5 Ne4+ 53. Kh6 Ng3? 54. Kg7 Ke7 55. Nc6+ Ke8 56. Kf6 Ne4+? 57. Ke5 Nd2
-58. Kd5 Kd7? 59. Ne5+ Ke7?! 60. Kc6 f6 61. Nxg6+ Kf7 62. h5 Nxc4 63. b5 Kg7 64. f5 Kh6 65. Nf4 Ne5+??
-66. Kxb6 Nc4+? 67. Kc7 Kg5 68. b6 Kxf4 69. h6 Ne5?! 70. h7 Nf7?! 71. b7 Kxf5 72. b8=Q Kg6 73. h8=Q Nxh8 74. Qxh8
+[Opening "Reti Opening"]
+[Variation "Reti gambit. Transposed to D45 Semi-Slav Defense"]
 
-
-
-
+1.Nf3 d5 2.c4 c6?! 3.e3 Nf6 4.Nc3 e6 5.d4 Be7 6.Bd3 Nbd7 7.O-O O-O 8.Re1 Re8 9.Qc2 h6
+10.a3 c5 11.b3 b6 12.Bb2 Bb7 13.Rad1 Rc8?! 14.Qb1?! Qc7?! 15.e4 dxe4 16.Nxe4 cxd4
+17.Nxd4 Rcd8?! 18.Nb5 Qb8? 19.Ned6 Rf8 20.Nxb7 Qxb7 21.b4 a6 22.Nd4 a5? 23.Ba1? Rb8?!
+24.Qb2 Qc7 25.Nf5?! Bd8?! 26.Ne3?! Qf4?! 27.g3 Qg5? 28.Qe2? Bc7 29.h4 Qh5 30.Qxh5 Nxh5
+31.Kg2?! Be5 32.f4 Bxa1 33.Rxa1 Rfd8 34.Rad1 Nhf6 35.Re2 Kf8 36.Red2 Ke7 37.Kf3?! axb4
+38.axb4 Ra8 39.Nc2 e5? 40.Bf5 g6 41.Bd3?! e4+? 42.Bxe4 Nxe4 43.Kxe4 Nf6+ 44.Kf3 Rxd2
+45.Rxd2 Ra2 46.Re2+ Kd6 47.Nd4 Rxe2?! 48.Nxe2 Nd7 49.Nd4 h5 50.g4 hxg4+ 51.Kxg4 Nf6+
+52.Kg5 Ne4+ 53.Kh6 Ng3? 54.Kg7 Ke7 55.Nc6+ Ke8 56.Kf6 Ne4+? 57.Ke5 Nd2 58.Kd5 Kd7?
+59.Ne5+ Ke7?! 60.Kc6 f6 61.Nxg6+ Kf7 62.h5 Nxc4 63.b5 Kg7 64.f5 Kh6 65.Nf4 Ne5+??
+66.Kxb6 Nc4+? 67.Kc7 Kg5 68.b6 Kxf4 69.h6 Ne5?! 70.h7 Nf7?! 71.b7 Kxf5 72.b8=Q Kg6
+73.h8=Q Nxh8 74.Qxh8 1-0

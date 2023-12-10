@@ -1,0 +1,68 @@
+[Event "Pittsburgh Chess League 2019"]
+[Site "Pittsburgh, PA"]
+[Date "2019.03.31"]
+[EventDate "2018.09.30"]
+[Round "7"]
+[White "Replogle, Harry"]
+[Black "Cantalupo, Paul"]
+[Result "1-0"]
+[WhiteUSCF "1829"]
+[BlackUSCF "1584"]
+[ECO "B13"]
+[TimeControl "30/90d5; 60d5"]
+[Opening "Caro-Kann Defense"]
+[Variation "Panov, Modern Defense, 6. Bg5"]
+[Lichess "https://lichess.org/aRC3RQKL"]
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 Be6 
+    {I expected Harry to play the Panov. I watched videos and went through
+    Master games to prepare 6...Be6. Looks odd but is the top move in the 
+    position. He seemed surprised.}
+7.c5 g6 8.Nf3 Ne4!? 
+    {thought about Bg7 but was too tempted to take the initiative. Bg7 is 
+    the only Master move}
+9.Bb5 Bg7 10.O-O O-O 
+    {Long think about Nxc3 and Bg4}
+11.Be3 Bg4 
+    {60min}
+12.Be2 
+    {felt that Black position is solid after Be2 retreat}
+12...b6 
+    {Questionable move for two reasons in retrospect: Knight is undefended
+    and a6 is weakened.}
+13.Qa4 Nxc3 
+    {50 min; also considered Rc8}
+14.bxc3 Rc8 15.Ba6 Qc7? 
+    {I thought about 15...Rc7 16. Bf4 e5 but couldn't make it work so I 
+    settled for the exchange. Problem of miscalculation. 38 min}
+    ( 15...Rc7! {This line looks so simple now but could not calculate it 
+    over the board} 16.Bf4 e5 17.Nxe5 Nxe5 18.Bxe5 Bxe5 19.dxe5 )
+16.Bxc8 Rxc8 17.cxb6 axb6 18.Qb3 Na5 
+    {Played too quickly. Still reeling from losing the exchange}
+19.Qxd5 Nc4 20.Qe4 Bf5 
+    {29min}
+21.Qf4 e5 
+    {25min}
+    ( 21...Nd6 )
+22.dxe5 Nxe5 23.Bd4 Nxf3+ 24.Qxf3 Bxd4 25.cxd4 Qc2 
+    {12min}
+26.Qe3 Qb2 27.Rfc1 Ra8 28.Qc3 Qb5 
+    {6min}
+29.Qc6 Qa5 30.a3 Be6 
+    {made time control with 4min}
+31.Qc3 Qa6 32.Qb4 Bd5 33.Qd6 Bc4 34.Rab1 b5 35.Qxa6 Rxa6 36.Ra1 Rd6 37.Rd1
+Kg7 38.f3 Re6 39.Rd2 f5 40.Kf2 Kf6 41.Re1 Ra6 42.Re3 f4 43.Rc3 Ke6 44.h4 
+h6 45.Rd1 Kd5 46.Kg1 Re6 47.Rd2 Re1+ 48.Kh2 Re6 
+    ( 48...Re3! {Missed strong chance to equalize. I saw this move right 
+    after the text move.} 49.Rxe3? fxe3 50.Rd1 e2 51.Re1 Kxd4 {=} )
+49.Rc1 Re3 50.Ra1 Re6 51.Kg1 g5 
+    {31min}
+52.hxg5 hxg5 53.Kf2 Re3 54.Re1 Rd3 
+    ( 54...Rxa3 {Play more actively to create a passed pawn. Black still 
+    losing but has active chances} 55.Re5+ Kd6 56.Rxg5 b4 )
+55.Rxd3 Bxd3 56.Re5+ Kxd4 57.Rxg5 Kc3 58.Rg7 Bc4 59.Ra7 Bb3 60.g4 fxg3+ 
+61.Kxg3 Ba4 62.Re7 Bb3 
+    {22min}
+63.f4 Kb2 64.f5 Kxa3 65.Re3 Ka4 66.Rxb3 Kxb3 67.f6 b4 68.f7 Kc2 69.f8=Q b3
+70.Qc5+ Kb1 71.Kf3 b2 72.Ke2 Ka2 73.Qa5+ Kb3 74.Qb5+ Kc2 75.Qd3+ Kc1 76.
+Qd1# 1-0
+

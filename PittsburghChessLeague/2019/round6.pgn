@@ -1,0 +1,68 @@
+[Event "Pittsburgh Chess League 2019"]
+[Site "Pittsburgh, PA"]
+[Date "2019.02.10"]
+[EventDate "2018.09.30"]
+[Round "6"]
+[White "Cantalupo, Paul"]
+[Black "Sax, Alexander"]
+[Result "1-0"]
+[WhiteUSCF "1591"]
+[BlackUSCF "1535"]
+[ECO "E61"]
+[Team "Pitt III"]
+[Opening "King's Indian"]
+[Variation "London system"]
+[TimeControl "30/90 d5; SD60 d5"]
+[Lichess "https://lichess.org/gYBQuKyW"]
+1.d4 Nf6 2.Bf4 g6 3.Nc3 c5 4.d5 Bg7 5.e4 O-O 6.Bd3 
+    {thought about Qd2 and d6 (78 min)}
+    ( 6.Qd2 )
+    ( 6.d6 )
+6...a6 7.a4 
+    ( 7.d6 )
+7...d6 8.Nf3 
+    {Took 7 min. Thought about Qd2 (70min)
+    }
+    ( 8.Qd2 )
+8...Bg4 9.O-O 
+    ( 9.h3 {I thought about h3 but didn't look deep enough into the line. 
+    I didn't see Nh5 attacking my bishop after 10. 0-0} 9...Bxf3 10.Qxf3 
+    Nh5 11.Be3 Nd7 12.g4 Nhf6 )
+9...Nh5 10.Bd2 Nd7 11.Be2 
+    {this move and last took 10min (59min)}
+    ( 11.h3 Bxf3 12.Qxf3 Ne5 13.Qe3 c4 
+        ( 13...Nxd3 14.Qxd3 )
+    14.Be2 )
+11...e5 12.h3 
+    {8 min think. Didn't want to open it up with dxe6e.p. (51min)}
+    ( 12.dxe6 fxe6 )
+12...Bxf3 13.Bxf3 Nhf6 
+    {Felt like I was Ok here. I starting plan to attack on Queen side 
+    since it didn't seem he was ready for an attack on Kingside.
+    }
+14.Be3 
+    {(42 min)}
+    ( 14.Qb1 )
+    ( 14.Be2 )
+14...h6 15.Qd3 Rc8 16.Qc4 Qe7 17.a5 
+    {(36min)}
+17...Nh7 18.Be2 Qh4 19.f4 
+    {Played in 3 min (29min left). I need to think more on these types of 
+    weakending moves. My King is exposed on dark diagonal.}
+19...f5 20.Kh2 
+    {Took 12 min (17 min left). I did NOT know what to do.
+    }
+20...exf4 21.Bxf4 Be5 22.g3 
+    {(14min)}
+22...Qf6 23.exf5 
+    {(11min)}
+23...g5 24.Bd2 h5 25.Ne4 Qh6 26.Bc3 
+    ( 26.h4! {I realized this move right after I played Bc3. I was too 
+    anxious to get control of the long diagonal.} )
+26...Nhf6 27.Nxf6+ Rxf6 28.b4 
+    {played quickly once I saw backrank weakness (5min)}
+28...cxb4 29.Qxc8+ Rf8 30.Qxd7 
+    {Made time control with about 3 min left.}
+30...Bxc3 31.Rad1 Rf7 32.Qe6 Qh8 33.Qg6+ Kf8 34.Bxh5 Re7 35.f6 Rh7 36.Qe8#
+1-0
+
