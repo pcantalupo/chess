@@ -1,0 +1,34 @@
+Skittles, no clock
+
+https://lichess.org/9dNejBz9
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. f4 e6 5. Nf3 Nd7 6. Bd3 Bxd3 7. Qxd3 Nh6
+(7... c5 8. Qb5 cxd4 9. Nxd4 Bc5)
+8. Nbd2 c5 9. c3 cxd4 {No need to capture yet. Let the tension lie. Taking allows White to either capture with
+Knight which frees up his position with Ndf3 or close center with cxd4. Play developing moves}
+(9... Be7)
+(9... Rc8)
+10. cxd4 Nf5 11. O-O h5 {Ok move but should play developing moves }
+(11... Rc8)
+(11... Qb6)
+12. Ng5 Be7? {missed tactic}
+(12... Nxd4 13. Qxd4 Bc5 14. Ndf3 Bxd4+ 15. Nxd4)
+13. Ndf3 Qb6 14. Be3? O-O? {missed tactic to win a pawn}
+(14... Qxb2 15. Rfb1 Qa3 16. Qxa3 Bxa3)
+15. Kh1 Rac8 16. b3
+(16. Nh4 g6)
+16... g6 17. a3 Kg7 18. b4 Rh8 {Wasted move due to Rac1. I was trying for a kingside attack}
+(18... Rc4)
+19. Rac1 Nxe3
+(19... Rc4 {I didn't look deep enough into this line. I had a Knight fork!} 20. Rxc4 dxc4 21. Qxc4 (21. Qc3) 21... Nxe3)
+20. Qxe3 Rc4 21. Rxc4 dxc4 22. Qc3 Qc6 23. Rc1 b5 24. Nh4 Nb6
+(24... Bxg5 {The Knight in my position is too strong and need to get rid of it. I'm not seeing the danger of letting enemy pieces in my house} 25. fxg5)
+25. Qg3 Nd5??
+(25... Qd7 {Supports f5. I just don't see these important defensive moves} 26. f5 exf5 27. e6 fxe6 28. Nxg6 Kxg6 29. Nxe6+ Kf7 30. Qg7+ Kxe6 31. Qxh8 Kd5 32. Qe5+ Kc6)
+(25... Rg8 26. f5 exf5 27. Nxf5+ gxf5 28. Nf3+ Qg6)
+26. f5 Bxg5 27. Qxg5 Rh6
+(27... Qe8 {Supports g6 and e6})
+28. fxe6 Qxe6?? {During game I thought this was the only move. It was ultimate downfall of position}
+(28... fxe6! 29. Rf1 Qe8)
+29. Rf1
+

@@ -1,0 +1,64 @@
+[Event "?"]
+[Site "Pittsburgh, PA"]
+[Date "2019.02.23"]
+[Round "?"]
+[White "Cantalupo, Paul"]
+[Black "Standley, Ron"]
+[Result "1-0"]
+[WhiteUSCF "1550"]
+[BlackUSCF "1950"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[Variation "London System"]
+[Skittles "No clock"]
+[Lichess "https://lichess.org/f5e9JvOR"]
+[Annotator "Stockfish 9 64"]
+[Depth "17"]
+{ I annotated this with SCID }
+1.d4 d5 D 2.Bf4 = 
+    ( 2.c4 e6 3.cxd5 exd5 4.Bf4 Nf6 5.e3 c5 6.Nc3 c4 7.Be2 Nc6 8.Nf3 Bb4 
+    9.Bg5 Bxc3+ 10.bxc3 Qa5 11.O-O Qxc3 = )
+2...Nf6 D 3.e3 = 
+    {-0.12 / +0.26}
+    ( 3.c4 c5 4.dxc5 e6 5.e3 Bxc5 6.Nf3 O-O 7.Nc3 Nc6 8.Be2 Qb6 9.O-O dxc4
+    10.Rb1 Qa5 11.a3 Re8 = )
+3...c6 D 4.Bd3 = 
+    {+0.14 / +0.56}
+    ( 4.Nf3 Bf5 5.Bd3 Bxd3 6.Qxd3 e6 7.Nbd2 Nbd7 8.O-O Be7 9.c4 Nh5 10.
+    Rae1 O-O 11.h3 Nxf4 12.exf4 += )
+4...Bg4 D 5.Nf3?! = 
+    {-0.02 / +0.50}
+    ( 5.Ne2 Bxe2 6.Qxe2 e6 7.O-O Bd6 8.Bxd6 Qxd6 9.Nd2 Nbd7 10.c4 e5 11.
+    cxd5 cxd5 12.dxe5 Nxe5 13.Bb5+ Ned7 14.Bxd7+ Nxd7 15.Nf3 += )
+5...e6 D 6.Nbd2 = 
+    {+0.16 / +0.32}
+    ( 6.O-O Bd6 7.h3 Bxf3 8.Qxf3 Bxf4 9.Qxf4 Nbd7 10.Nd2 Qb8 11.Qxb8+ Rxb8
+    12.c4 Ke7 13.Rac1 Rbc8 14.g4 h6 15.Kg2 e5 16.cxd5 cxd5 = )
+6...Bd6 D 7.c3?! = 
+    {-0.08 / +0.45}
+    ( 7.h3 Bxf3 8.Nxf3 Bxf4 9.exf4 O-O 
+        ( 9...Qc7 10.Qd2 {Another way to guard f4} )
+    10.c3 Nbd7 11.O-O Qb6 12.Rb1 c5 13.Re1 c4 14.Bc2 Qa6 15.Ra1 g6 16.Ne5 
+    Kg7 17.Nxd7 = )
+7...Bxf4 8.exf4 Qc7 D 9.g3 = 
+    {+0.00 / +0.37  Too passive. Instead attack b7 or bishop!!}
+    ( 9.Qb3 {Can play more aggressive here. If you capture the Rook you 
+    have to give up Knight and two pawns unless you want your Queen 
+    trapped after Qc7!
+    } 9...Qxf4 10.Qxb7 O-O 11.Qxa8 Bxf3 12.Qxa7 Bxg2 13.Rg1 Qxh2 14.O-O-O 
+    )
+    ( 9.h3 Bf5 
+        ( 9...Bxf3 10.Qxf3 )
+    10.Bxf5 exf5 11.O-O O-O 12.Ne5 Nbd7 13.a4 Ne4 14.a5 Rfe8 15.a6 Rab8 
+    16.axb7 Nxe5 17.fxe5 Rxb7 18.Nxe4 fxe4 19.b4 f6 20.exf6 = )
+9...O-O 10.h3 Bh5 D 11.g4?! = 
+    {-0.17 / +0.36}
+    ( 11.Qe2 c5 12.Qe3 c4 13.Bc2 Nc6 14.g4 Bg6 15.Bxg6 hxg6 16.O-O Nd7 17.
+    Ne5 b5 18.Rae1 a5 19.Nxg6 fxg6 20.Qxe6+ Kh7 21.Qxd5 = )
+11...Nxg4 12.hxg4 Bxg4 13.Bxh7+ Kh8 14.Bf5+ Kg8 15.Bxg4 Qxf4 16.Qc2 f5 17.
+O-O-O Qxg4 18.Ne5 Qf4 19.Ng6 Qxf2 20.Nxf8 Kxf8 21.Rh8+ Kf7 22.Rdh1 
+    ( 22.Rdh1 { 17:+9.51} 22...Ke7 23.Rf1 Qe2 24.Qb3 b6 25.Qa3+ c5 26.dxc5
+    Qa6 27.Qxa6 Nxa6 28.Rxa8 Nxc5 29.Rg1 g5 30.Rxg5 a5 31.Rg7+ Kf6 32.Rag8
+    Ne4 33.Nxe4+ fxe4 34.Rb7 e5 35.Rxb6+ Kf7 )
+1-0
+
